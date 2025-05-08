@@ -1,0 +1,198 @@
+[
+    {
+        "group": "Next Month",
+        "sku": "ACC-HYTE-LN-60-B",
+        "description": "[BLK] HYTE NOODLE LN60",
+        "eta": "2025-05-30",
+        "communicated_date": "early June"
+    },
+    {
+        "group": "Next Month",
+        "sku": "ACC-HYTE-LN-60-W",
+        "description": "[WHT] HYTE NOODLE LN60",
+        "eta": "2025-05-30",
+        "communicated_date": "early June"
+    },
+    {
+        "group": "This Month",
+        "sku": "ACC-HYTE-LN-70-B",
+        "description": "[BLK] HYTE NOODLE LN70",
+        "eta": "2025-05-23",
+        "communicated_date": "late May"
+    },
+    {
+        "group": "This Month",
+        "sku": "ACC-HYTE-LN-70-W",
+        "description": "[WHT] HYTE NOODLE LN70",
+        "eta": "2025-05-23",
+        "communicated_date": "late May"
+    },
+    {
+        "group": "2+ Months Out",
+        "sku": "ACC-HYTE-METAPHOR-KC",
+        "description": "HYTE METAPHOR ACRYLIC KEYCHAIN",
+        "eta": "None",
+        "communicated_date": "July"
+    },
+    {
+        "group": "2+ Months Out",
+        "sku": "ACC-HYTE-METAPHOR-WS",
+        "description": "HYTE METAPHOR WALL SCROLL",
+        "eta": "None",
+        "communicated_date": "July"
+    },
+    {
+        "group": "This Month",
+        "sku": "ACC-HYTE-SPF-1700-BB",
+        "description": null,
+        "eta": "None",
+        "communicated_date": "late May"
+    },
+    {
+        "group": "This Month",
+        "sku": "ACC-HYTE-SPF-1700-WW",
+        "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET 1700",
+        "eta": "None",
+        "communicated_date": "late May"
+    },
+    {
+        "group": "This Month",
+        "sku": "ACC-HYTE-SPF-1851-BB",
+        "description": "[PITCH BLACK] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET 1851",
+        "eta": "None",
+        "communicated_date": "late May"
+    },
+    {
+        "group": "This Month",
+        "sku": "ACC-HYTE-SPF-1851-WW",
+        "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET 1851",
+        "eta": "None",
+        "communicated_date": "late May"
+    },
+    {
+        "group": "This Month",
+        "sku": "ACC-HYTE-SPF-AM5-BB",
+        "description": null,
+        "eta": "None",
+        "communicated_date": "late May"
+    },
+    {
+        "group": "This Month",
+        "sku": "ACC-HYTE-SPF-AM5-RR",
+        "description": "[CHERRY] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
+        "eta": "None",
+        "communicated_date": "late May"
+    },
+    {
+        "group": "This Month",
+        "sku": "ACC-HYTE-SPF-AM5-SM",
+        "description": "[STRAWBERRY MILK] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
+        "eta": "None",
+        "communicated_date": "late May"
+    },
+    {
+        "group": "This Month",
+        "sku": "ACC-HYTE-SPF-AM5-TM",
+        "description": "[TARO MILK] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
+        "eta": "None",
+        "communicated_date": "late May"
+    },
+    {
+        "group": "This Month",
+        "sku": "ACC-HYTE-SPF-AM5-WW",
+        "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
+        "eta": "None",
+        "communicated_date": "late May"
+    },
+    {
+        "group": "2+ Months Out",
+        "sku": "CS-HYTE-Y70-METAPHOR",
+        "description": "HYTE Y70 METAPHOR REFANTAZIO",
+        "eta": "None",
+        "communicated_date": "July"
+    },
+    {
+        "group": "2+ Months Out",
+        "sku": "CS-HYTE-Y70-SUISEI",
+        "description": "HYTE Y70 HOSHIMACHI SUISEI",
+        "eta": "None",
+        "communicated_date": "July"
+    },
+    {
+        "group": "2+ Months Out",
+        "sku": "CS-HYTE-Y70-SUISEI-E",
+        "description": "HYTE Y70 HOSHIMACHI SUISEI - EARLY BIRD",
+        "eta": "None",
+        "communicated_date": "July"
+    },
+    {
+        "group": "This Month",
+        "sku": "CS-HYTE-Y70-TM",
+        "description": "HYTE Y70 TARO MILK",
+        "eta": "2025-05-16",
+        "communicated_date": "early May"
+    },
+    {
+        "group": "TBA",
+        "sku": "FAN-HYTE-Q80T-BB",
+        "description": "5\" [PITCH BLACK] THICC Q80 TRIO LIQUID COOLER",
+        "eta": "None",
+        "communicated_date": "TBA"
+    },
+    {
+        "group": "TBA",
+        "sku": "FAN-HYTE-Q80T-WW",
+        "description": "5\" [SNOW WHITE] THICC Q80 TRIO LIQUID COOLER",
+        "eta": "None",
+        "communicated_date": "TBA"
+    },
+    {
+        "group": "Next Month",
+        "sku": "KEY-HYTE-HOLOGEN4",
+        "description": "HYTE HOLOLIVE GEN 4 KEYCAPS",
+        "eta": "2025-05-30",
+        "communicated_date": "June 2025"
+    },
+    {
+        "group": "2+ Months Out",
+        "sku": "KEY-HYTE-METAPHOR",
+        "description": "HYTE METAPHOR KEYCAPS",
+        "eta": "None",
+        "communicated_date": "August"
+    },
+    {
+        "group": "2+ Months Out",
+        "sku": "KEY-HYTE-SUISEI",
+        "description": "HYTE HOSHIMACHI SUISEI KEYCAP BUNDLE",
+        "eta": "2025-06-06",
+        "communicated_date": "July"
+    },
+    {
+        "group": "2+ Months Out",
+        "sku": "KEY-HYTE-SUISEI-EB",
+        "description": "HYTE HOSHIMACHI SUISEI KEYCAP BUNDLE - EARLY BIRD",
+        "eta": "2025-06-06",
+        "communicated_date": "July"
+    },
+    {
+        "group": "2+ Months Out",
+        "sku": "MOU-HYTE-METAPHOR-1",
+        "description": "HYTE DESK MAT - METAPHOR 1",
+        "eta": "2025-05-30",
+        "communicated_date": "July"
+    },
+    {
+        "group": "2+ Months Out",
+        "sku": "MOU-HYTE-METAPHOR-2",
+        "description": "HYTE DESK MAT - METAPHOR 2",
+        "eta": "2025-05-30",
+        "communicated_date": "July"
+    },
+    {
+        "group": "2+ Months Out",
+        "sku": "MOU-HYTE-METAPHOR-3",
+        "description": "HYTE DESK MAT - METAPHOR 3",
+        "eta": "2025-05-30",
+        "communicated_date": "July"
+    }
+]
