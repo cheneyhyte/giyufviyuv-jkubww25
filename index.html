@@ -71,21 +71,24 @@
                 if (!grouped[item.group]) grouped[item.group] = [];
                 grouped[item.group].push(item);
             });
-
+    
             const container = document.getElementById("container");
             container.innerHTML = "";
-
-            for (const groupName in grouped) {
+    
+            const groupOrder = ["This Month", "Next Month", "2+ Months Out"];
+            groupOrder.forEach(groupName => {
+                if (!grouped[groupName]) return;
+    
                 // Accordion Button
                 const btn = document.createElement("button");
                 btn.className = "accordion";
                 btn.textContent = groupName;
                 container.appendChild(btn);
-
+    
                 // Panel with table
                 const panel = document.createElement("div");
                 panel.className = "panel";
-
+    
                 const table = document.createElement("table");
                 const thead = document.createElement("thead");
                 thead.innerHTML = `
@@ -97,7 +100,7 @@
                     </tr>
                 `;
                 table.appendChild(thead);
-
+    
                 const tbody = document.createElement("tbody");
                 grouped[groupName].forEach(item => {
                     const row = document.createElement("tr");
@@ -112,9 +115,9 @@
                 table.appendChild(tbody);
                 panel.appendChild(table);
                 container.appendChild(panel);
-            }
-
-            // Add accordion behavior
+            }); // <-- FIXED: closing the forEach here
+    
+            // ✅ Add accordion behavior
             const acc = document.getElementsByClassName("accordion");
             for (let i = 0; i < acc.length; i++) {
                 acc[i].addEventListener("click", function () {
@@ -129,5 +132,6 @@
             console.error(err);
         });
     </script>
+    
 </body>
 </html>
