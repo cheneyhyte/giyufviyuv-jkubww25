@@ -5,52 +5,38 @@
   <title>Inbound Timeline Viewer</title>
   <style>
     body {
-      font-family: sans-serif;
-      padding: 20px;
-      background: #1e1e1e;
-      color: #f0f0f0;
+    font-family: "Segoe UI", "Arial", sans-serif;
+    font-weight: 600; /* semi-bold for base text */
+    padding: 20px;
+    background: #1e1e1e;
+    color: #f0f0f0;
     }
 
     h1 {
-      font-size: 1.5em;
-      color: #ffffff;
+    font-size: 1.5em;
+    font-weight: 700; /* bold for header */
+    color: #ffffff;
     }
 
     .accordion {
-      background-color: rgb(255, 182, 26);
-      color: rgb(0, 43, 73);
-      cursor: pointer;
-      padding: 14px;
-      margin-bottom: 5px;
-      width: 100%;
-      border: none;
-      text-align: left;
-      font-size: 1em;
-      border-radius: 6px;
-      transition: background-color 0.2s ease;
-    }
-
-    .accordion:hover {
-      background-color: rgb(230, 165, 20);
-    }
-
-    .panel {
-      display: none;
-      overflow: hidden;
-      margin-bottom: 20px;
-    }
-
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      background: #2c2c2c;
-      border-radius: 6px;
-      overflow: hidden;
+    background-color: rgb(255, 182, 26);
+    color: rgb(0, 43, 73);
+    font-weight: 700; /* make button text bold */
+    cursor: pointer;
+    padding: 14px;
+    margin-bottom: 5px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    font-size: 1em;
+    border-radius: 6px;
+    transition: background-color 0.2s ease;
     }
 
     th, td {
-      padding: 10px;
-      text-align: left;
+    font-weight: 600;
+    padding: 10px;
+    text-align: left;
     }
 
     th {
@@ -84,7 +70,7 @@
         const container = document.getElementById("container");
         container.innerHTML = "";
 
-        const groupOrder = ["This Month", "Next Month", "2+ Months Out"];
+        const groupOrder = ["This Month", "Next Month", "2+ Months Out", "TBA"];
         groupOrder.forEach(groupName => {
           if (!grouped[groupName]) return;
 
