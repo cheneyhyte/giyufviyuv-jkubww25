@@ -1,137 +1,144 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="utf-8">
-    <title>Inbound Timeline Viewer</title>
-    <style>
-        body { font-family: sans-serif; padding: 20px; background: #f5f5f5; }
-        h1 { font-size: 1.5em; color: #444; }
+  <meta charset="utf-8">
+  <title>Inbound Timeline Viewer</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 20px;
+      background: #1e1e1e;
+      color: #f0f0f0;
+    }
 
-        .accordion {
-            background-color: #0078d4;
-            color: white;
-            cursor: pointer;
-            padding: 14px;
-            margin-bottom: 5px;
-            width: 100%;
-            border: none;
-            text-align: left;
-            font-size: 1em;
-            border-radius: 6px;
-            transition: background-color 0.2s ease;
-        }
+    h1 {
+      font-size: 1.5em;
+      color: #ffffff;
+    }
 
-        .accordion:hover {
-            background-color: #005a9e;
-        }
+    .accordion {
+      background-color: rgb(255, 182, 26);
+      color: rgb(0, 43, 73);
+      cursor: pointer;
+      padding: 14px;
+      margin-bottom: 5px;
+      width: 100%;
+      border: none;
+      text-align: left;
+      font-size: 1em;
+      border-radius: 6px;
+      transition: background-color 0.2s ease;
+    }
 
-        .panel {
-            display: none;
-            overflow: hidden;
-            margin-bottom: 20px;
-        }
+    .accordion:hover {
+      background-color: rgb(230, 165, 20);
+    }
 
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            background: white;
-            box-shadow: 0 1px 4px rgba(0,0,0,0.1);
-            border-radius: 6px;
-            overflow: hidden;
-        }
+    .panel {
+      display: none;
+      overflow: hidden;
+      margin-bottom: 20px;
+    }
 
-        th, td {
-            padding: 10px;
-            text-align: left;
-        }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: #2c2c2c;
+      border-radius: 6px;
+      overflow: hidden;
+    }
 
-        th {
-            background-color: #f0f0f0;
-            color: #333;
-            font-weight: bold;
-            border-bottom: 2px solid #ddd;
-        }
+    th, td {
+      padding: 10px;
+      text-align: left;
+    }
 
-        td {
-            border-bottom: 1px solid #eee;
-        }
-    </style>
+    th {
+      background-color: #3a3a3a;
+      color: #f0f0f0;
+      font-weight: bold;
+      border-bottom: 2px solid #555;
+    }
+
+    td {
+      border-bottom: 1px solid #444;
+      color: #e0e0e0;
+    }
+  </style>
 </head>
 <body>
-    <h1>Inbound Product Timeline</h1>
-    <div id="container">Loading data...</div>
+  <h1>Inbound Product Timeline</h1>
+  <div id="container">Loading data...</div>
 
-    <script>
-        const jsonUrl = "Inbound_Timeline.json?v=" + new Date().getTime();
-        fetch(jsonUrl)
-        .then(response => response.json())
-        .then(data => {
-            const grouped = {};
-            data.forEach(item => {
-                if (!grouped[item.group]) grouped[item.group] = [];
-                grouped[item.group].push(item);
-            });
-    
-            const container = document.getElementById("container");
-            container.innerHTML = "";
-    
-            const groupOrder = ["This Month", "Next Month", "2+ Months Out","TBA"];
-            groupOrder.forEach(groupName => {
-                if (!grouped[groupName]) return;
-    
-                // Accordion Button
-                const btn = document.createElement("button");
-                btn.className = "accordion";
-                btn.textContent = groupName;
-                container.appendChild(btn);
-    
-                // Panel with table
-                const panel = document.createElement("div");
-                panel.className = "panel";
-    
-                const table = document.createElement("table");
-                const thead = document.createElement("thead");
-                thead.innerHTML = `
-                    <tr>
-                        <th>SKU</th>
-                        <th>Description</th>
-                        <th>ETA</th>
-                        <th>Communicated Date</th>
-                    </tr>
-                `;
-                table.appendChild(thead);
-    
-                const tbody = document.createElement("tbody");
-                grouped[groupName].forEach(item => {
-                    const row = document.createElement("tr");
-                    row.innerHTML = `
-                        <td>${item.sku}</td>
-                        <td>${item.description}</td>
-                        <td>${item.eta || "-"}</td>
-                        <td>${item.communicated_date}</td>
-                    `;
-                    tbody.appendChild(row);
-                });
-                table.appendChild(tbody);
-                panel.appendChild(table);
-                container.appendChild(panel);
-            }); // <-- FIXED: closing the forEach here
-    
-            // ✅ Add accordion behavior
-            const acc = document.getElementsByClassName("accordion");
-            for (let i = 0; i < acc.length; i++) {
-                acc[i].addEventListener("click", function () {
-                    this.classList.toggle("active");
-                    const panel = this.nextElementSibling;
-                    panel.style.display = panel.style.display === "block" ? "none" : "block";
-                });
-            }
-        })
-        .catch(err => {
-            document.getElementById("container").textContent = "Failed to load data.";
-            console.error(err);
+  <script>
+    const jsonUrl = "Inbound_Timeline.json?v=" + new Date().getTime();
+    fetch(jsonUrl)
+      .then(response => response.json())
+      .then(data => {
+        const grouped = {};
+        data.forEach(item => {
+          if (!grouped[item.group]) grouped[item.group] = [];
+          grouped[item.group].push(item);
         });
-    </script>
-    
+
+        const container = document.getElementById("container");
+        container.innerHTML = "";
+
+        const groupOrder = ["This Month", "Next Month", "2+ Months Out"];
+        groupOrder.forEach(groupName => {
+          if (!grouped[groupName]) return;
+
+          const btn = document.createElement("button");
+          btn.className = "accordion";
+          btn.textContent = groupName;
+          container.appendChild(btn);
+
+          const panel = document.createElement("div");
+          panel.className = "panel";
+
+          const table = document.createElement("table");
+          const thead = document.createElement("thead");
+          thead.innerHTML = `
+            <tr>
+              <th>SKU</th>
+              <th>Description</th>
+              <th>ETA</th>
+              <th>Communicated Date</th>
+            </tr>
+          `;
+          table.appendChild(thead);
+
+          const tbody = document.createElement("tbody");
+          grouped[groupName].forEach(item => {
+            const row = document.createElement("tr");
+            row.innerHTML = `
+              <td>${item.sku}</td>
+              <td>${item.description}</td>
+              <td>${item.eta || "-"}</td>
+              <td>${item.communicated_date}</td>
+            `;
+            tbody.appendChild(row);
+          });
+
+          table.appendChild(tbody);
+          panel.appendChild(table);
+          container.appendChild(panel);
+        });
+
+        // Accordion behavior
+        const acc = document.getElementsByClassName("accordion");
+        for (let i = 0; i < acc.length; i++) {
+          acc[i].addEventListener("click", function () {
+            this.classList.toggle("active");
+            const panel = this.nextElementSibling;
+            panel.style.display = panel.style.display === "block" ? "none" : "block";
+          });
+        }
+      })
+      .catch(err => {
+        document.getElementById("container").textContent = "Failed to load data.";
+        console.error(err);
+      });
+  </script>
 </body>
 </html>
