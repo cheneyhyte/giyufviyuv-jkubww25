@@ -187,5 +187,12 @@
         "description": "HYTE DESK MAT - METAPHOR 3",
         "eta": "2025-05-30",
         "communicated_date": "July"
+    },
+    {
+        "group": "TBA",
+        "sku": "hhkkjk",
+        "description": null,
+        "eta": "None",
+        "communicated_date": null
     }
 ]
