@@ -5,7 +5,7 @@
         "description": "[BLK] HYTE NOODLE LN60",
         "eta": "2025-05-30",
         "communicated_date": "early June",
-        "quantity": 240.0
+        "quantity": 240
     },
     {
         "group": "Next Month",
@@ -13,7 +13,7 @@
         "description": "[WHT] HYTE NOODLE LN60",
         "eta": "2025-05-30",
         "communicated_date": "early June",
-        "quantity": 240.0
+        "quantity": 240
     },
     {
         "group": "This Month",
@@ -21,7 +21,7 @@
         "description": "[BLK] HYTE NOODLE LN70",
         "eta": "2025-05-30",
         "communicated_date": "late May",
-        "quantity": 240.0
+        "quantity": 240
     },
     {
         "group": "This Month",
@@ -29,7 +29,7 @@
         "description": "[WHT] HYTE NOODLE LN70",
         "eta": "2025-05-30",
         "communicated_date": "late May",
-        "quantity": 240.0
+        "quantity": 240
     },
     {
         "group": "2+ Months Out",
@@ -37,7 +37,7 @@
         "description": "HYTE METAPHOR ACRYLIC KEYCHAIN",
         "eta": "2025-06-20",
         "communicated_date": "July",
-        "quantity": 980.0
+        "quantity": 980
     },
     {
         "group": "2+ Months Out",
@@ -45,7 +45,7 @@
         "description": "HYTE METAPHOR WALL SCROLL",
         "eta": "None",
         "communicated_date": "July",
-        "quantity": 2180.0
+        "quantity": 2180
     },
     {
         "group": "Next Month",
@@ -53,7 +53,7 @@
         "description": null,
         "eta": "None",
         "communicated_date": "late June",
-        "quantity": 0.0
+        "quantity": 0
     },
     {
         "group": "Next Month",
@@ -61,7 +61,7 @@
         "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET 1700",
         "eta": "None",
         "communicated_date": "late June",
-        "quantity": 240.0
+        "quantity": 240
     },
     {
         "group": "Next Month",
@@ -69,7 +69,7 @@
         "description": "[PITCH BLACK] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET 1851",
         "eta": "None",
         "communicated_date": "late June",
-        "quantity": 240.0
+        "quantity": 240
     },
     {
         "group": "Next Month",
@@ -77,7 +77,7 @@
         "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET 1851",
         "eta": "None",
         "communicated_date": "late June",
-        "quantity": 240.0
+        "quantity": 240
     },
     {
         "group": "Next Month",
@@ -85,7 +85,7 @@
         "description": null,
         "eta": "None",
         "communicated_date": "late June",
-        "quantity": 0.0
+        "quantity": 0
     },
     {
         "group": "Next Month",
@@ -93,7 +93,7 @@
         "description": "[CHERRY] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
         "eta": "None",
         "communicated_date": "late June",
-        "quantity": 240.0
+        "quantity": 240
     },
     {
         "group": "Next Month",
@@ -101,7 +101,7 @@
         "description": "[STRAWBERRY MILK] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
         "eta": "None",
         "communicated_date": "late June",
-        "quantity": 240.0
+        "quantity": 240
     },
     {
         "group": "Next Month",
@@ -109,7 +109,7 @@
         "description": "[TARO MILK] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
         "eta": "None",
         "communicated_date": "late June",
-        "quantity": 240.0
+        "quantity": 240
     },
     {
         "group": "Next Month",
@@ -117,7 +117,7 @@
         "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
         "eta": "None",
         "communicated_date": "late June",
-        "quantity": 240.0
+        "quantity": 240
     },
     {
         "group": "2+ Months Out",
@@ -125,7 +125,7 @@
         "description": "HYTE Y70 METAPHOR REFANTAZIO",
         "eta": "None",
         "communicated_date": "July",
-        "quantity": 1000.0
+        "quantity": 1000
     },
     {
         "group": "2+ Months Out",
@@ -133,7 +133,7 @@
         "description": "HYTE Y70 HOSHIMACHI SUISEI",
         "eta": "None",
         "communicated_date": "July",
-        "quantity": 1000.0
+        "quantity": 1000
     },
     {
         "group": "2+ Months Out",
@@ -141,7 +141,7 @@
         "description": "HYTE Y70 HOSHIMACHI SUISEI - EARLY BIRD",
         "eta": "None",
         "communicated_date": "July",
-        "quantity": 700.0
+        "quantity": 700
     },
     {
         "group": "TBA",
@@ -149,7 +149,7 @@
         "description": "5\" [PITCH BLACK] THICC Q80 TRIO LIQUID COOLER",
         "eta": "None",
         "communicated_date": "TBA",
-        "quantity": 201.0
+        "quantity": 201
     },
     {
         "group": "TBA",
@@ -157,7 +157,7 @@
         "description": "5\" [SNOW WHITE] THICC Q80 TRIO LIQUID COOLER",
         "eta": "None",
         "communicated_date": "TBA",
-        "quantity": 201.0
+        "quantity": 201
     },
     {
         "group": "Next Month",
@@ -165,7 +165,7 @@
         "description": "HYTE HOLOLIVE GEN 4 KEYCAPS",
         "eta": "2025-05-30",
         "communicated_date": "June 2025",
-        "quantity": 500.0
+        "quantity": 500
     },
     {
         "group": "2+ Months Out",
@@ -173,7 +173,7 @@
         "description": "HYTE METAPHOR KEYCAPS",
         "eta": "None",
         "communicated_date": "August",
-        "quantity": 800.0
+        "quantity": 800
     },
     {
         "group": "2+ Months Out",
@@ -181,7 +181,7 @@
         "description": "HYTE HOSHIMACHI SUISEI KEYCAP BUNDLE",
         "eta": "2025-06-06",
         "communicated_date": "July",
-        "quantity": 200.0
+        "quantity": 200
     },
     {
         "group": "2+ Months Out",
@@ -189,7 +189,7 @@
         "description": "HYTE HOSHIMACHI SUISEI KEYCAP BUNDLE - EARLY BIRD",
         "eta": "2025-06-06",
         "communicated_date": "July",
-        "quantity": 200.0
+        "quantity": 200
     },
     {
         "group": "2+ Months Out",
@@ -197,7 +197,7 @@
         "description": "HYTE DESK MAT - METAPHOR 1",
         "eta": "2025-05-30",
         "communicated_date": "July",
-        "quantity": 400.0
+        "quantity": 400
     },
     {
         "group": "2+ Months Out",
@@ -205,7 +205,7 @@
         "description": "HYTE DESK MAT - METAPHOR 2",
         "eta": "2025-05-30",
         "communicated_date": "July",
-        "quantity": 400.0
+        "quantity": 400
     },
     {
         "group": "2+ Months Out",
@@ -213,6 +213,6 @@
         "description": "HYTE DESK MAT - METAPHOR 3",
         "eta": "2025-05-30",
         "communicated_date": "July",
-        "quantity": 400.0
+        "quantity": 400
     }
 ]
