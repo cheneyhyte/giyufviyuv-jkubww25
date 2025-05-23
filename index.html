@@ -111,6 +111,7 @@
                             <th>Description</th>
                             <th>ETA</th>
                             <th>Communicated Date</th>
+                            <th>Quantity</th>
                         </tr>
                     `;
                     table.appendChild(thead);
@@ -123,6 +124,7 @@
                             <td>${item.description}</td>
                             <td>${item.eta || "-"}</td>
                             <td>${item.communicated_date}</td>
+                            <td>${item.quantity || "-"}</td>
                         `;
                         tbody.appendChild(row);
                     });
