@@ -2,34 +2,34 @@
     {
         "group": "Next Month",
         "sku": "ACC-HYTE-LN-60-B",
-        "description": "[BLK] HYTE NOODLE LN60",
-        "eta": "2025-05-30",
+        "description": null,
+        "eta": "None",
         "communicated_date": "early June",
-        "quantity": 240
+        "quantity": "-"
     },
     {
         "group": "Next Month",
         "sku": "ACC-HYTE-LN-60-W",
-        "description": "[WHT] HYTE NOODLE LN60",
-        "eta": "2025-05-30",
+        "description": null,
+        "eta": "None",
         "communicated_date": "early June",
-        "quantity": 240
+        "quantity": "-"
     },
     {
         "group": "This Month",
         "sku": "ACC-HYTE-LN-70-B",
         "description": "[BLK] HYTE NOODLE LN70",
-        "eta": "2025-05-30",
+        "eta": "None",
         "communicated_date": "late May",
-        "quantity": 240
+        "quantity": 200
     },
     {
         "group": "This Month",
         "sku": "ACC-HYTE-LN-70-W",
         "description": "[WHT] HYTE NOODLE LN70",
-        "eta": "2025-05-30",
+        "eta": "None",
         "communicated_date": "late May",
-        "quantity": 240
+        "quantity": 160
     },
     {
         "group": "2+ Months Out",
@@ -139,15 +139,15 @@
         "group": "2+ Months Out",
         "sku": "CS-HYTE-Y70-SUISEI-E",
         "description": "HYTE Y70 HOSHIMACHI SUISEI - EARLY BIRD",
-        "eta": "None",
+        "eta": "2025-06-30",
         "communicated_date": "July",
-        "quantity": 700
+        "quantity": 5
     },
     {
         "group": "TBA",
         "sku": "FAN-HYTE-Q80T-BB",
         "description": "5\" [PITCH BLACK] THICC Q80 TRIO LIQUID COOLER",
-        "eta": "None",
+        "eta": "2025-06-27",
         "communicated_date": "TBA",
         "quantity": 201
     },
@@ -155,17 +155,17 @@
         "group": "TBA",
         "sku": "FAN-HYTE-Q80T-WW",
         "description": "5\" [SNOW WHITE] THICC Q80 TRIO LIQUID COOLER",
-        "eta": "None",
+        "eta": "2025-06-27",
         "communicated_date": "TBA",
         "quantity": 201
     },
     {
         "group": "Next Month",
         "sku": "KEY-HYTE-HOLOGEN4",
-        "description": "HYTE HOLOLIVE GEN 4 KEYCAPS",
-        "eta": "2025-05-30",
+        "description": null,
+        "eta": "None",
         "communicated_date": "June 2025",
-        "quantity": 500
+        "quantity": "-"
     },
     {
         "group": "2+ Months Out",
@@ -179,40 +179,40 @@
         "group": "2+ Months Out",
         "sku": "KEY-HYTE-SUISEI",
         "description": "HYTE HOSHIMACHI SUISEI KEYCAP BUNDLE",
-        "eta": "2025-06-06",
+        "eta": "2025-06-20",
         "communicated_date": "July",
-        "quantity": 200
+        "quantity": 300
     },
     {
         "group": "2+ Months Out",
         "sku": "KEY-HYTE-SUISEI-EB",
         "description": "HYTE HOSHIMACHI SUISEI KEYCAP BUNDLE - EARLY BIRD",
-        "eta": "2025-06-06",
+        "eta": "2025-06-20",
         "communicated_date": "July",
-        "quantity": 200
+        "quantity": 400
     },
     {
         "group": "2+ Months Out",
         "sku": "MOU-HYTE-METAPHOR-1",
-        "description": "HYTE DESK MAT - METAPHOR 1",
-        "eta": "2025-05-30",
+        "description": null,
+        "eta": "None",
         "communicated_date": "July",
-        "quantity": 400
+        "quantity": "-"
     },
     {
         "group": "2+ Months Out",
         "sku": "MOU-HYTE-METAPHOR-2",
-        "description": "HYTE DESK MAT - METAPHOR 2",
-        "eta": "2025-05-30",
+        "description": null,
+        "eta": "None",
         "communicated_date": "July",
-        "quantity": 400
+        "quantity": "-"
     },
     {
         "group": "2+ Months Out",
         "sku": "MOU-HYTE-METAPHOR-3",
-        "description": "HYTE DESK MAT - METAPHOR 3",
-        "eta": "2025-05-30",
+        "description": null,
+        "eta": "None",
         "communicated_date": "July",
-        "quantity": 400
+        "quantity": "-"
     }
 ]
