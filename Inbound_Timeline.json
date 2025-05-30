@@ -1,37 +1,5 @@
 [
     {
-        "group": "Next Month",
-        "sku": "ACC-HYTE-LN-60-B",
-        "description": null,
-        "eta": "None",
-        "communicated_date": "early June",
-        "quantity": "-"
-    },
-    {
-        "group": "Next Month",
-        "sku": "ACC-HYTE-LN-60-W",
-        "description": null,
-        "eta": "None",
-        "communicated_date": "early June",
-        "quantity": "-"
-    },
-    {
-        "group": "This Month",
-        "sku": "ACC-HYTE-LN-70-B",
-        "description": "[BLK] HYTE NOODLE LN70",
-        "eta": "None",
-        "communicated_date": "late May",
-        "quantity": 200
-    },
-    {
-        "group": "This Month",
-        "sku": "ACC-HYTE-LN-70-W",
-        "description": "[WHT] HYTE NOODLE LN70",
-        "eta": "None",
-        "communicated_date": "late May",
-        "quantity": 160
-    },
-    {
         "group": "2+ Months Out",
         "sku": "ACC-HYTE-METAPHOR-KC",
         "description": "HYTE METAPHOR ACRYLIC KEYCHAIN",
@@ -43,7 +11,7 @@
         "group": "2+ Months Out",
         "sku": "ACC-HYTE-METAPHOR-WS",
         "description": "HYTE METAPHOR WALL SCROLL",
-        "eta": "None",
+        "eta": "2025-06-30",
         "communicated_date": "July",
         "quantity": 2180
     },
@@ -131,9 +99,9 @@
         "group": "2+ Months Out",
         "sku": "CS-HYTE-Y70-SUISEI",
         "description": "HYTE Y70 HOSHIMACHI SUISEI",
-        "eta": "None",
+        "eta": "2025-06-30",
         "communicated_date": "July",
-        "quantity": 1000
+        "quantity": 380
     },
     {
         "group": "2+ Months Out",
@@ -171,7 +139,7 @@
         "group": "2+ Months Out",
         "sku": "KEY-HYTE-METAPHOR",
         "description": "HYTE METAPHOR KEYCAPS",
-        "eta": "None",
+        "eta": "2025-06-30",
         "communicated_date": "August",
         "quantity": 800
     },
