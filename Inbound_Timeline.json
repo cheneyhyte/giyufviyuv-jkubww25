@@ -141,7 +141,23 @@
         "description": "HYTE HOSHIMACHI SUISEI KEYCAP BUNDLE",
         "eta": "2025-06-20",
         "communicated_date": "July",
-        "quantity": 300
+        "quantity": 600
+    },
+    {
+        "group": "Next Month",
+        "sku": "KEY-HYTE-SUISEI-EB",
+        "description": "HYTE HOSHIMACHI SUISEI KEYCAP BUNDLE - EARLY BIRD",
+        "eta": "2025-06-20",
+        "communicated_date": "July",
+        "quantity": 400
+    },
+    {
+        "group": "Next Month",
+        "sku": "MOU-HYTE-METAPHOR-1",
+        "description": null,
+        "eta": "None",
+        "communicated_date": "July",
+        "quantity": "-"
     },
     {
         "group": "Next Month",
