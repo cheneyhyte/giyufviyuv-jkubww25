@@ -89,10 +89,16 @@
                 const container = document.getElementById("container");
                 container.innerHTML = "";
 
-                const groupOrder = ["This Month", "Next Month", "2+ Months Out", "TBA", "OOS"];
+                const groupOrder = ["This Month", "Next Month", "2+ Months Out", "TBA", "Out of Stocks"];
                 groupOrder.forEach((groupName, index) => {
                     if (!grouped[groupName]) return;
-
+                    
+                    // Add spacing before "Out of Stocks"
+                    if (groupName === "Out of Stocks") {
+                        const spacer = document.createElement("div");
+                        spacer.style.marginTop = "40px"; // Adjust height as needed
+                        container.appendChild(spacer);
+                    }
                     // Accordion Button
                     const btn = document.createElement("button");
                     btn.className = "accordion";
@@ -133,7 +139,8 @@
                     container.appendChild(panel);
 
                     // Expand first group by default
-                    if (index === 0) {
+                    const expandGroups = ["This Month", "Out of Stocks"];
+                    if (expandGroups.includes(groupName)) {
                         panel.style.display = "block";
                         btn.classList.add("active");
                     }
