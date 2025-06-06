@@ -1,6 +1,6 @@
 [
     {
-        "group": "TBA",
+        "group": "OOS",
         "sku": "ACC-HYTE-LS10-B-3NP",
         "description": "[BLK] LS10 LED STRIP 3 PACK WITH  NP50",
         "eta": "2025-06-30",
@@ -8,7 +8,7 @@
         "quantity": 210
     },
     {
-        "group": "TBA",
+        "group": "OOS",
         "sku": "ACC-HYTE-LS30-B-2NP",
         "description": "[BLK] LS30 LED STRIP 2 PACK WITH NP50",
         "eta": "2025-06-30",
@@ -32,7 +32,7 @@
         "quantity": 2180
     },
     {
-        "group": "TBA",
+        "group": "OOS",
         "sku": "ACC-HYTE-PCIE40-W",
         "description": null,
         "eta": "None",
@@ -120,7 +120,7 @@
         "quantity": 565
     },
     {
-        "group": "TBA",
+        "group": "OOS",
         "sku": "CS-HYTE-Y70-R1-BR",
         "description": null,
         "eta": "None",
@@ -136,7 +136,7 @@
         "quantity": 400
     },
     {
-        "group": "TBA",
+        "group": "OOS",
         "sku": "CS-HYTE-Y70-SUISEI-E",
         "description": "HYTE Y70 HOSHIMACHI SUISEI - EARLY BIRD",
         "eta": "2025-06-30",
@@ -144,7 +144,7 @@
         "quantity": 5
     },
     {
-        "group": "TBA",
+        "group": "OOS",
         "sku": "FAN-HYTE-FP12-BW-3",
         "description": null,
         "eta": "None",
@@ -152,7 +152,7 @@
         "quantity": "-"
     },
     {
-        "group": "TBA",
+        "group": "OOS",
         "sku": "FAN-HYTE-Q80T-BB",
         "description": "5\" [PITCH BLACK] THICC Q80 TRIO LIQUID COOLER",
         "eta": "2025-06-27",
@@ -160,7 +160,7 @@
         "quantity": 201
     },
     {
-        "group": "TBA",
+        "group": "OOS",
         "sku": "FAN-HYTE-Q80T-WW",
         "description": "5\" [SNOW WHITE] THICC Q80 TRIO LIQUID COOLER",
         "eta": "2025-06-27",
@@ -184,7 +184,7 @@
         "quantity": 400
     },
     {
-        "group": "TBA",
+        "group": "OOS",
         "sku": "MOU-HYTE-KIMIFAERY",
         "description": null,
         "eta": "None",
