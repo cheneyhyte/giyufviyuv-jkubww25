@@ -138,8 +138,8 @@
                     panel.appendChild(table);
                     container.appendChild(panel);
 
-                    // Expand first group by default
-                    const expandGroups = ["This Month", "Out of Stocks"];
+                    // Expand the listed groups by default
+                    const expandGroups = ["This Month", "Next Month", "2+ Months Out", "TBA", "Out of Stocks"];
                     if (expandGroups.includes(groupName)) {
                         panel.style.display = "block";
                         btn.classList.add("active");
