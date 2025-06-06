@@ -35,23 +35,23 @@
         "group": "Out of Stocks",
         "sku": "ACC-HYTE-PCIE40-W",
         "description": null,
-        "eta": "None",
+        "eta": "",
         "communicated_date": null,
-        "quantity": "-"
+        "quantity": 0
     },
     {
         "group": "This Month",
         "sku": "ACC-HYTE-SPF-1700-BB",
         "description": null,
-        "eta": "None",
+        "eta": "",
         "communicated_date": "late June",
-        "quantity": "-"
+        "quantity": 0
     },
     {
         "group": "This Month",
         "sku": "ACC-HYTE-SPF-1700-WW",
         "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET 1700",
-        "eta": "None",
+        "eta": "",
         "communicated_date": "late June",
         "quantity": 240
     },
@@ -59,7 +59,7 @@
         "group": "This Month",
         "sku": "ACC-HYTE-SPF-1851-BB",
         "description": "[PITCH BLACK] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET 1851",
-        "eta": "None",
+        "eta": "",
         "communicated_date": "late June",
         "quantity": 240
     },
@@ -67,7 +67,7 @@
         "group": "This Month",
         "sku": "ACC-HYTE-SPF-1851-WW",
         "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET 1851",
-        "eta": "None",
+        "eta": "",
         "communicated_date": "late June",
         "quantity": 240
     },
@@ -75,15 +75,15 @@
         "group": "This Month",
         "sku": "ACC-HYTE-SPF-AM5-BB",
         "description": null,
-        "eta": "None",
+        "eta": "",
         "communicated_date": "late June",
-        "quantity": "-"
+        "quantity": 0
     },
     {
         "group": "This Month",
         "sku": "ACC-HYTE-SPF-AM5-RR",
         "description": "[CHERRY] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
-        "eta": "None",
+        "eta": "",
         "communicated_date": "late June",
         "quantity": 240
     },
@@ -91,7 +91,7 @@
         "group": "This Month",
         "sku": "ACC-HYTE-SPF-AM5-SM",
         "description": "[STRAWBERRY MILK] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
-        "eta": "None",
+        "eta": "",
         "communicated_date": "late June",
         "quantity": 240
     },
@@ -99,7 +99,7 @@
         "group": "This Month",
         "sku": "ACC-HYTE-SPF-AM5-TM",
         "description": "[TARO MILK] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
-        "eta": "None",
+        "eta": "",
         "communicated_date": "late June",
         "quantity": 240
     },
@@ -107,7 +107,7 @@
         "group": "This Month",
         "sku": "ACC-HYTE-SPF-AM5-WW",
         "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
-        "eta": "None",
+        "eta": "",
         "communicated_date": "late June",
         "quantity": 240
     },
@@ -115,41 +115,41 @@
         "group": "Next Month",
         "sku": "CS-HYTE-Y70-METAPHOR",
         "description": "HYTE Y70 METAPHOR REFANTAZIO",
-        "eta": "2025-07-04",
+        "eta": "2025-07-04, 2025-07-11",
         "communicated_date": "July",
-        "quantity": 565
+        "quantity": 1000
     },
     {
         "group": "Out of Stocks",
         "sku": "CS-HYTE-Y70-R1-BR",
         "description": null,
-        "eta": "None",
+        "eta": "",
         "communicated_date": null,
-        "quantity": "-"
+        "quantity": 0
     },
     {
         "group": "Next Month",
         "sku": "CS-HYTE-Y70-SUISEI",
         "description": "HYTE Y70 HOSHIMACHI SUISEI",
-        "eta": "2025-06-30",
+        "eta": "2025-06-30, 2025-07-04",
         "communicated_date": "July",
-        "quantity": 400
+        "quantity": 1000
     },
     {
         "group": "Out of Stocks",
         "sku": "CS-HYTE-Y70-SUISEI-E",
         "description": "HYTE Y70 HOSHIMACHI SUISEI - EARLY BIRD",
-        "eta": "2025-06-30",
+        "eta": "2025-06-30, 2025-07-04",
         "communicated_date": null,
-        "quantity": 5
+        "quantity": 705
     },
     {
         "group": "Out of Stocks",
         "sku": "FAN-HYTE-FP12-BW-3",
         "description": null,
-        "eta": "None",
+        "eta": "",
         "communicated_date": null,
-        "quantity": "-"
+        "quantity": 0
     },
     {
         "group": "TBA",
@@ -179,9 +179,9 @@
         "group": "Next Month",
         "sku": "KEY-HYTE-SUISEI",
         "description": "HYTE HOSHIMACHI SUISEI KEYCAP BUNDLE",
-        "eta": "2025-06-20",
+        "eta": "2025-06-20, 2025-06-27",
         "communicated_date": "July",
-        "quantity": 300
+        "quantity": 2000
     },
     {
         "group": "Next Month",
@@ -189,38 +189,38 @@
         "description": "HYTE HOSHIMACHI SUISEI KEYCAP BUNDLE - EARLY BIRD",
         "eta": "2025-06-20",
         "communicated_date": "July",
-        "quantity": 400
+        "quantity": 700
     },
     {
         "group": "Out of Stocks",
         "sku": "MOU-HYTE-KIMIFAERY",
         "description": null,
-        "eta": "None",
+        "eta": "",
         "communicated_date": null,
-        "quantity": "-"
+        "quantity": 0
     },
     {
         "group": "Next Month",
         "sku": "MOU-HYTE-METAPHOR-1",
         "description": null,
-        "eta": "None",
+        "eta": "",
         "communicated_date": "July",
-        "quantity": "-"
+        "quantity": 0
     },
     {
         "group": "Next Month",
         "sku": "MOU-HYTE-METAPHOR-2",
         "description": null,
-        "eta": "None",
+        "eta": "",
         "communicated_date": "July",
-        "quantity": "-"
+        "quantity": 0
     },
     {
         "group": "Next Month",
         "sku": "MOU-HYTE-METAPHOR-3",
         "description": null,
-        "eta": "None",
+        "eta": "",
         "communicated_date": "July",
-        "quantity": "-"
+        "quantity": 0
     }
 ]

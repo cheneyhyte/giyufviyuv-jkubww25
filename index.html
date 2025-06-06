@@ -92,7 +92,7 @@
                 const groupOrder = ["This Month", "Next Month", "2+ Months Out", "TBA", "Out of Stocks"];
                 groupOrder.forEach((groupName, index) => {
                     if (!grouped[groupName]) return;
-                    
+
                     // Add spacing before "Out of Stocks"
                     if (groupName === "Out of Stocks") {
                         const spacer = document.createElement("div");
@@ -127,9 +127,9 @@
                         const row = document.createElement("tr");
                         row.innerHTML = `
                             <td>${item.sku}</td>
-                            <td>${item.description}</td>
+                            <td>${item.description || "-"}</td>
                             <td>${item.eta || "-"}</td>
-                            <td>${item.communicated_date}</td>
+                            <td>${item.communicated_date || "-"}</td>
                             <td>${item.quantity || "-"}</td>
                         `;
                         tbody.appendChild(row);
