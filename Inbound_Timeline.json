@@ -176,11 +176,35 @@
         "quantity": 240
     },
     {
-        "group": "Out of Stocks",
+        "group": "This Month",
+        "sku": "CS-HYTE-Y70-R1-B",
+        "description": null,
+        "eta": null,
+        "communicated_date": "early-mid June",
+        "quantity": 0
+    },
+    {
+        "group": "This Month",
         "sku": "CS-HYTE-Y70-R1-BR",
         "description": null,
         "eta": null,
-        "communicated_date": null,
+        "communicated_date": "early-mid June",
+        "quantity": 0
+    },
+    {
+        "group": "This Month",
+        "sku": "CS-HYTE-Y70-R1-BW",
+        "description": null,
+        "eta": null,
+        "communicated_date": "early-mid June",
+        "quantity": 0
+    },
+    {
+        "group": "This Month",
+        "sku": "CS-HYTE-Y70-R1-WW",
+        "description": null,
+        "eta": null,
+        "communicated_date": "early-mid June",
         "quantity": 0
     },
     {
