@@ -41,14 +41,6 @@
     },
     {
         "group": "Out of Stocks",
-        "sku": "ACC-HYTE-LS10-B-3NP",
-        "description": "[BLK] LS10 LED STRIP 3 PACK WITH  NP50",
-        "eta": "2025-06-30",
-        "communicated_date": null,
-        "quantity": 210
-    },
-    {
-        "group": "Out of Stocks",
         "sku": "ACC-HYTE-LS30-B-2NP",
         "description": "[BLK] LS30 LED STRIP 2 PACK WITH NP50",
         "eta": "2025-06-30",
