@@ -40,6 +40,22 @@
         "quantity": 201
     },
     {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-LS10-B-3NP",
+        "description": "[BLK] LS10 LED STRIP 3 PACK WITH  NP50",
+        "eta": "2025-06-30",
+        "communicated_date": null,
+        "quantity": 210
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-LS30-B-2NP",
+        "description": "[BLK] LS30 LED STRIP 2 PACK WITH NP50",
+        "eta": "2025-06-30",
+        "communicated_date": null,
+        "quantity": 210
+    },
+    {
         "group": "Next Month",
         "sku": "ACC-HYTE-METAPHOR-WS",
         "description": "HYTE METAPHOR WALL SCROLL",
@@ -160,35 +176,19 @@
         "quantity": 240
     },
     {
-        "group": "This Month",
-        "sku": "CS-HYTE-Y70-R1-B",
-        "description": null,
-        "eta": null,
-        "communicated_date": "early-mid June",
-        "quantity": 0
-    },
-    {
-        "group": "This Month",
+        "group": "Out of Stocks",
         "sku": "CS-HYTE-Y70-R1-BR",
         "description": null,
         "eta": null,
-        "communicated_date": "early-mid June",
+        "communicated_date": null,
         "quantity": 0
     },
     {
-        "group": "This Month",
-        "sku": "CS-HYTE-Y70-R1-BW",
-        "description": null,
-        "eta": null,
-        "communicated_date": "early-mid June",
-        "quantity": 0
-    },
-    {
-        "group": "This Month",
+        "group": "Out of Stocks",
         "sku": "CS-HYTE-Y70-R1-WW",
         "description": null,
         "eta": null,
-        "communicated_date": "early-mid June",
+        "communicated_date": null,
         "quantity": 0
     },
     {
