@@ -177,7 +177,7 @@
     },
     {
         "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y40-MORI",
+        "sku": "CS-HYTE-Y60-R1-B",
         "description": null,
         "eta": null,
         "communicated_date": null,
@@ -210,14 +210,6 @@
     {
         "group": "Out of Stocks",
         "sku": "FAN-HYTE-FP12-BW-3",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "MOU-HYTE-KIMIFAERY",
         "description": null,
         "eta": null,
         "communicated_date": null,
