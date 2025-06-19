@@ -3,7 +3,7 @@
         "group": "Next Month",
         "sku": "ACC-HYTE-METAPHOR-KC",
         "description": "HYTE METAPHOR ACRYLIC KEYCHAIN",
-        "eta": "2025-06-20",
+        "eta": "2025-06-26",
         "communicated_date": "July",
         "quantity": 980
     },
@@ -11,7 +11,7 @@
         "group": "Next Month",
         "sku": "KEY-HYTE-SUISEI-EB",
         "description": "HYTE HOSHIMACHI SUISEI KEYCAP BUNDLE - EARLY BIRD",
-        "eta": "2025-06-20",
+        "eta": "2025-06-26",
         "communicated_date": "July",
         "quantity": 400
     },
@@ -19,49 +19,9 @@
         "group": "Next Month",
         "sku": "KEY-HYTE-SUISEI",
         "description": "HYTE HOSHIMACHI SUISEI KEYCAP BUNDLE",
-        "eta": "2025-06-20, 2025-06-27, 2025-06-30",
+        "eta": "2025-06-26, 2025-06-30",
         "communicated_date": "July",
-        "quantity": 1700
-    },
-    {
-        "group": "TBA",
-        "sku": "FAN-HYTE-Q80T-BB",
-        "description": "5\" [PITCH BLACK] THICC Q80 TRIO LIQUID COOLER",
-        "eta": "2025-06-27",
-        "communicated_date": "TBA",
-        "quantity": 201
-    },
-    {
-        "group": "TBA",
-        "sku": "FAN-HYTE-Q80T-WW",
-        "description": "5\" [SNOW WHITE] THICC Q80 TRIO LIQUID COOLER",
-        "eta": "2025-06-27",
-        "communicated_date": "TBA",
-        "quantity": 201
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "ACC-HYTE-LS10-B-3NP",
-        "description": "[BLK] LS10 LED STRIP 3 PACK WITH  NP50",
-        "eta": "2025-06-30",
-        "communicated_date": null,
-        "quantity": 210
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "ACC-HYTE-LS30-B-2NP",
-        "description": "[BLK] LS30 LED STRIP 2 PACK WITH NP50",
-        "eta": "2025-06-30",
-        "communicated_date": null,
-        "quantity": 210
-    },
-    {
-        "group": "Next Month",
-        "sku": "ACC-HYTE-METAPHOR-WS",
-        "description": "HYTE METAPHOR WALL SCROLL",
-        "eta": "2025-06-30",
-        "communicated_date": "July",
-        "quantity": 2180
+        "quantity": 608
     },
     {
         "group": "2+ Months Out",
@@ -86,6 +46,30 @@
         "eta": "2025-06-30, 2025-07-04",
         "communicated_date": "July",
         "quantity": 705
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-LS10-B-3NP",
+        "description": "[BLK] LS10 LED STRIP 3 PACK WITH  NP50",
+        "eta": "2025-07-07",
+        "communicated_date": null,
+        "quantity": 210
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-LS30-B-2NP",
+        "description": "[BLK] LS30 LED STRIP 2 PACK WITH NP50",
+        "eta": "2025-07-07",
+        "communicated_date": null,
+        "quantity": 210
+    },
+    {
+        "group": "Next Month",
+        "sku": "ACC-HYTE-METAPHOR-WS",
+        "description": "HYTE METAPHOR WALL SCROLL",
+        "eta": "2025-07-07",
+        "communicated_date": "July",
+        "quantity": 2180
     },
     {
         "group": "Next Month",
@@ -213,6 +197,22 @@
         "description": null,
         "eta": null,
         "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "TBA",
+        "sku": "FAN-HYTE-Q80T-BB",
+        "description": null,
+        "eta": null,
+        "communicated_date": "TBA",
+        "quantity": 0
+    },
+    {
+        "group": "TBA",
+        "sku": "FAN-HYTE-Q80T-WW",
+        "description": null,
+        "eta": null,
+        "communicated_date": "TBA",
         "quantity": 0
     },
     {
