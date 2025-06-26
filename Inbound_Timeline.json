@@ -5,7 +5,7 @@
         "description": "[BLK] HYTE NOODLE LN70",
         "eta": "2025-07-08",
         "communicated_date": null,
-        "quantity": 2400
+        "quantity": 600
     },
     {
         "group": "Out of Stocks",
@@ -131,7 +131,7 @@
         "group": "Next Month",
         "sku": "CS-HYTE-Y70-METAPHOR",
         "description": "HYTE Y70 METAPHOR REFANTAZIO",
-        "eta": "2025-07-11, 2025-07-08, 2025-07-08",
+        "eta": "2025-07-08, 2025-07-08, 2025-07-11",
         "communicated_date": "July",
         "quantity": 1000
     },
@@ -171,7 +171,7 @@
         "group": "Next Month",
         "sku": "CS-HYTE-Y70-SUISEI-E",
         "description": "HYTE Y70 HOSHIMACHI SUISEI - EARLY BIRD",
-        "eta": "2025-06-30, 2025-07-14, 2025-07-04",
+        "eta": "2025-06-30, 2025-07-04, 2025-07-14",
         "communicated_date": "July",
         "quantity": 705
     },
