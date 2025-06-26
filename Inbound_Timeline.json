@@ -1,51 +1,11 @@
 [
     {
-        "group": "Next Month",
-        "sku": "ACC-HYTE-METAPHOR-KC",
-        "description": "HYTE METAPHOR ACRYLIC KEYCHAIN",
-        "eta": "2025-06-26",
-        "communicated_date": "July",
-        "quantity": 980
-    },
-    {
-        "group": "Next Month",
-        "sku": "KEY-HYTE-SUISEI-EB",
-        "description": "HYTE HOSHIMACHI SUISEI KEYCAP BUNDLE - EARLY BIRD",
-        "eta": "2025-06-26",
-        "communicated_date": "July",
-        "quantity": 400
-    },
-    {
-        "group": "Next Month",
-        "sku": "KEY-HYTE-SUISEI",
-        "description": "HYTE HOSHIMACHI SUISEI KEYCAP BUNDLE",
-        "eta": "2025-06-26, 2025-06-30",
-        "communicated_date": "July",
-        "quantity": 608
-    },
-    {
-        "group": "2+ Months Out",
-        "sku": "KEY-HYTE-METAPHOR",
-        "description": "HYTE METAPHOR KEYCAPS",
-        "eta": "2025-06-30",
-        "communicated_date": "August",
-        "quantity": 800
-    },
-    {
-        "group": "Next Month",
-        "sku": "CS-HYTE-Y70-SUISEI",
-        "description": "HYTE Y70 HOSHIMACHI SUISEI",
-        "eta": "2025-06-30, 2025-07-04",
-        "communicated_date": "July",
-        "quantity": 1000
-    },
-    {
-        "group": "Next Month",
-        "sku": "CS-HYTE-Y70-SUISEI-E",
-        "description": "HYTE Y70 HOSHIMACHI SUISEI - EARLY BIRD",
-        "eta": "2025-06-30, 2025-07-04, 2025-07-14",
-        "communicated_date": "July",
-        "quantity": 705
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-LN-70-B",
+        "description": "[BLK] HYTE NOODLE LN70",
+        "eta": "2025-07-08",
+        "communicated_date": null,
+        "quantity": 600
     },
     {
         "group": "Out of Stocks",
@@ -65,27 +25,19 @@
     },
     {
         "group": "Next Month",
+        "sku": "ACC-HYTE-METAPHOR-KC",
+        "description": "HYTE METAPHOR ACRYLIC KEYCHAIN",
+        "eta": "2025-06-26",
+        "communicated_date": "July",
+        "quantity": 980
+    },
+    {
+        "group": "Next Month",
         "sku": "ACC-HYTE-METAPHOR-WS",
         "description": "HYTE METAPHOR WALL SCROLL",
         "eta": "2025-07-07",
         "communicated_date": "July",
         "quantity": 2180
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "ACC-HYTE-LN-70-B",
-        "description": "[BLK] HYTE NOODLE LN70",
-        "eta": "2025-07-08",
-        "communicated_date": null,
-        "quantity": 600
-    },
-    {
-        "group": "Next Month",
-        "sku": "CS-HYTE-Y70-METAPHOR",
-        "description": "HYTE Y70 METAPHOR REFANTAZIO",
-        "eta": "2025-07-08, 2025-07-11",
-        "communicated_date": "July",
-        "quantity": 1000
     },
     {
         "group": "Out of Stocks",
@@ -176,6 +128,14 @@
         "quantity": 0
     },
     {
+        "group": "Next Month",
+        "sku": "CS-HYTE-Y70-METAPHOR",
+        "description": "HYTE Y70 METAPHOR REFANTAZIO",
+        "eta": "2025-07-08, 2025-07-08, 2025-07-11",
+        "communicated_date": "July",
+        "quantity": 1000
+    },
+    {
         "group": "Out of Stocks",
         "sku": "CS-HYTE-Y70-R1-BR",
         "description": null,
@@ -200,6 +160,22 @@
         "quantity": 0
     },
     {
+        "group": "Next Month",
+        "sku": "CS-HYTE-Y70-SUISEI",
+        "description": "HYTE Y70 HOSHIMACHI SUISEI",
+        "eta": "2025-06-30, 2025-07-04",
+        "communicated_date": "July",
+        "quantity": 620
+    },
+    {
+        "group": "Next Month",
+        "sku": "CS-HYTE-Y70-SUISEI-E",
+        "description": "HYTE Y70 HOSHIMACHI SUISEI - EARLY BIRD",
+        "eta": "2025-06-30, 2025-07-04, 2025-07-14",
+        "communicated_date": "July",
+        "quantity": 705
+    },
+    {
         "group": "Out of Stocks",
         "sku": "FAN-HYTE-FP12-BW-3",
         "description": null,
@@ -222,6 +198,30 @@
         "eta": null,
         "communicated_date": "TBA",
         "quantity": 0
+    },
+    {
+        "group": "2+ Months Out",
+        "sku": "KEY-HYTE-METAPHOR",
+        "description": null,
+        "eta": null,
+        "communicated_date": "August",
+        "quantity": 0
+    },
+    {
+        "group": "Next Month",
+        "sku": "KEY-HYTE-SUISEI",
+        "description": "HYTE HOSHIMACHI SUISEI KEYCAP BUNDLE",
+        "eta": "2025-06-26",
+        "communicated_date": "July",
+        "quantity": 600
+    },
+    {
+        "group": "Next Month",
+        "sku": "KEY-HYTE-SUISEI-EB",
+        "description": "HYTE HOSHIMACHI SUISEI KEYCAP BUNDLE - EARLY BIRD",
+        "eta": "2025-06-26",
+        "communicated_date": "July",
+        "quantity": 400
     },
     {
         "group": "Next Month",
