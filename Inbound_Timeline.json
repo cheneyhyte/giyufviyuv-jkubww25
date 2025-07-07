@@ -139,7 +139,7 @@
         "group": "This Month",
         "sku": "CS-HYTE-Y70-METAPHOR",
         "description": "HYTE Y70 METAPHOR REFANTAZIO",
-        "eta": "2025-07-11",
+        "eta": "2025-07-11, 2025-07-25",
         "communicated_date": "July",
         "quantity": 297
     },
@@ -242,10 +242,10 @@
     {
         "group": "This Month",
         "sku": "KEY-HYTE-SUISEI-EB",
-        "description": null,
+        "description": "HYTE HOSHIMACHI SUISEI KEYCAP BUNDLE - EARLY BIRD",
         "eta": null,
         "communicated_date": "July",
-        "quantity": 0
+        "quantity": 200
     },
     {
         "group": "TBA",
