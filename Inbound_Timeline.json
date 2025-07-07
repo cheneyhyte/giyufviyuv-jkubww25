@@ -1,5 +1,13 @@
 [
     {
+        "group": "TBA",
+        "sku": "ACC-HYTE-GWING-WS",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q4 2025",
+        "quantity": 0
+    },
+    {
         "group": "Out of Stocks",
         "sku": "ACC-HYTE-LN-70-B",
         "description": "[BLK] HYTE NOODLE LN70",
@@ -176,6 +184,14 @@
         "quantity": 381
     },
     {
+        "group": "TBA",
+        "sku": "CS-HYTE-Y70TTI-GWING",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q4 2025",
+        "quantity": 0
+    },
+    {
         "group": "Out of Stocks",
         "sku": "FAN-HYTE-FP12-BW-3",
         "description": null,
@@ -200,6 +216,14 @@
         "quantity": 0
     },
     {
+        "group": "TBA",
+        "sku": "KEY-HYTE-GWING",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q4 2025",
+        "quantity": 0
+    },
+    {
         "group": "Next Month",
         "sku": "KEY-HYTE-METAPHOR",
         "description": null,
@@ -221,6 +245,14 @@
         "description": null,
         "eta": null,
         "communicated_date": "July",
+        "quantity": 0
+    },
+    {
+        "group": "TBA",
+        "sku": "MOU-HYTE-GWING",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q4 2025",
         "quantity": 0
     },
     {
