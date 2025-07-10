@@ -17,6 +17,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "ACC-HYTE-LS10-B-3NP",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "ACC-HYTE-LS30-B-2NP",
         "description": null,
         "eta": null,
@@ -136,11 +144,11 @@
         "quantity": 0
     },
     {
-        "group": "This Month",
+        "group": "Out of Stocks",
         "sku": "CS-HYTE-Y70-SUISEI-E",
         "description": "HYTE Y70 HOSHIMACHI SUISEI - EARLY BIRD",
         "eta": "2025-07-11",
-        "communicated_date": "July",
+        "communicated_date": null,
         "quantity": 381
     },
     {
