@@ -144,14 +144,6 @@
         "quantity": 0
     },
     {
-        "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y70-SUISEI-E",
-        "description": "HYTE Y70 HOSHIMACHI SUISEI - EARLY BIRD",
-        "eta": "2025-07-11",
-        "communicated_date": null,
-        "quantity": 381
-    },
-    {
         "group": "TBA",
         "sku": "CS-HYTE-Y70TTI-GWING",
         "description": "14.9\" HYTE Y70 TOUCH INFINITE GUNDAM WING",
@@ -190,14 +182,6 @@
         "eta": null,
         "communicated_date": "Q4 2025",
         "quantity": 0
-    },
-    {
-        "group": "This Month",
-        "sku": "KEY-HYTE-SUISEI-EB",
-        "description": "HYTE HOSHIMACHI SUISEI KEYCAP BUNDLE - EARLY BIRD",
-        "eta": null,
-        "communicated_date": "July",
-        "quantity": 200
     },
     {
         "group": "TBA",
