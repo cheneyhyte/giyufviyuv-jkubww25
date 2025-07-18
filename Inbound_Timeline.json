@@ -9,14 +9,6 @@
     },
     {
         "group": "Out of Stocks",
-        "sku": "ACC-HYTE-LN-70-B",
-        "description": "[BLK] HYTE NOODLE LN70",
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 600
-    },
-    {
-        "group": "Out of Stocks",
         "sku": "ACC-HYTE-LS10-B-3NP",
         "description": null,
         "eta": null,
