@@ -36,7 +36,7 @@
         "sku": "ACC-HYTE-SPF-1700-BB",
         "description": null,
         "eta": null,
-        "communicated_date": "early July",
+        "communicated_date": "Week of July 28th",
         "quantity": 0
     },
     {
@@ -52,7 +52,7 @@
         "sku": "ACC-HYTE-SPF-1851-BB",
         "description": "[PITCH BLACK] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET 1851",
         "eta": "2025-07-25",
-        "communicated_date": "early July",
+        "communicated_date": "Week of July 28th",
         "quantity": 240
     },
     {
@@ -68,7 +68,7 @@
         "sku": "ACC-HYTE-SPF-AM5-BB",
         "description": null,
         "eta": null,
-        "communicated_date": "early July",
+        "communicated_date": "Week of July 28th",
         "quantity": 0
     },
     {
@@ -76,7 +76,7 @@
         "sku": "ACC-HYTE-SPF-AM5-RR",
         "description": "[CHERRY] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
         "eta": "2025-07-25",
-        "communicated_date": "early July",
+        "communicated_date": "Week of July 28th",
         "quantity": 260
     },
     {
@@ -84,7 +84,7 @@
         "sku": "ACC-HYTE-SPF-AM5-SM",
         "description": "[STRAWBERRY MILK] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
         "eta": "2025-07-25",
-        "communicated_date": "early July",
+        "communicated_date": "Week of July 28th",
         "quantity": 280
     },
     {
@@ -92,7 +92,7 @@
         "sku": "ACC-HYTE-SPF-AM5-TM",
         "description": "[TARO MILK] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
         "eta": "2025-07-25",
-        "communicated_date": "early July",
+        "communicated_date": "Week of July 28th",
         "quantity": 240
     },
     {
@@ -106,6 +106,14 @@
     {
         "group": "Out of Stocks",
         "sku": "CS-HYTE-Y60-R1-B",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "CS-HYTE-Y70-R1-B",
         "description": null,
         "eta": null,
         "communicated_date": null,
@@ -149,22 +157,6 @@
         "description": null,
         "eta": null,
         "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "TBA",
-        "sku": "FAN-HYTE-Q80T-BB",
-        "description": null,
-        "eta": null,
-        "communicated_date": "TBA",
-        "quantity": 0
-    },
-    {
-        "group": "TBA",
-        "sku": "FAN-HYTE-Q80T-WW",
-        "description": null,
-        "eta": null,
-        "communicated_date": "TBA",
         "quantity": 0
     },
     {
