@@ -9,27 +9,59 @@
     },
     {
         "group": "Out of Stocks",
-        "sku": "ACC-HYTE-LS10-B-3NP",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "ACC-HYTE-LS30-B-2NP",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
         "sku": "ACC-HYTE-PCIE40-W",
         "description": null,
         "eta": null,
         "communicated_date": null,
         "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-PCIE50-BB",
+        "description": "[PITCH BLACK] HYTE PCIE50 HYPER RISER",
+        "eta": "2025-08-01",
+        "communicated_date": null,
+        "quantity": 230
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-PCIE50-BR",
+        "description": "[BLACK CHERRY] HYTE PCIE50 HYPER RISER",
+        "eta": "2025-08-01",
+        "communicated_date": null,
+        "quantity": 30
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-PCIE50-MM",
+        "description": "[MATCHA MILK] HYTE PCIE50 HYPER RISER",
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 100
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-PCIE50-SM",
+        "description": "[STRAWBERRY MILK] HYTE PCIE50 HYPER RISER",
+        "eta": "2025-08-01",
+        "communicated_date": null,
+        "quantity": 30
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-PCIE50-TM",
+        "description": "[TARO MILK] HYTE PCIE50 HYPER RISER",
+        "eta": "2025-08-01",
+        "communicated_date": null,
+        "quantity": 30
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-PCIE50-WW",
+        "description": "[SNOW WHITE] HYTE PCIE50 HYPER RISER",
+        "eta": "2025-08-01",
+        "communicated_date": null,
+        "quantity": 100
     },
     {
         "group": "This Month",
