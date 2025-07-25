@@ -185,6 +185,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "FAN-HYTE-001",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "FAN-HYTE-FP12-BW-3",
         "description": null,
         "eta": null,
