@@ -9,6 +9,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "ACC-HYTE-PCIE40-W",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "ACC-HYTE-PCIE50-BB",
         "description": "[PITCH BLACK] HYTE PCIE50 HYPER RISER",
         "eta": "2025-08-01",
@@ -189,6 +197,14 @@
         "description": null,
         "eta": null,
         "communicated_date": "Q4 2025",
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "KEY-HYTE-SUISEI",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
         "quantity": 0
     },
     {
