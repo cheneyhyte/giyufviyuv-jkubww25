@@ -64,7 +64,7 @@
         "quantity": 100
     },
     {
-        "group": "This Month",
+        "group": "2+ Months Out",
         "sku": "ACC-HYTE-SPF-1700-BB",
         "description": null,
         "eta": null,
@@ -72,7 +72,7 @@
         "quantity": 0
     },
     {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "ACC-HYTE-SPF-1700-WW",
         "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET 1700",
         "eta": "2025-08-01",
@@ -80,7 +80,7 @@
         "quantity": 240
     },
     {
-        "group": "This Month",
+        "group": "2+ Months Out",
         "sku": "ACC-HYTE-SPF-1851-BB",
         "description": "[PITCH BLACK] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET 1851",
         "eta": null,
@@ -88,7 +88,7 @@
         "quantity": 220
     },
     {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "ACC-HYTE-SPF-1851-WW",
         "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET 1851",
         "eta": "2025-08-01",
@@ -96,7 +96,7 @@
         "quantity": 240
     },
     {
-        "group": "This Month",
+        "group": "2+ Months Out",
         "sku": "ACC-HYTE-SPF-AM5-BB",
         "description": null,
         "eta": null,
@@ -104,7 +104,7 @@
         "quantity": 0
     },
     {
-        "group": "This Month",
+        "group": "2+ Months Out",
         "sku": "ACC-HYTE-SPF-AM5-RR",
         "description": "[CHERRY] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
         "eta": null,
@@ -112,7 +112,7 @@
         "quantity": 220
     },
     {
-        "group": "This Month",
+        "group": "2+ Months Out",
         "sku": "ACC-HYTE-SPF-AM5-SM",
         "description": "[STRAWBERRY MILK] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
         "eta": null,
@@ -120,7 +120,7 @@
         "quantity": 180
     },
     {
-        "group": "This Month",
+        "group": "2+ Months Out",
         "sku": "ACC-HYTE-SPF-AM5-TM",
         "description": "[TARO MILK] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
         "eta": null,
@@ -128,7 +128,7 @@
         "quantity": 180
     },
     {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "ACC-HYTE-SPF-AM5-WW",
         "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
         "eta": "2025-08-01",
@@ -213,6 +213,14 @@
         "description": null,
         "eta": null,
         "communicated_date": "Q4 2025",
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "MOU-HYTE-P3R-2",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
         "quantity": 0
     }
 ]
