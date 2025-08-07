@@ -17,6 +17,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "ACC-HYTE-P3R-KEYCAP-B",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "ACC-HYTE-PCIE50-MM",
         "description": "[MATCHA MILK] HYTE PCIE50 HYPER RISER",
         "eta": null,
