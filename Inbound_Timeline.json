@@ -33,6 +33,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "ACC-HYTE-PCIE50-WW",
+        "description": "[SNOW WHITE] HYTE PCIE50 HYPER RISER",
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 200
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "ACC-HYTE-SPF-1851-WW",
         "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET 1851",
         "eta": null,
@@ -41,7 +49,23 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "ACC-HYTE-SPF-AM5-WW",
+        "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 80
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "CS-HYTE-DOKI-Y70",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "CS-HYTE-Y40-B",
         "description": null,
         "eta": null,
         "communicated_date": null,
