@@ -128,14 +128,6 @@
         "quantity": 0
     },
     {
-        "group": "Out of Stocks",
-        "sku": "FAN-HYTE-Q80T-WW",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
         "group": "TBA",
         "sku": "KEY-HYTE-GWING",
         "description": null,
