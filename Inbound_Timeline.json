@@ -9,6 +9,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "ACC-HYTE-LN-70-W",
+        "description": "[WHT] HYTE NOODLE LN70",
+        "eta": "2025-08-25",
+        "communicated_date": null,
+        "quantity": 800
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "ACC-HYTE-P3R-KEYCAP",
         "description": null,
         "eta": null,
@@ -22,6 +30,14 @@
         "eta": null,
         "communicated_date": null,
         "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-PCIE50-BR",
+        "description": "[BLACK CHERRY] HYTE PCIE50 HYPER RISER",
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 100
     },
     {
         "group": "Out of Stocks",
@@ -58,14 +74,6 @@
     {
         "group": "Out of Stocks",
         "sku": "CS-HYTE-DOKI-Y70",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y40-B",
         "description": null,
         "eta": null,
         "communicated_date": null,
