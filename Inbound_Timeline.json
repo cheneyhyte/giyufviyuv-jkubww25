@@ -17,6 +17,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "ACC-HYTE-LS10-B-3NP",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "ACC-HYTE-P3R-KEYCAP",
         "description": null,
         "eta": null,
@@ -57,9 +65,17 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "ACC-HYTE-SPF-1851-BB",
+        "description": "[PITCH BLACK] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET 1851",
+        "eta": "2025-09-12",
+        "communicated_date": null,
+        "quantity": 220
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "ACC-HYTE-SPF-1851-WW",
         "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET 1851",
-        "eta": null,
+        "eta": "2025-09-12",
         "communicated_date": null,
         "quantity": 220
     },
@@ -67,7 +83,7 @@
         "group": "Out of Stocks",
         "sku": "ACC-HYTE-SPF-AM5-WW",
         "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
-        "eta": null,
+        "eta": "2025-09-12",
         "communicated_date": null,
         "quantity": 80
     },
