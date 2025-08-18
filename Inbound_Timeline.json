@@ -9,14 +9,6 @@
     },
     {
         "group": "Out of Stocks",
-        "sku": "ACC-HYTE-LN-70-W",
-        "description": "[WHT] HYTE NOODLE LN70",
-        "eta": "2025-08-25",
-        "communicated_date": null,
-        "quantity": 800
-    },
-    {
-        "group": "Out of Stocks",
         "sku": "ACC-HYTE-LS10-B-3NP",
         "description": null,
         "eta": null,
@@ -81,6 +73,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "ACC-HYTE-SPF-AM5-RR",
+        "description": "[CHERRY] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
+        "eta": "2025-09-12",
+        "communicated_date": null,
+        "quantity": 220
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "ACC-HYTE-SPF-AM5-WW",
         "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
         "eta": "2025-09-12",
@@ -114,6 +114,22 @@
     {
         "group": "Out of Stocks",
         "sku": "CS-HYTE-Y70-R1-B",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "CS-HYTE-Y70-R1-BW",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "CS-HYTE-Y70-SM",
         "description": null,
         "eta": null,
         "communicated_date": null,
