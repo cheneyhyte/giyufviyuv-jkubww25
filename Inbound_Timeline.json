@@ -17,6 +17,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "ACC-HYTE-LS30-B-2NP",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "ACC-HYTE-P3R-KEYCAP",
         "description": null,
         "eta": null,
@@ -56,35 +64,35 @@
         "quantity": 200
     },
     {
-        "group": "Out of Stocks",
+        "group": "Next Month",
         "sku": "ACC-HYTE-SPF-1851-BB",
         "description": "[PITCH BLACK] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET 1851",
         "eta": "2025-09-12",
-        "communicated_date": null,
+        "communicated_date": "Week of September 15th",
         "quantity": 220
     },
     {
-        "group": "Out of Stocks",
+        "group": "Next Month",
         "sku": "ACC-HYTE-SPF-1851-WW",
         "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET 1851",
         "eta": "2025-09-12",
-        "communicated_date": null,
+        "communicated_date": "Week of September 15th",
         "quantity": 220
     },
     {
-        "group": "Out of Stocks",
+        "group": "Next Month",
         "sku": "ACC-HYTE-SPF-AM5-RR",
         "description": "[CHERRY] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
         "eta": "2025-09-12",
-        "communicated_date": null,
+        "communicated_date": "Week of September 15th",
         "quantity": 220
     },
     {
-        "group": "Out of Stocks",
+        "group": "Next Month",
         "sku": "ACC-HYTE-SPF-AM5-WW",
         "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
         "eta": "2025-09-12",
-        "communicated_date": null,
+        "communicated_date": "Week of September 15th",
         "quantity": 80
     },
     {
@@ -134,6 +142,14 @@
         "eta": null,
         "communicated_date": "Q4 2025",
         "quantity": 500
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "CS-HYTE-Y70TTI-WB",
+        "description": "14.9\" [PANDA] HYTE Y70 TOUCH INFINITE CASE",
+        "eta": "2025-08-25, 2025-09-15, 2025-09-15, 2025-09-15, 2025-09-15",
+        "communicated_date": null,
+        "quantity": 5088
     },
     {
         "group": "Out of Stocks",
