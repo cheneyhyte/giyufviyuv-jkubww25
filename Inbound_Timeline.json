@@ -9,6 +9,38 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "ACC-HYTE-LN-60-B",
+        "description": "[BLK] HYTE NOODLE LN60",
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 40
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-LN-60-W",
+        "description": "[WHT] HYTE NOODLE LN60",
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 160
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-LN-70-B",
+        "description": "[BLK] HYTE NOODLE LN70",
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 200
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-LN-70-W",
+        "description": "[WHT] HYTE NOODLE LN70",
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 400
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "ACC-HYTE-LS10-B-3NP",
         "description": null,
         "eta": null,
@@ -96,6 +128,14 @@
         "quantity": 80
     },
     {
+        "group": "TBA",
+        "sku": "ACC-HYTE-TOKI-WS",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q4 2025",
+        "quantity": 0
+    },
+    {
         "group": "Out of Stocks",
         "sku": "CS-HYTE-DOKI-Y70",
         "description": null,
@@ -106,6 +146,14 @@
     {
         "group": "Out of Stocks",
         "sku": "CS-HYTE-Y60-B",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "CS-HYTE-Y60-KRONII",
         "description": null,
         "eta": null,
         "communicated_date": null,
@@ -137,19 +185,19 @@
     },
     {
         "group": "TBA",
+        "sku": "CS-HYTE-Y70-TOKI",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q4 2025",
+        "quantity": 0
+    },
+    {
+        "group": "TBA",
         "sku": "CS-HYTE-Y70TTI-GWING",
         "description": "14.9\" HYTE Y70 TOUCH INFINITE GUNDAM WING",
         "eta": null,
         "communicated_date": "Q4 2025",
         "quantity": 500
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y70TTI-WB",
-        "description": "14.9\" [PANDA] HYTE Y70 TOUCH INFINITE CASE",
-        "eta": "2025-08-25, 2025-09-15, 2025-09-15, 2025-09-15, 2025-09-15",
-        "communicated_date": null,
-        "quantity": 5088
     },
     {
         "group": "Out of Stocks",
@@ -189,6 +237,14 @@
         "description": null,
         "eta": null,
         "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "TBA",
+        "sku": "KEY-HYTE-TOKI",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q4 2025",
         "quantity": 0
     },
     {
