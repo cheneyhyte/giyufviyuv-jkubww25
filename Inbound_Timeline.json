@@ -1,43 +1,51 @@
 [
     {
         "group": "TBA",
-        "sku": "ACC-HYTE-GWING-WS",
+        "sku": "ACC-HYTE-AFO-BIBOO",
         "description": null,
         "eta": null,
         "communicated_date": "Q4 2025",
         "quantity": 0
     },
     {
-        "group": "Out of Stocks",
-        "sku": "ACC-HYTE-LN-60-B",
-        "description": "[BLK] HYTE NOODLE LN60",
+        "group": "TBA",
+        "sku": "ACC-HYTE-AFO-CALLI",
+        "description": null,
         "eta": null,
-        "communicated_date": null,
-        "quantity": 40
+        "communicated_date": "Q4 2025",
+        "quantity": 0
     },
     {
-        "group": "Out of Stocks",
-        "sku": "ACC-HYTE-LN-60-W",
-        "description": "[WHT] HYTE NOODLE LN60",
+        "group": "TBA",
+        "sku": "ACC-HYTE-AFO-CASE",
+        "description": null,
         "eta": null,
-        "communicated_date": null,
-        "quantity": 160
+        "communicated_date": "Q4 2025",
+        "quantity": 0
     },
     {
-        "group": "Out of Stocks",
-        "sku": "ACC-HYTE-LN-70-B",
-        "description": "[BLK] HYTE NOODLE LN70",
+        "group": "TBA",
+        "sku": "ACC-HYTE-AFO-INA",
+        "description": null,
         "eta": null,
-        "communicated_date": null,
-        "quantity": 200
+        "communicated_date": "Q4 2025",
+        "quantity": 0
     },
     {
-        "group": "Out of Stocks",
-        "sku": "ACC-HYTE-LN-70-W",
-        "description": "[WHT] HYTE NOODLE LN70",
+        "group": "TBA",
+        "sku": "ACC-HYTE-AFO-KIARA",
+        "description": null,
         "eta": null,
-        "communicated_date": null,
-        "quantity": 400
+        "communicated_date": "Q4 2025",
+        "quantity": 0
+    },
+    {
+        "group": "TBA",
+        "sku": "ACC-HYTE-GWING-WS",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q4 2025",
+        "quantity": 0
     },
     {
         "group": "Out of Stocks",
@@ -242,6 +250,14 @@
     {
         "group": "TBA",
         "sku": "KEY-HYTE-TOKI",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q4 2025",
+        "quantity": 0
+    },
+    {
+        "group": "TBA",
+        "sku": "MAT-HYTE-AFO",
         "description": null,
         "eta": null,
         "communicated_date": "Q4 2025",
