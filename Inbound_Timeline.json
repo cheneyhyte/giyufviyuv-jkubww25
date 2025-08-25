@@ -1,6 +1,14 @@
 [
     {
         "group": "TBA",
+        "sku": "ACC-HYTE-AFO-BAE",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q4 2025",
+        "quantity": 0
+    },
+    {
+        "group": "TBA",
         "sku": "ACC-HYTE-AFO-BIBOO",
         "description": null,
         "eta": null,
@@ -25,6 +33,38 @@
     },
     {
         "group": "TBA",
+        "sku": "ACC-HYTE-AFO-CECI",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q4 2025",
+        "quantity": 0
+    },
+    {
+        "group": "TBA",
+        "sku": "ACC-HYTE-AFO-ERB",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q4 2025",
+        "quantity": 0
+    },
+    {
+        "group": "TBA",
+        "sku": "ACC-HYTE-AFO-FUWA",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q4 2025",
+        "quantity": 0
+    },
+    {
+        "group": "TBA",
+        "sku": "ACC-HYTE-AFO-GIGI",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q4 2025",
+        "quantity": 0
+    },
+    {
+        "group": "TBA",
         "sku": "ACC-HYTE-AFO-INA",
         "description": null,
         "eta": null,
@@ -33,7 +73,55 @@
     },
     {
         "group": "TBA",
+        "sku": "ACC-HYTE-AFO-IRYS",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q4 2025",
+        "quantity": 0
+    },
+    {
+        "group": "TBA",
         "sku": "ACC-HYTE-AFO-KIARA",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q4 2025",
+        "quantity": 0
+    },
+    {
+        "group": "TBA",
+        "sku": "ACC-HYTE-AFO-KRONII",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q4 2025",
+        "quantity": 0
+    },
+    {
+        "group": "TBA",
+        "sku": "ACC-HYTE-AFO-MOCO",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q4 2025",
+        "quantity": 0
+    },
+    {
+        "group": "TBA",
+        "sku": "ACC-HYTE-AFO-RAORA",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q4 2025",
+        "quantity": 0
+    },
+    {
+        "group": "TBA",
+        "sku": "ACC-HYTE-AFO-RISSA",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q4 2025",
+        "quantity": 0
+    },
+    {
+        "group": "TBA",
+        "sku": "ACC-HYTE-AFO-SHIORI",
         "description": null,
         "eta": null,
         "communicated_date": "Q4 2025",
@@ -161,14 +249,6 @@
     },
     {
         "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y60-KRONII",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
         "sku": "CS-HYTE-Y60-R1-B",
         "description": null,
         "eta": null,
@@ -203,7 +283,7 @@
         "group": "TBA",
         "sku": "CS-HYTE-Y70TTI-GWING",
         "description": "14.9\" HYTE Y70 TOUCH INFINITE GUNDAM WING",
-        "eta": null,
+        "eta": "2025-09-19",
         "communicated_date": "Q4 2025",
         "quantity": 500
     },
