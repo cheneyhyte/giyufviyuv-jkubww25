@@ -169,6 +169,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "ACC-HYTE-PCIE50-BB",
+        "description": "[PITCH BLACK] HYTE PCIE50 HYPER RISER",
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 250
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "ACC-HYTE-PCIE50-BR",
         "description": "[BLACK CHERRY] HYTE PCIE50 HYPER RISER",
         "eta": null,
