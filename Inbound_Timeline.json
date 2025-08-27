@@ -137,6 +137,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "ACC-HYTE-JET-KIARA",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "ACC-HYTE-LS10-B-3NP",
         "description": null,
         "eta": null,
