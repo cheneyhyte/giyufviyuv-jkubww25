@@ -168,7 +168,7 @@
         "quantity": 0
     },
     {
-        "group": "2+ Months Out",
+        "group": "Next Month",
         "sku": "ACC-HYTE-PCIE50-BB",
         "description": "[PITCH BLACK] HYTE PCIE50 HYPER RISER",
         "eta": null,
@@ -176,7 +176,7 @@
         "quantity": 250
     },
     {
-        "group": "2+ Months Out",
+        "group": "Next Month",
         "sku": "ACC-HYTE-PCIE50-BR",
         "description": "[BLACK CHERRY] HYTE PCIE50 HYPER RISER",
         "eta": null,
@@ -184,7 +184,7 @@
         "quantity": 100
     },
     {
-        "group": "2+ Months Out",
+        "group": "Next Month",
         "sku": "ACC-HYTE-PCIE50-MM",
         "description": "[MATCHA MILK] HYTE PCIE50 HYPER RISER",
         "eta": null,
@@ -192,7 +192,7 @@
         "quantity": 200
     },
     {
-        "group": "2+ Months Out",
+        "group": "Next Month",
         "sku": "ACC-HYTE-PCIE50-SM",
         "description": "[STRAWBERRY MILK] HYTE PCIE50 HYPER RISER",
         "eta": null,
@@ -200,7 +200,7 @@
         "quantity": 100
     },
     {
-        "group": "2+ Months Out",
+        "group": "Next Month",
         "sku": "ACC-HYTE-PCIE50-TM",
         "description": "[TARO MILK] HYTE PCIE50 HYPER RISER",
         "eta": null,
@@ -208,7 +208,7 @@
         "quantity": 100
     },
     {
-        "group": "2+ Months Out",
+        "group": "Next Month",
         "sku": "ACC-HYTE-PCIE50-WW",
         "description": "[SNOW WHITE] HYTE PCIE50 HYPER RISER",
         "eta": null,
@@ -216,7 +216,7 @@
         "quantity": 200
     },
     {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "ACC-HYTE-SPF-1851-BB",
         "description": "[PITCH BLACK] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET 1851",
         "eta": "2025-09-12",
@@ -224,7 +224,7 @@
         "quantity": 220
     },
     {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "ACC-HYTE-SPF-1851-WW",
         "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET 1851",
         "eta": "2025-09-12",
@@ -232,7 +232,7 @@
         "quantity": 220
     },
     {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "ACC-HYTE-SPF-AM5-RR",
         "description": "[CHERRY] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
         "eta": "2025-09-12",
@@ -240,7 +240,7 @@
         "quantity": 220
     },
     {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "ACC-HYTE-SPF-AM5-WW",
         "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
         "eta": "2025-09-12",
@@ -256,7 +256,7 @@
         "quantity": 0
     },
     {
-        "group": "2+ Months Out",
+        "group": "Next Month",
         "sku": "CS-HYTE-X50A-BB",
         "description": "[PITCH BLACK] HYTE X50 AIR CASE",
         "eta": null,
@@ -264,7 +264,7 @@
         "quantity": 1050
     },
     {
-        "group": "2+ Months Out",
+        "group": "Next Month",
         "sku": "CS-HYTE-X50A-WW",
         "description": "[SNOW WHITE] HYTE X50 AIR CASE",
         "eta": null,
@@ -272,7 +272,7 @@
         "quantity": 1050
     },
     {
-        "group": "2+ Months Out",
+        "group": "Next Month",
         "sku": "CS-HYTE-X50G-BB",
         "description": "[PITCH BLACK] HYTE X50 CASE",
         "eta": "2025-09-12, 2025-09-12, 2025-09-12, 2025-09-26, 2025-09-26, 2025-09-26, 2025-09-30",
@@ -312,7 +312,7 @@
         "quantity": 2011
     },
     {
-        "group": "2+ Months Out",
+        "group": "Next Month",
         "sku": "CS-HYTE-X50G-WW",
         "description": "[SNOW WHITE] HYTE X50 CASE",
         "eta": "2025-09-12, 2025-09-12, 2025-09-12, 2025-09-26, 2025-09-26, 2025-09-26, 2025-09-26, 2025-09-30",
@@ -338,6 +338,14 @@
     {
         "group": "Out of Stocks",
         "sku": "CS-HYTE-Y70-R1-B",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "CS-HYTE-Y70-R1-BR",
         "description": null,
         "eta": null,
         "communicated_date": null,
@@ -376,7 +384,7 @@
         "quantity": 0
     },
     {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "FAN-HYTE-FA12-BB-4",
         "description": "[PITCH BLACK] HYTE FA12 PWM FAN (4-PACK)",
         "eta": "2025-09-12",
@@ -384,7 +392,7 @@
         "quantity": 504
     },
     {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "FAN-HYTE-FA12-MM-4",
         "description": "[MATCHA MILK] HYTE FA12 PWM FAN (4-PACK)",
         "eta": "2025-09-12",
@@ -392,7 +400,7 @@
         "quantity": 252
     },
     {
-        "group": "2+ Months Out",
+        "group": "Next Month",
         "sku": "FAN-HYTE-FA12-RR-4",
         "description": "[WILD CHERRY] HYTE FA12 PWM FAN (4-PACK)",
         "eta": null,
@@ -400,7 +408,7 @@
         "quantity": 120
     },
     {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "FAN-HYTE-FA12-SM-4",
         "description": "[STRAWBERRY MILK] HYTE FA12 PWM FAN (4-PACK)",
         "eta": "2025-09-12",
@@ -408,7 +416,7 @@
         "quantity": 252
     },
     {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "FAN-HYTE-FA12-TM-4",
         "description": "[TARO MILK] HYTE FA12 PWM FAN (4-PACK)",
         "eta": "2025-09-12",
@@ -416,7 +424,7 @@
         "quantity": 252
     },
     {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "FAN-HYTE-FA12-WW-4",
         "description": "[SNOW WHITE] HYTE FA12 PWM FAN (4-PACK)",
         "eta": "2025-09-12",
