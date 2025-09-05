@@ -307,7 +307,7 @@
         "group": "Next Month",
         "sku": "CS-HYTE-X50G-WW",
         "description": "[SNOW WHITE] HYTE X50 CASE",
-        "eta": "2025-09-12, 2025-09-12, 2025-09-12, 2025-09-26, 2025-09-26, 2025-09-26, 2025-09-26, 2025-09-30",
+        "eta": "2025-09-12, 2025-09-12, 2025-09-12, 2025-09-26, 2025-09-26, 2025-09-26, 2025-09-26, 2025-09-30, 2025-10-10",
         "communicated_date": "early October",
         "quantity": 4700
     },
@@ -442,14 +442,6 @@
     {
         "group": "Out of Stocks",
         "sku": "FAN-HYTE-Q80T-BB",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "FAN-HYTE-Q80T-WW",
         "description": null,
         "eta": null,
         "communicated_date": null,
