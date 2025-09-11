@@ -360,6 +360,14 @@
         "quantity": 0
     },
     {
+        "group": "Out of Stocks",
+        "sku": "CS-HYTE-Y70-R1-WW",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
         "group": "TBA",
         "sku": "CS-HYTE-Y70-TOKI",
         "description": null,
@@ -371,7 +379,7 @@
         "group": "TBA",
         "sku": "CS-HYTE-Y70TTI-GWING",
         "description": "14.9\" HYTE Y70 TOUCH INFINITE GUNDAM WING",
-        "eta": "2025-09-19, 2025-10-06",
+        "eta": "2025-09-12, 2025-10-06",
         "communicated_date": "Q4 2025",
         "quantity": 700
     },
