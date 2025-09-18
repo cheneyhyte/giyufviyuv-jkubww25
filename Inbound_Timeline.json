@@ -173,7 +173,7 @@
         "description": "[PITCH BLACK] HYTE PCIE50 HYPER RISER",
         "eta": null,
         "communicated_date": "Early October",
-        "quantity": 250
+        "quantity": 350
     },
     {
         "group": "Next Month",
@@ -181,7 +181,7 @@
         "description": "[BLACK CHERRY] HYTE PCIE50 HYPER RISER",
         "eta": null,
         "communicated_date": "Early October",
-        "quantity": 100
+        "quantity": 200
     },
     {
         "group": "Next Month",
@@ -189,7 +189,7 @@
         "description": "[MATCHA MILK] HYTE PCIE50 HYPER RISER",
         "eta": null,
         "communicated_date": "Early October",
-        "quantity": 200
+        "quantity": 300
     },
     {
         "group": "Next Month",
@@ -197,7 +197,7 @@
         "description": "[STRAWBERRY MILK] HYTE PCIE50 HYPER RISER",
         "eta": null,
         "communicated_date": "Early October",
-        "quantity": 100
+        "quantity": 200
     },
     {
         "group": "Next Month",
@@ -205,7 +205,7 @@
         "description": "[TARO MILK] HYTE PCIE50 HYPER RISER",
         "eta": null,
         "communicated_date": "Early October",
-        "quantity": 100
+        "quantity": 200
     },
     {
         "group": "Next Month",
@@ -213,7 +213,7 @@
         "description": "[SNOW WHITE] HYTE PCIE50 HYPER RISER",
         "eta": null,
         "communicated_date": "Early October",
-        "quantity": 200
+        "quantity": 350
     },
     {
         "group": "TBA",
@@ -227,7 +227,7 @@
         "group": "Next Month",
         "sku": "CS-HYTE-X50A-BB",
         "description": "[PITCH BLACK] HYTE X50 AIR CASE",
-        "eta": null,
+        "eta": "2025-10-17",
         "communicated_date": "early October",
         "quantity": 1050
     },
@@ -235,7 +235,7 @@
         "group": "Next Month",
         "sku": "CS-HYTE-X50A-WW",
         "description": "[SNOW WHITE] HYTE X50 AIR CASE",
-        "eta": null,
+        "eta": "2025-10-17",
         "communicated_date": "early October",
         "quantity": 1050
     },
@@ -283,9 +283,9 @@
         "group": "Next Month",
         "sku": "CS-HYTE-X50G-WW",
         "description": "[SNOW WHITE] HYTE X50 CASE",
-        "eta": "2025-09-26, 2025-09-26, 2025-09-26, 2025-09-26, 2025-09-26, 2025-10-10, 2025-10-17, 2025-10-17",
+        "eta": "2025-09-26, 2025-09-26, 2025-09-26, 2025-10-10, 2025-10-17, 2025-10-17",
         "communicated_date": "early October",
-        "quantity": 3619
+        "quantity": 2555
     },
     {
         "group": "Out of Stocks",
@@ -355,9 +355,9 @@
         "group": "TBA",
         "sku": "CS-HYTE-Y70TTI-GWING",
         "description": "14.9\" HYTE Y70 TOUCH INFINITE GUNDAM WING",
-        "eta": "2025-09-15, 2025-10-06",
+        "eta": "2025-10-06",
         "communicated_date": "Q4 2025",
-        "quantity": 700
+        "quantity": 200
     },
     {
         "group": "Next Month",
