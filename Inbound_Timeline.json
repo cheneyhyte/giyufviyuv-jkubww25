@@ -224,10 +224,18 @@
         "quantity": 0
     },
     {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-USB-HUB",
+        "description": "POWERED UNIVERSAL HUB",
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 800
+    },
+    {
         "group": "Next Month",
         "sku": "CS-HYTE-X50A-BB",
         "description": "[PITCH BLACK] HYTE X50 AIR CASE",
-        "eta": "2025-10-17",
+        "eta": "2025-10-17, 2025-10-17",
         "communicated_date": "early October",
         "quantity": 1050
     },
@@ -235,7 +243,7 @@
         "group": "Next Month",
         "sku": "CS-HYTE-X50A-WW",
         "description": "[SNOW WHITE] HYTE X50 AIR CASE",
-        "eta": "2025-10-17",
+        "eta": "2025-10-17, 2025-10-17",
         "communicated_date": "early October",
         "quantity": 1050
     },
@@ -350,14 +358,6 @@
         "eta": null,
         "communicated_date": "Q4 2025",
         "quantity": 0
-    },
-    {
-        "group": "TBA",
-        "sku": "CS-HYTE-Y70TTI-GWING",
-        "description": "14.9\" HYTE Y70 TOUCH INFINITE GUNDAM WING",
-        "eta": "2025-10-06",
-        "communicated_date": "Q4 2025",
-        "quantity": 200
     },
     {
         "group": "Next Month",
