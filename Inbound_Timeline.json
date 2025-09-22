@@ -152,22 +152,6 @@
         "quantity": 0
     },
     {
-        "group": "Out of Stocks",
-        "sku": "ACC-HYTE-P3R-KEYCAP",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "ACC-HYTE-P3R-KEYCAP-B",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
         "group": "Next Month",
         "sku": "ACC-HYTE-PCIE50-BB",
         "description": "[PITCH BLACK] HYTE PCIE50 HYPER RISER",
@@ -222,14 +206,6 @@
         "eta": null,
         "communicated_date": "Q4 2025",
         "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "ACC-HYTE-USB-HUB",
-        "description": "POWERED UNIVERSAL HUB",
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 800
     },
     {
         "group": "Next Month",
@@ -291,29 +267,13 @@
         "group": "Next Month",
         "sku": "CS-HYTE-X50G-WW",
         "description": "[SNOW WHITE] HYTE X50 CASE",
-        "eta": "2025-09-26, 2025-09-26, 2025-09-26, 2025-10-10, 2025-10-17, 2025-10-17",
+        "eta": "2025-09-26, 2025-09-26, 2025-10-10, 2025-10-17, 2025-10-17",
         "communicated_date": "early October",
-        "quantity": 2555
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y60-B",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
+        "quantity": 2023
     },
     {
         "group": "Out of Stocks",
         "sku": "CS-HYTE-Y60-R1-B",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y60-R1-WW",
         "description": null,
         "eta": null,
         "communicated_date": null,
@@ -376,14 +336,6 @@
         "quantity": 0
     },
     {
-        "group": "Out of Stocks",
-        "sku": "KEY-HYTE-SUISEI",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
         "group": "TBA",
         "sku": "KEY-HYTE-TOKI",
         "description": null,
@@ -406,13 +358,5 @@
         "eta": null,
         "communicated_date": "Q4 2025",
         "quantity": 600
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "MOU-HYTE-P3R-2",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
     }
 ]
