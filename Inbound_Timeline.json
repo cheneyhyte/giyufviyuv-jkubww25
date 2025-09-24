@@ -155,7 +155,7 @@
         "group": "Next Month",
         "sku": "ACC-HYTE-PCIE50-BB",
         "description": "[PITCH BLACK] HYTE PCIE50 HYPER RISER",
-        "eta": null,
+        "eta": "2025-10-24",
         "communicated_date": "Early October",
         "quantity": 350
     },
@@ -163,7 +163,7 @@
         "group": "Next Month",
         "sku": "ACC-HYTE-PCIE50-BR",
         "description": "[BLACK CHERRY] HYTE PCIE50 HYPER RISER",
-        "eta": null,
+        "eta": "2025-10-24",
         "communicated_date": "Early October",
         "quantity": 200
     },
@@ -171,7 +171,7 @@
         "group": "Next Month",
         "sku": "ACC-HYTE-PCIE50-MM",
         "description": "[MATCHA MILK] HYTE PCIE50 HYPER RISER",
-        "eta": null,
+        "eta": "2025-10-24, 2025-10-24",
         "communicated_date": "Early October",
         "quantity": 300
     },
@@ -179,7 +179,7 @@
         "group": "Next Month",
         "sku": "ACC-HYTE-PCIE50-SM",
         "description": "[STRAWBERRY MILK] HYTE PCIE50 HYPER RISER",
-        "eta": null,
+        "eta": "2025-10-24",
         "communicated_date": "Early October",
         "quantity": 200
     },
@@ -187,7 +187,7 @@
         "group": "Next Month",
         "sku": "ACC-HYTE-PCIE50-TM",
         "description": "[TARO MILK] HYTE PCIE50 HYPER RISER",
-        "eta": null,
+        "eta": "2025-10-24",
         "communicated_date": "Early October",
         "quantity": 200
     },
@@ -195,7 +195,7 @@
         "group": "Next Month",
         "sku": "ACC-HYTE-PCIE50-WW",
         "description": "[SNOW WHITE] HYTE PCIE50 HYPER RISER",
-        "eta": null,
+        "eta": "2025-10-24",
         "communicated_date": "Early October",
         "quantity": 350
     },
@@ -243,7 +243,7 @@
         "group": "2+ Months Out",
         "sku": "CS-HYTE-X50G-RR",
         "description": "[CHERRY] HYTE X50 CASE",
-        "eta": null,
+        "eta": "2025-10-27",
         "communicated_date": "early November",
         "quantity": 1000
     },
@@ -259,7 +259,7 @@
         "group": "2+ Months Out",
         "sku": "CS-HYTE-X50G-TM",
         "description": "[TARO MILK] HYTE X50 CASE",
-        "eta": null,
+        "eta": "2025-10-24",
         "communicated_date": "early November",
         "quantity": 2000
     },
@@ -267,37 +267,13 @@
         "group": "Next Month",
         "sku": "CS-HYTE-X50G-WW",
         "description": "[SNOW WHITE] HYTE X50 CASE",
-        "eta": "2025-09-26, 2025-09-26, 2025-10-10, 2025-10-17, 2025-10-17",
+        "eta": "2025-09-26, 2025-09-26, 2025-10-10, 2025-10-17, 2025-10-17, 2025-10-24",
         "communicated_date": "early October",
         "quantity": 2023
     },
     {
         "group": "Out of Stocks",
         "sku": "CS-HYTE-Y60-R1-B",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y60-WW",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y70-B",
-        "description": "[BLK] HYTE Y70  CASE",
-        "eta": "2025-10-31",
-        "communicated_date": null,
-        "quantity": 3487
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y70-METAPHOR",
         "description": null,
         "eta": null,
         "communicated_date": null,
@@ -330,14 +306,6 @@
     {
         "group": "Out of Stocks",
         "sku": "CS-HYTE-Y70-R1-WW",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y70-SM",
         "description": null,
         "eta": null,
         "communicated_date": null,
