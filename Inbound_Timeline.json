@@ -129,6 +129,14 @@
     },
     {
         "group": "TBA",
+        "sku": "ACC-HYTE-FIREFLY-FS",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q4 2025",
+        "quantity": 0
+    },
+    {
+        "group": "TBA",
         "sku": "ACC-HYTE-GWING-WS",
         "description": "HYTE GUNDAM WING WALL SCROLL",
         "eta": null,
@@ -281,6 +289,30 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "CS-HYTE-Y60-R1-WW",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "TBA",
+        "sku": "CS-HYTE-Y70-FFLY-EN",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q4 2025",
+        "quantity": 0
+    },
+    {
+        "group": "TBA",
+        "sku": "CS-HYTE-Y70-FFLY-JP",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q4 2025",
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "CS-HYTE-Y70-R1-B",
         "description": null,
         "eta": null,
@@ -329,6 +361,14 @@
     },
     {
         "group": "TBA",
+        "sku": "KEY-HYTE-FIREFLY",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q4 2025",
+        "quantity": 0
+    },
+    {
+        "group": "TBA",
         "sku": "KEY-HYTE-GWING",
         "description": null,
         "eta": null,
@@ -346,6 +386,14 @@
     {
         "group": "TBA",
         "sku": "MAT-HYTE-AFO",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q4 2025",
+        "quantity": 0
+    },
+    {
+        "group": "TBA",
+        "sku": "MAT-HYTE-FIREFLY",
         "description": null,
         "eta": null,
         "communicated_date": "Q4 2025",
