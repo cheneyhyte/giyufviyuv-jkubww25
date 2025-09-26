@@ -235,9 +235,9 @@
         "group": "Next Month",
         "sku": "CS-HYTE-X50G-BB",
         "description": "[PITCH BLACK] HYTE X50 CASE",
-        "eta": "2025-09-26, 2025-09-26, 2025-09-26, 2025-09-26",
+        "eta": "2025-09-26, 2025-09-26, 2025-09-26",
         "communicated_date": "early October",
-        "quantity": 1304
+        "quantity": 1285
     },
     {
         "group": "2+ Months Out",
@@ -275,9 +275,9 @@
         "group": "Next Month",
         "sku": "CS-HYTE-X50G-WW",
         "description": "[SNOW WHITE] HYTE X50 CASE",
-        "eta": "2025-09-26, 2025-09-26, 2025-10-10, 2025-10-17, 2025-10-17, 2025-10-24",
+        "eta": "2025-09-26, 2025-10-10, 2025-10-17, 2025-10-17, 2025-10-24",
         "communicated_date": "early October",
-        "quantity": 2023
+        "quantity": 1911
     },
     {
         "group": "Out of Stocks",
