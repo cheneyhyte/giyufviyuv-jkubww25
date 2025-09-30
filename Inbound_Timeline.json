@@ -216,6 +216,14 @@
         "quantity": 0
     },
     {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-USB-HUB",
+        "description": "POWERED UNIVERSAL HUB",
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 800
+    },
+    {
         "group": "Next Month",
         "sku": "CS-HYTE-X50A-BB",
         "description": "[PITCH BLACK] HYTE X50 AIR CASE",
@@ -235,9 +243,9 @@
         "group": "Next Month",
         "sku": "CS-HYTE-X50G-BB",
         "description": "[PITCH BLACK] HYTE X50 CASE",
-        "eta": "2025-09-26, 2025-09-26, 2025-09-26",
+        "eta": "2025-09-30, 2025-09-30",
         "communicated_date": "early October",
-        "quantity": 1285
+        "quantity": 753
     },
     {
         "group": "2+ Months Out",
@@ -275,7 +283,7 @@
         "group": "Next Month",
         "sku": "CS-HYTE-X50G-WW",
         "description": "[SNOW WHITE] HYTE X50 CASE",
-        "eta": "2025-09-26, 2025-10-10, 2025-10-17, 2025-10-17, 2025-10-24",
+        "eta": "2025-09-30, 2025-10-10, 2025-10-17, 2025-10-17, 2025-10-24",
         "communicated_date": "early October",
         "quantity": 1911
     },
