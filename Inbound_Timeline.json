@@ -145,14 +145,6 @@
     },
     {
         "group": "Out of Stocks",
-        "sku": "ACC-HYTE-LN-60-W",
-        "description": "[WHT] HYTE NOODLE LN60",
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 160
-    },
-    {
-        "group": "Out of Stocks",
         "sku": "ACC-HYTE-LS10-B-3NP",
         "description": null,
         "eta": null,
@@ -214,14 +206,6 @@
         "eta": null,
         "communicated_date": "Q4 2025",
         "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "ACC-HYTE-USB-HUB",
-        "description": "POWERED UNIVERSAL HUB",
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 800
     },
     {
         "group": "This Month",
