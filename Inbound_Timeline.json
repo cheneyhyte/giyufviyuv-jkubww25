@@ -145,6 +145,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "ACC-HYTE-LN-60-W",
+        "description": "[WHT] HYTE NOODLE LN60",
+        "eta": "2025-10-31",
+        "communicated_date": null,
+        "quantity": 160
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "ACC-HYTE-LS10-B-3NP",
         "description": null,
         "eta": null,
@@ -349,14 +357,6 @@
         "description": null,
         "eta": null,
         "communicated_date": "Q4 2025",
-        "quantity": 0
-    },
-    {
-        "group": "This Month",
-        "sku": "FAN-HYTE-FA12-RR-4",
-        "description": null,
-        "eta": null,
-        "communicated_date": "early October",
         "quantity": 0
     },
     {
