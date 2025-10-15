@@ -145,6 +145,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "ACC-HYTE-LK-Y7TTI-MM",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "ACC-HYTE-LN-60-W",
         "description": "[WHT] HYTE NOODLE LN60",
         "eta": "2025-10-31",
@@ -179,9 +187,9 @@
         "group": "This Month",
         "sku": "ACC-HYTE-PCIE50-MM",
         "description": "[MATCHA MILK] HYTE PCIE50 HYPER RISER",
-        "eta": "2025-10-24, 2025-10-24",
+        "eta": "2025-10-24",
         "communicated_date": "Week of October 27th",
-        "quantity": 300
+        "quantity": 150
     },
     {
         "group": "This Month",
