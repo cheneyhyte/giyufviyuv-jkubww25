@@ -243,9 +243,9 @@
         "group": "Next Month",
         "sku": "CS-HYTE-X50G-RR",
         "description": "[CHERRY] HYTE X50 CASE",
-        "eta": "2025-10-27",
+        "eta": null,
         "communicated_date": "early November",
-        "quantity": 1000
+        "quantity": 468
     },
     {
         "group": "Next Month",
@@ -274,14 +274,6 @@
     {
         "group": "Out of Stocks",
         "sku": "CS-HYTE-Y60-R1-WW",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y60-WW",
         "description": null,
         "eta": null,
         "communicated_date": null,
