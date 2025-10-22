@@ -145,6 +145,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "ACC-HYTE-HOLO-BKDM",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "ACC-HYTE-LK-Y7TTI-MM",
         "description": null,
         "eta": null,
@@ -170,50 +178,50 @@
     {
         "group": "This Month",
         "sku": "ACC-HYTE-PCIE50-BB",
-        "description": "[PITCH BLACK] HYTE PCIE50 HYPER RISER",
-        "eta": "2025-10-24",
+        "description": null,
+        "eta": null,
         "communicated_date": "Week of October 27th",
-        "quantity": 350
+        "quantity": 0
     },
     {
         "group": "This Month",
         "sku": "ACC-HYTE-PCIE50-BR",
-        "description": "[BLACK CHERRY] HYTE PCIE50 HYPER RISER",
-        "eta": "2025-10-24",
+        "description": null,
+        "eta": null,
         "communicated_date": "Week of October 27th",
-        "quantity": 200
+        "quantity": 0
     },
     {
         "group": "This Month",
         "sku": "ACC-HYTE-PCIE50-MM",
-        "description": "[MATCHA MILK] HYTE PCIE50 HYPER RISER",
-        "eta": "2025-10-24",
+        "description": null,
+        "eta": null,
         "communicated_date": "Week of October 27th",
-        "quantity": 150
+        "quantity": 0
     },
     {
         "group": "This Month",
         "sku": "ACC-HYTE-PCIE50-SM",
-        "description": "[STRAWBERRY MILK] HYTE PCIE50 HYPER RISER",
-        "eta": "2025-10-24",
+        "description": null,
+        "eta": null,
         "communicated_date": "Week of October 27th",
-        "quantity": 200
+        "quantity": 0
     },
     {
         "group": "This Month",
         "sku": "ACC-HYTE-PCIE50-TM",
-        "description": "[TARO MILK] HYTE PCIE50 HYPER RISER",
-        "eta": "2025-10-24",
+        "description": null,
+        "eta": null,
         "communicated_date": "Week of October 27th",
-        "quantity": 200
+        "quantity": 0
     },
     {
         "group": "This Month",
         "sku": "ACC-HYTE-PCIE50-WW",
-        "description": "[SNOW WHITE] HYTE PCIE50 HYPER RISER",
-        "eta": "2025-10-24",
+        "description": null,
+        "eta": null,
         "communicated_date": "Week of October 27th",
-        "quantity": 350
+        "quantity": 0
     },
     {
         "group": "TBA",
@@ -330,10 +338,10 @@
     {
         "group": "TBA",
         "sku": "CS-HYTE-Y70-TOKI",
-        "description": null,
+        "description": "HYTE TOKIDOKI X HOLOLIVE ADVENT Y70",
         "eta": null,
         "communicated_date": "Q4 2025",
-        "quantity": 0
+        "quantity": 400
     },
     {
         "group": "TBA",
@@ -354,10 +362,10 @@
     {
         "group": "TBA",
         "sku": "KEY-HYTE-TOKI",
-        "description": null,
+        "description": "HYTE TOKIDOKI X HOLOLIVE ADVENT KEYCAP BUNDLE",
         "eta": null,
         "communicated_date": "Q4 2025",
-        "quantity": 0
+        "quantity": 400
     },
     {
         "group": "TBA",
