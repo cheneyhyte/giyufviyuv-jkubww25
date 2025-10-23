@@ -267,9 +267,9 @@
         "group": "Next Month",
         "sku": "CS-HYTE-X50G-TM",
         "description": "[TARO MILK] HYTE X50 CASE",
-        "eta": "2025-10-24",
+        "eta": null,
         "communicated_date": "early November",
-        "quantity": 2000
+        "quantity": 1468
     },
     {
         "group": "Out of Stocks",
