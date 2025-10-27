@@ -168,6 +168,14 @@
         "quantity": 0
     },
     {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-LS30-B-2NP",
+        "description": "[BLK] LS30 LED STRIP 2 PACK WITH NP50",
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 900
+    },
+    {
         "group": "This Month",
         "sku": "ACC-HYTE-PCIE50-BB",
         "description": null,
@@ -227,15 +235,15 @@
         "group": "Next Month",
         "sku": "ACC-HYTE-USB-HUB",
         "description": "POWERED UNIVERSAL HUB",
-        "eta": "2025-10-31",
+        "eta": null,
         "communicated_date": "early November",
-        "quantity": 1600
+        "quantity": 800
     },
     {
         "group": "Next Month",
         "sku": "CS-HYTE-X50G-MM",
         "description": "[MATCHA MILK] HYTE X50 CASE",
-        "eta": "2025-10-31",
+        "eta": "2025-10-31, 2029-11-28, 2029-11-28",
         "communicated_date": "early November",
         "quantity": 1150
     },
@@ -243,7 +251,7 @@
         "group": "Next Month",
         "sku": "CS-HYTE-X50G-RR",
         "description": "[CHERRY] HYTE X50 CASE",
-        "eta": null,
+        "eta": "2029-11-28",
         "communicated_date": "early November",
         "quantity": 468
     },
@@ -251,7 +259,7 @@
         "group": "Next Month",
         "sku": "CS-HYTE-X50G-SM",
         "description": "[STRAWBERRY MILK] HYTE X50 CASE",
-        "eta": "2025-10-31",
+        "eta": "2025-10-31, 2029-11-28",
         "communicated_date": "early November",
         "quantity": 1800
     },
@@ -259,7 +267,7 @@
         "group": "Next Month",
         "sku": "CS-HYTE-X50G-TM",
         "description": "[TARO MILK] HYTE X50 CASE",
-        "eta": null,
+        "eta": "2029-11-28, 2025-12-01",
         "communicated_date": "early November",
         "quantity": 1468
     },
