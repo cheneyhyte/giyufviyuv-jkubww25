@@ -176,54 +176,6 @@
         "quantity": 900
     },
     {
-        "group": "This Month",
-        "sku": "ACC-HYTE-PCIE50-BB",
-        "description": null,
-        "eta": null,
-        "communicated_date": "Week of October 27th",
-        "quantity": 0
-    },
-    {
-        "group": "This Month",
-        "sku": "ACC-HYTE-PCIE50-BR",
-        "description": null,
-        "eta": null,
-        "communicated_date": "Week of October 27th",
-        "quantity": 0
-    },
-    {
-        "group": "This Month",
-        "sku": "ACC-HYTE-PCIE50-MM",
-        "description": null,
-        "eta": null,
-        "communicated_date": "Week of October 27th",
-        "quantity": 0
-    },
-    {
-        "group": "This Month",
-        "sku": "ACC-HYTE-PCIE50-SM",
-        "description": null,
-        "eta": null,
-        "communicated_date": "Week of October 27th",
-        "quantity": 0
-    },
-    {
-        "group": "This Month",
-        "sku": "ACC-HYTE-PCIE50-TM",
-        "description": null,
-        "eta": null,
-        "communicated_date": "Week of October 27th",
-        "quantity": 0
-    },
-    {
-        "group": "This Month",
-        "sku": "ACC-HYTE-PCIE50-WW",
-        "description": null,
-        "eta": null,
-        "communicated_date": "Week of October 27th",
-        "quantity": 0
-    },
-    {
         "group": "TBA",
         "sku": "ACC-HYTE-TOKI-WS",
         "description": null,
@@ -259,7 +211,7 @@
         "group": "Next Month",
         "sku": "CS-HYTE-X50G-SM",
         "description": "[STRAWBERRY MILK] HYTE X50 CASE",
-        "eta": "2025-10-31, 2029-11-28",
+        "eta": "2025-10-31, 2029-11-28, 2025-12-01, 2025-12-01",
         "communicated_date": "early November",
         "quantity": 1800
     },
@@ -267,7 +219,7 @@
         "group": "Next Month",
         "sku": "CS-HYTE-X50G-TM",
         "description": "[TARO MILK] HYTE X50 CASE",
-        "eta": "2029-11-28, 2025-12-01",
+        "eta": "2029-11-28, 2025-12-01, 2025-12-01",
         "communicated_date": "early November",
         "quantity": 1468
     },
@@ -342,6 +294,14 @@
         "eta": null,
         "communicated_date": "Q4 2025",
         "quantity": 400
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "HOOD-HYTE-001-M",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
     },
     {
         "group": "TBA",
