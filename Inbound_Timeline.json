@@ -184,15 +184,7 @@
         "quantity": 500
     },
     {
-        "group": "Next Month",
-        "sku": "CS-HYTE-X50G-MM",
-        "description": "[MATCHA MILK] HYTE X50 CASE",
-        "eta": "2029-11-28, 2029-11-28, 2025-12-01",
-        "communicated_date": "early November",
-        "quantity": 618
-    },
-    {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "CS-HYTE-X50G-SM",
         "description": "[STRAWBERRY MILK] HYTE X50 CASE",
         "eta": "2029-11-28, 2025-12-01, 2025-12-01",
