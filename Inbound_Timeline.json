@@ -184,14 +184,6 @@
         "quantity": 500
     },
     {
-        "group": "This Month",
-        "sku": "CS-HYTE-X50G-SM",
-        "description": "[STRAWBERRY MILK] HYTE X50 CASE",
-        "eta": "2025-11-28, 2025-12-01, 2025-12-01",
-        "communicated_date": "early November",
-        "quantity": 1268
-    },
-    {
         "group": "Out of Stocks",
         "sku": "CS-HYTE-Y60-R1-B",
         "description": null,
