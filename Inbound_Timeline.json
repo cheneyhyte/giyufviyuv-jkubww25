@@ -257,14 +257,6 @@
     },
     {
         "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y70TTI-WB",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
         "sku": "HOOD-HYTE-001-M",
         "description": null,
         "eta": null,
@@ -285,7 +277,7 @@
         "description": "HYTE GUNDAM WING KEYCAPS",
         "eta": null,
         "communicated_date": "Q4 2025",
-        "quantity": 600
+        "quantity": 800
     },
     {
         "group": "TBA",
