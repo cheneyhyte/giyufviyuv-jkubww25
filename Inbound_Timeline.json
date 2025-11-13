@@ -128,6 +128,22 @@
         "quantity": 0
     },
     {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-DOKI-KC",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-DOKI-WS",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
         "group": "TBA",
         "sku": "ACC-HYTE-FIREFLY-FS",
         "description": null,
@@ -185,14 +201,6 @@
     },
     {
         "group": "Out of Stocks",
-        "sku": "CS-HYTE-REVOLT3-B",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
         "sku": "CS-HYTE-Y60-R1-B",
         "description": null,
         "eta": null,
@@ -202,14 +210,6 @@
     {
         "group": "Out of Stocks",
         "sku": "CS-HYTE-Y60-R1-WW",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y70-B",
         "description": null,
         "eta": null,
         "communicated_date": null,
