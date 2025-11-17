@@ -273,6 +273,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "FAN-HYTE-FA12-RR-4",
+        "description": "[WILD CHERRY] HYTE FA12 PWM FAN (4-PACK)",
+        "eta": "2025-11-21",
+        "communicated_date": null,
+        "quantity": 204
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "HOOD-HYTE-001-M",
         "description": null,
         "eta": null,
