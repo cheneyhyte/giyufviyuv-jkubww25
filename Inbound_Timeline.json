@@ -146,10 +146,10 @@
     {
         "group": "TBA",
         "sku": "ACC-HYTE-FIREFLY-FS",
-        "description": null,
+        "description": "HYTE HSR FIREFLY FAN SHROUDS",
         "eta": null,
         "communicated_date": "Q4 2025",
-        "quantity": 0
+        "quantity": 300
     },
     {
         "group": "TBA",
@@ -218,18 +218,18 @@
     {
         "group": "TBA",
         "sku": "CS-HYTE-Y70-FFLY-EN",
-        "description": null,
+        "description": "HYTE HSR FIREFLY Y70 ENGLISH",
         "eta": null,
         "communicated_date": "Q4 2025",
-        "quantity": 0
+        "quantity": 400
     },
     {
         "group": "TBA",
         "sku": "CS-HYTE-Y70-FFLY-JP",
-        "description": null,
+        "description": "HYTE HSR FIREFLY Y70 JAPANESE",
         "eta": null,
         "communicated_date": "Q4 2025",
-        "quantity": 0
+        "quantity": 250
     },
     {
         "group": "Out of Stocks",
@@ -256,28 +256,12 @@
         "quantity": 0
     },
     {
-        "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y70-R1-WW",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
         "group": "TBA",
         "sku": "CS-HYTE-Y70-TOKI",
         "description": "HYTE TOKIDOKI X HOLOLIVE ADVENT Y70",
         "eta": null,
         "communicated_date": "Q4 2025",
         "quantity": 400
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "FAN-HYTE-FA12-RR-4",
-        "description": "[WILD CHERRY] HYTE FA12 PWM FAN (4-PACK)",
-        "eta": "2025-11-21",
-        "communicated_date": null,
-        "quantity": 204
     },
     {
         "group": "Out of Stocks",
@@ -290,10 +274,10 @@
     {
         "group": "TBA",
         "sku": "KEY-HYTE-FIREFLY",
-        "description": null,
+        "description": "HYTE HSR FIREFLY KEYCAPS",
         "eta": null,
         "communicated_date": "Q4 2025",
-        "quantity": 0
+        "quantity": 400
     },
     {
         "group": "TBA",
@@ -322,10 +306,10 @@
     {
         "group": "TBA",
         "sku": "MAT-HYTE-FIREFLY",
-        "description": null,
+        "description": "HYTE HSR FIREFLY DESK MAT",
         "eta": null,
         "communicated_date": "Q4 2025",
-        "quantity": 0
+        "quantity": 600
     },
     {
         "group": "TBA",
