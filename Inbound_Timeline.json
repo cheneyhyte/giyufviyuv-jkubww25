@@ -128,22 +128,6 @@
         "quantity": 0
     },
     {
-        "group": "Out of Stocks",
-        "sku": "ACC-HYTE-DOKI-KC",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "ACC-HYTE-DOKI-WS",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
         "group": "TBA",
         "sku": "ACC-HYTE-FIREFLY-FS",
         "description": "HYTE HSR FIREFLY FAN SHROUDS",
@@ -158,14 +142,6 @@
         "eta": "2025-12-05",
         "communicated_date": "Q4 2025",
         "quantity": 300
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "ACC-HYTE-HOLO-BKDM",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
     },
     {
         "group": "Out of Stocks",
@@ -256,10 +232,18 @@
         "quantity": 0
     },
     {
+        "group": "Out of Stocks",
+        "sku": "CS-HYTE-Y70-R1-WW",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
         "group": "TBA",
         "sku": "CS-HYTE-Y70-TOKI",
         "description": "HYTE TOKIDOKI X HOLOLIVE ADVENT Y70",
-        "eta": null,
+        "eta": "2025-12-29",
         "communicated_date": "Q4 2025",
         "quantity": 400
     },
@@ -291,7 +275,7 @@
         "group": "TBA",
         "sku": "KEY-HYTE-TOKI",
         "description": "HYTE TOKIDOKI X HOLOLIVE ADVENT KEYCAP BUNDLE",
-        "eta": null,
+        "eta": "2025-12-29",
         "communicated_date": "Q4 2025",
         "quantity": 400
     },
