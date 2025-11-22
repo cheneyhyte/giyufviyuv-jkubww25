@@ -145,14 +145,6 @@
     },
     {
         "group": "Out of Stocks",
-        "sku": "ACC-HYTE-LK-Y7TTI-MM",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
         "sku": "ACC-HYTE-LS10-B-3NP",
         "description": null,
         "eta": null,
