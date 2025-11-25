@@ -160,6 +160,14 @@
         "quantity": 900
     },
     {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-SPF-AM5-WW",
+        "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
+        "eta": "2025-12-05",
+        "communicated_date": null,
+        "quantity": 260
+    },
+    {
         "group": "TBA",
         "sku": "ACC-HYTE-TOKI-WS",
         "description": "HYTE TOKIDOKI X HOLOLIVE ADVENT WALL SCROLL",
@@ -178,6 +186,14 @@
     {
         "group": "Out of Stocks",
         "sku": "CS-HYTE-Y60-R1-WW",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "CS-HYTE-Y60-WW",
         "description": null,
         "eta": null,
         "communicated_date": null,
@@ -241,6 +257,22 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "FAN-HYTE-FA12-RR-4",
+        "description": "[WILD CHERRY] HYTE FA12 PWM FAN (4-PACK)",
+        "eta": "2025-11-26",
+        "communicated_date": null,
+        "quantity": 204
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "FAN-HYTE-Q60-BW",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "HOOD-HYTE-001-M",
         "description": null,
         "eta": null,
@@ -294,5 +326,13 @@
         "eta": "2025-12-05",
         "communicated_date": "Q4 2025",
         "quantity": 600
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "MOU-IBP-AEIION",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
     }
 ]
