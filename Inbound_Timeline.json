@@ -139,7 +139,7 @@
         "group": "TBA",
         "sku": "ACC-HYTE-GWING-WS",
         "description": "HYTE GUNDAM WING WALL SCROLL",
-        "eta": "2025-12-05",
+        "eta": "2025-12-12",
         "communicated_date": "Q4 2025",
         "quantity": 300
     },
@@ -155,7 +155,7 @@
         "group": "Out of Stocks",
         "sku": "ACC-HYTE-LS30-B-2NP",
         "description": "[BLK] LS30 LED STRIP 2 PACK WITH NP50",
-        "eta": "2025-12-05",
+        "eta": "2025-12-12",
         "communicated_date": null,
         "quantity": 900
     },
@@ -163,7 +163,7 @@
         "group": "Out of Stocks",
         "sku": "ACC-HYTE-SPF-AM5-WW",
         "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
-        "eta": "2025-12-05",
+        "eta": "2025-12-12",
         "communicated_date": null,
         "quantity": 260
     },
@@ -256,20 +256,12 @@
         "quantity": 400
     },
     {
-        "group": "Out of Stocks",
+        "group": "Next Month",
         "sku": "FAN-HYTE-FA12-RR-4",
         "description": "[WILD CHERRY] HYTE FA12 PWM FAN (4-PACK)",
-        "eta": "2025-11-26",
-        "communicated_date": null,
-        "quantity": 204
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "FAN-HYTE-Q60-BW",
-        "description": null,
         "eta": null,
-        "communicated_date": null,
-        "quantity": 0
+        "communicated_date": "Week of December 15th",
+        "quantity": 204
     },
     {
         "group": "Out of Stocks",
@@ -323,7 +315,7 @@
         "group": "TBA",
         "sku": "MOU-HYTE-GWING",
         "description": "HYTE GUNDAM WING DESK PAD",
-        "eta": "2025-12-05",
+        "eta": "2025-12-12",
         "communicated_date": "Q4 2025",
         "quantity": 600
     },
