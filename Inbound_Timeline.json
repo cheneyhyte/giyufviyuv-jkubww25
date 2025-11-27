@@ -144,6 +144,14 @@
         "quantity": 300
     },
     {
+        "group": "2+ Months Out",
+        "sku": "ACC-HYTE-LK-Y7TTI-SM",
+        "description": "14.9\" [STRAWBERRY MILK] HYTE Y70 TOUCH INFINITE DISPLAY UPGRADE",
+        "eta": "2025-12-29",
+        "communicated_date": "early January 2026",
+        "quantity": 300
+    },
+    {
         "group": "Out of Stocks",
         "sku": "ACC-HYTE-LS10-B-3NP",
         "description": null,
@@ -174,6 +182,14 @@
         "eta": null,
         "communicated_date": "Q4 2025",
         "quantity": 500
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "CS-HYTE-Y60-B",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
     },
     {
         "group": "Out of Stocks",
