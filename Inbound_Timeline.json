@@ -281,6 +281,22 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "FAN-HYTE-FA12-TM-4",
+        "description": "[TARO MILK] HYTE FA12 PWM FAN (4-PACK)",
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 600
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "FAN-HYTE-Q60-BW",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "HOOD-HYTE-001-M",
         "description": null,
         "eta": null,
