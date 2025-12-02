@@ -147,7 +147,7 @@
         "group": "Next Month",
         "sku": "ACC-HYTE-LK-Y7TTI-SM",
         "description": "14.9\" [STRAWBERRY MILK] HYTE Y70 TOUCH INFINITE DISPLAY UPGRADE",
-        "eta": "2025-12-29",
+        "eta": "2026-01-02",
         "communicated_date": "early January 2026",
         "quantity": 300
     },
@@ -160,19 +160,11 @@
         "quantity": 0
     },
     {
-        "group": "Out of Stocks",
-        "sku": "ACC-HYTE-LS30-B-2NP",
-        "description": "[BLK] LS30 LED STRIP 2 PACK WITH NP50",
-        "eta": "2025-12-12",
-        "communicated_date": null,
-        "quantity": 900
-    },
-    {
-        "group": "Out of Stocks",
+        "group": "This Month",
         "sku": "ACC-HYTE-SPF-AM5-WW",
         "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
         "eta": "2025-12-12",
-        "communicated_date": null,
+        "communicated_date": "Week of December 15th",
         "quantity": 260
     },
     {
@@ -267,7 +259,7 @@
         "group": "TBA",
         "sku": "CS-HYTE-Y70-TOKI",
         "description": "HYTE TOKIDOKI X HOLOLIVE ADVENT Y70",
-        "eta": "2025-12-29",
+        "eta": "2026-01-02",
         "communicated_date": "Q4 2025",
         "quantity": 400
     },
@@ -323,7 +315,7 @@
         "group": "TBA",
         "sku": "KEY-HYTE-TOKI",
         "description": "HYTE TOKIDOKI X HOLOLIVE ADVENT KEYCAP BUNDLE",
-        "eta": "2025-12-29",
+        "eta": "2026-01-02",
         "communicated_date": "Q4 2025",
         "quantity": 400
     },
