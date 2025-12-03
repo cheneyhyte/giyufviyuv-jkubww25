@@ -173,7 +173,7 @@
         "description": "HYTE TOKIDOKI X HOLOLIVE ADVENT WALL SCROLL",
         "eta": null,
         "communicated_date": "Q4 2025",
-        "quantity": 500
+        "quantity": 480
     },
     {
         "group": "Out of Stocks",
@@ -270,6 +270,14 @@
         "eta": null,
         "communicated_date": "Week of December 15th",
         "quantity": 204
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "FAN-HYTE-FA12-SM-4",
+        "description": "[STRAWBERRY MILK] HYTE FA12 PWM FAN (4-PACK)",
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 612
     },
     {
         "group": "Out of Stocks",
