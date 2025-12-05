@@ -132,7 +132,7 @@
         "sku": "ACC-HYTE-FIREFLY-FS",
         "description": "HYTE HSR FIREFLY FAN SHROUDS",
         "eta": null,
-        "communicated_date": "Q4 2025",
+        "communicated_date": "Q1 2026",
         "quantity": 300
     },
     {
@@ -212,7 +212,7 @@
         "sku": "CS-HYTE-Y70-FFLY-EN",
         "description": "HYTE HSR FIREFLY Y70 ENGLISH",
         "eta": null,
-        "communicated_date": "Q4 2025",
+        "communicated_date": "Q1 2026",
         "quantity": 400
     },
     {
@@ -220,7 +220,7 @@
         "sku": "CS-HYTE-Y70-FFLY-JP",
         "description": "HYTE HSR FIREFLY Y70 JAPANESE",
         "eta": null,
-        "communicated_date": "Q4 2025",
+        "communicated_date": "Q1 2026",
         "quantity": 250
     },
     {
@@ -267,7 +267,7 @@
         "group": "This Month",
         "sku": "FAN-HYTE-FA12-RR-4",
         "description": "[WILD CHERRY] HYTE FA12 PWM FAN (4-PACK)",
-        "eta": null,
+        "eta": "2025-12-04",
         "communicated_date": "Week of December 15th",
         "quantity": 204
     },
@@ -292,7 +292,7 @@
         "sku": "KEY-HYTE-FIREFLY",
         "description": "HYTE HSR FIREFLY KEYCAPS",
         "eta": null,
-        "communicated_date": "Q4 2025",
+        "communicated_date": "Q1 2026",
         "quantity": 400
     },
     {
@@ -324,7 +324,7 @@
         "sku": "MAT-HYTE-FIREFLY",
         "description": "HYTE HSR FIREFLY DESK MAT",
         "eta": null,
-        "communicated_date": "Q4 2025",
+        "communicated_date": "Q1 2026",
         "quantity": 600
     },
     {
