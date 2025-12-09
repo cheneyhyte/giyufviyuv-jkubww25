@@ -160,6 +160,14 @@
         "quantity": 0
     },
     {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-PCIE50-BB",
+        "description": "[PITCH BLACK] HYTE PCIE50 HYPER RISER",
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 600
+    },
+    {
         "group": "This Month",
         "sku": "ACC-HYTE-SPF-AM5-WW",
         "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
