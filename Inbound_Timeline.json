@@ -275,9 +275,9 @@
         "group": "This Month",
         "sku": "FAN-HYTE-FA12-RR-4",
         "description": "[WILD CHERRY] HYTE FA12 PWM FAN (4-PACK)",
-        "eta": "2025-12-12",
+        "eta": null,
         "communicated_date": "Week of December 15th",
-        "quantity": 180
+        "quantity": 48
     },
     {
         "group": "Out of Stocks",
