@@ -168,6 +168,14 @@
         "quantity": 600
     },
     {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-PCIE50-WW",
+        "description": "[SNOW WHITE] HYTE PCIE50 HYPER RISER",
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 600
+    },
+    {
         "group": "This Month",
         "sku": "ACC-HYTE-SPF-AM5-WW",
         "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
@@ -182,6 +190,14 @@
         "eta": null,
         "communicated_date": "Q4 2025",
         "quantity": 480
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "CS-HYTE-REVOLT3-W",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
     },
     {
         "group": "Out of Stocks",
@@ -342,6 +358,14 @@
         "eta": "2025-12-12",
         "communicated_date": "Q4 2025",
         "quantity": 600
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "MOU-HYTE-P3R-TRAIN",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
     },
     {
         "group": "Out of Stocks",
