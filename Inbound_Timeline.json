@@ -193,14 +193,6 @@
     },
     {
         "group": "Out of Stocks",
-        "sku": "CS-HYTE-REVOLT3-W",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
         "sku": "CS-HYTE-Y60-B",
         "description": null,
         "eta": null,
@@ -293,7 +285,7 @@
         "description": "[WILD CHERRY] HYTE FA12 PWM FAN (4-PACK)",
         "eta": null,
         "communicated_date": "Week of December 15th",
-        "quantity": 48
+        "quantity": 456
     },
     {
         "group": "Out of Stocks",
