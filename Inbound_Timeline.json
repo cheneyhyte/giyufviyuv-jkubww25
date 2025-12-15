@@ -297,6 +297,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "FAN-HYTE-FA12-WW-4",
+        "description": "[SNOW WHITE] HYTE FA12 PWM FAN (4-PACK)",
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 408
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "FAN-HYTE-Q60-BW",
         "description": null,
         "eta": null,
