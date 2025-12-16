@@ -217,14 +217,6 @@
     },
     {
         "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y60-R1-WW",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
         "sku": "CS-HYTE-Y60-WW",
         "description": null,
         "eta": null,
@@ -250,14 +242,6 @@
     {
         "group": "Out of Stocks",
         "sku": "CS-HYTE-Y70-R1-B",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y70-R1-BR",
         "description": null,
         "eta": null,
         "communicated_date": null,
@@ -333,7 +317,7 @@
         "description": "HYTE GUNDAM WING KEYCAPS",
         "eta": null,
         "communicated_date": "Q4 2025",
-        "quantity": 800
+        "quantity": 790
     },
     {
         "group": "TBA",
