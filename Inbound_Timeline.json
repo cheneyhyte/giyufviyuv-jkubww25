@@ -138,10 +138,10 @@
     {
         "group": "TBA",
         "sku": "ACC-HYTE-GWING-WS",
-        "description": "HYTE GUNDAM WING WALL SCROLL",
-        "eta": "2025-12-12",
+        "description": null,
+        "eta": null,
         "communicated_date": "Q4 2025",
-        "quantity": 300
+        "quantity": 0
     },
     {
         "group": "Next Month",
@@ -179,9 +179,9 @@
         "group": "This Month",
         "sku": "ACC-HYTE-SPF-AM5-WW",
         "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
-        "eta": "2025-12-12",
+        "eta": null,
         "communicated_date": "Week of December 15th",
-        "quantity": 260
+        "quantity": 240
     },
     {
         "group": "TBA",
@@ -210,6 +210,14 @@
     {
         "group": "Out of Stocks",
         "sku": "CS-HYTE-Y60-R1-B",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "CS-HYTE-Y60-R1-WW",
         "description": null,
         "eta": null,
         "communicated_date": null,
@@ -346,10 +354,10 @@
     {
         "group": "TBA",
         "sku": "MOU-HYTE-GWING",
-        "description": "HYTE GUNDAM WING DESK PAD",
-        "eta": "2025-12-12",
+        "description": null,
+        "eta": null,
         "communicated_date": "Q4 2025",
-        "quantity": 600
+        "quantity": 0
     },
     {
         "group": "Out of Stocks",
