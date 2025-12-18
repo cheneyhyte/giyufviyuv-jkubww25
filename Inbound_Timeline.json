@@ -153,6 +153,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "ACC-HYTE-LN-70-B",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "ACC-HYTE-LS10-B-3NP",
         "description": null,
         "eta": null,
@@ -278,14 +286,6 @@
         "eta": "2026-01-02",
         "communicated_date": "Q4 2025",
         "quantity": 400
-    },
-    {
-        "group": "This Month",
-        "sku": "FAN-HYTE-FA12-RR-4",
-        "description": "[WILD CHERRY] HYTE FA12 PWM FAN (4-PACK)",
-        "eta": null,
-        "communicated_date": "Week of December 15th",
-        "quantity": 456
     },
     {
         "group": "Out of Stocks",
