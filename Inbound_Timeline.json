@@ -187,7 +187,7 @@
         "group": "This Month",
         "sku": "ACC-HYTE-SPF-AM5-WW",
         "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
-        "eta": null,
+        "eta": "2026-01-23, 2026-01-23",
         "communicated_date": "Week of December 15th",
         "quantity": 240
     },
@@ -293,7 +293,7 @@
         "description": "[SNOW WHITE] HYTE FA12 PWM FAN (4-PACK)",
         "eta": null,
         "communicated_date": null,
-        "quantity": 408
+        "quantity": 504
     },
     {
         "group": "Out of Stocks",
@@ -323,7 +323,7 @@
         "group": "TBA",
         "sku": "KEY-HYTE-GWING",
         "description": "HYTE GUNDAM WING KEYCAPS",
-        "eta": null,
+        "eta": "2026-01-23",
         "communicated_date": "Q4 2025",
         "quantity": 790
     },
