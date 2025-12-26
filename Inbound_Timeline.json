@@ -153,6 +153,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "ACC-HYTE-LN-70-W",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "ACC-HYTE-LS10-B-3NP",
         "description": null,
         "eta": null,
@@ -302,14 +310,6 @@
         "eta": null,
         "communicated_date": null,
         "quantity": 504
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "FAN-HYTE-Q60-BW",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
     },
     {
         "group": "Out of Stocks",
