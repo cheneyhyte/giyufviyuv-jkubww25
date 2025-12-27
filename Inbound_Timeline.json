@@ -313,6 +313,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "FAN-HYTE-Q60-BW",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "HOOD-HYTE-001-M",
         "description": null,
         "eta": null,
