@@ -4,7 +4,7 @@
         "sku": "ACC-HYTE-AFO-BAE",
         "description": "HYTE HOLOLIVE ALL FOR ONE ACRYLIC PHOTO BUNDLE \u2013 HAKOS BAELZ",
         "eta": null,
-        "communicated_date": "Q4 2025",
+        "communicated_date": "TBD",
         "quantity": 160
     },
     {
@@ -12,7 +12,7 @@
         "sku": "ACC-HYTE-AFO-BIBOO",
         "description": "HYTE HOLOLIVE ALL FOR ONE ACRYLIC PHOTO BUNDLE \u2013 KOSEKI BIJOU",
         "eta": null,
-        "communicated_date": "Q4 2025",
+        "communicated_date": "TBD",
         "quantity": 160
     },
     {
@@ -20,7 +20,7 @@
         "sku": "ACC-HYTE-AFO-CALLI",
         "description": "HYTE HOLOLIVE ALL FOR ONE ACRYLIC PHOTO BUNDLE \u2013 MORI CALLIOPE",
         "eta": null,
-        "communicated_date": "Q4 2025",
+        "communicated_date": "TBD",
         "quantity": 176
     },
     {
@@ -28,7 +28,7 @@
         "sku": "ACC-HYTE-AFO-CASE",
         "description": null,
         "eta": null,
-        "communicated_date": "Q4 2025",
+        "communicated_date": "TBD",
         "quantity": 0
     },
     {
@@ -36,7 +36,7 @@
         "sku": "ACC-HYTE-AFO-CECI",
         "description": "HYTE HOLOLIVE ALL FOR ONE ACRYLIC PHOTO BUNDLE \u2013 CECILIA IMMERGREEN",
         "eta": null,
-        "communicated_date": "Q4 2025",
+        "communicated_date": "TBD",
         "quantity": 192
     },
     {
@@ -44,7 +44,7 @@
         "sku": "ACC-HYTE-AFO-ERB",
         "description": "HYTE HOLOLIVE ALL FOR ONE ACRYLIC PHOTO BUNDLE \u2013 ELIZABETH ROSE BLOODFLAME",
         "eta": null,
-        "communicated_date": "Q4 2025",
+        "communicated_date": "TBD",
         "quantity": 144
     },
     {
@@ -52,7 +52,7 @@
         "sku": "ACC-HYTE-AFO-FUWA",
         "description": "HYTE HOLOLIVE ALL FOR ONE ACRYLIC PHOTO BUNDLE \u2013 FUWAWA ABYSSGARD",
         "eta": null,
-        "communicated_date": "Q4 2025",
+        "communicated_date": "TBD",
         "quantity": 160
     },
     {
@@ -60,7 +60,7 @@
         "sku": "ACC-HYTE-AFO-GIGI",
         "description": "HYTE HOLOLIVE ALL FOR ONE ACRYLIC PHOTO BUNDLE \u2013 GIGI MURIN",
         "eta": null,
-        "communicated_date": "Q4 2025",
+        "communicated_date": "TBD",
         "quantity": 208
     },
     {
@@ -68,7 +68,7 @@
         "sku": "ACC-HYTE-AFO-INA",
         "description": "HYTE HOLOLIVE ALL FOR ONE ACRYLIC PHOTO BUNDLE \u2013 NINOMAE INA\u2019NIS",
         "eta": null,
-        "communicated_date": "Q4 2025",
+        "communicated_date": "TBD",
         "quantity": 160
     },
     {
@@ -76,7 +76,7 @@
         "sku": "ACC-HYTE-AFO-IRYS",
         "description": "HYTE HOLOLIVE ALL FOR ONE ACRYLIC PHOTO BUNDLE \u2013 IRYS",
         "eta": null,
-        "communicated_date": "Q4 2025",
+        "communicated_date": "TBD",
         "quantity": 160
     },
     {
@@ -84,7 +84,7 @@
         "sku": "ACC-HYTE-AFO-KIARA",
         "description": "HYTE HOLOLIVE ALL FOR ONE ACRYLIC PHOTO BUNDLE \u2013 TAKANASHI KIARA",
         "eta": null,
-        "communicated_date": "Q4 2025",
+        "communicated_date": "TBD",
         "quantity": 128
     },
     {
@@ -92,7 +92,7 @@
         "sku": "ACC-HYTE-AFO-KRONII",
         "description": "HYTE HOLOLIVE ALL FOR ONE ACRYLIC PHOTO BUNDLE \u2013 OURO KRONII",
         "eta": null,
-        "communicated_date": "Q4 2025",
+        "communicated_date": "TBD",
         "quantity": 192
     },
     {
@@ -100,7 +100,7 @@
         "sku": "ACC-HYTE-AFO-MOCO",
         "description": "HYTE HOLOLIVE ALL FOR ONE ACRYLIC PHOTO BUNDLE \u2013 MOCOCO ABYSSGARD",
         "eta": null,
-        "communicated_date": "Q4 2025",
+        "communicated_date": "TBD",
         "quantity": 160
     },
     {
@@ -108,7 +108,7 @@
         "sku": "ACC-HYTE-AFO-RAORA",
         "description": "HYTE HOLOLIVE ALL FOR ONE ACRYLIC PHOTO BUNDLE \u2013 RAORA PANTHERA",
         "eta": null,
-        "communicated_date": "Q4 2025",
+        "communicated_date": "TBD",
         "quantity": 144
     },
     {
@@ -116,7 +116,7 @@
         "sku": "ACC-HYTE-AFO-RISSA",
         "description": "HYTE HOLOLIVE ALL FOR ONE ACRYLIC PHOTO BUNDLE \u2013 NERISSA RAVENCROFT",
         "eta": null,
-        "communicated_date": "Q4 2025",
+        "communicated_date": "TBD",
         "quantity": 176
     },
     {
@@ -124,7 +124,7 @@
         "sku": "ACC-HYTE-AFO-SHIORI",
         "description": "HYTE HOLOLIVE ALL FOR ONE ACRYLIC PHOTO BUNDLE \u2013 SHIORI NOVELLA",
         "eta": null,
-        "communicated_date": "Q4 2025",
+        "communicated_date": "TBD",
         "quantity": 160
     },
     {
@@ -177,6 +177,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "ACC-HYTE-PCIE50-BR",
+        "description": "[BLACK CHERRY] HYTE PCIE50 HYPER RISER",
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 100
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "ACC-HYTE-PCIE50-WW",
         "description": "[SNOW WHITE] HYTE PCIE50 HYPER RISER",
         "eta": null,
@@ -192,11 +200,11 @@
         "quantity": 240
     },
     {
-        "group": "TBA",
+        "group": "Next Month",
         "sku": "ACC-HYTE-TOKI-WS",
         "description": "HYTE TOKIDOKI X HOLOLIVE ADVENT WALL SCROLL",
         "eta": "2026-01-23",
-        "communicated_date": "Q4 2025",
+        "communicated_date": "Early January 2026",
         "quantity": 480
     },
     {
@@ -296,11 +304,11 @@
         "quantity": 0
     },
     {
-        "group": "TBA",
+        "group": "Next Month",
         "sku": "CS-HYTE-Y70-TOKI",
         "description": null,
         "eta": null,
-        "communicated_date": "Q4 2025",
+        "communicated_date": "Early January 2026",
         "quantity": 0
     },
     {
@@ -336,19 +344,19 @@
         "quantity": 400
     },
     {
-        "group": "TBA",
+        "group": "Next Month",
         "sku": "KEY-HYTE-GWING",
         "description": "HYTE GUNDAM WING KEYCAPS",
         "eta": "2026-01-23",
-        "communicated_date": "Q4 2025",
+        "communicated_date": "January 2026",
         "quantity": 790
     },
     {
-        "group": "TBA",
+        "group": "Next Month",
         "sku": "KEY-HYTE-TOKI",
         "description": null,
         "eta": null,
-        "communicated_date": "Q4 2025",
+        "communicated_date": "Early January 2026",
         "quantity": 0
     },
     {
@@ -356,7 +364,7 @@
         "sku": "MAT-HYTE-AFO",
         "description": "HYTE HOLOLIVE ALL FOR ONE DESK MAT",
         "eta": null,
-        "communicated_date": "Q4 2025",
+        "communicated_date": "TBD",
         "quantity": 260
     },
     {
