@@ -171,7 +171,7 @@
         "group": "Out of Stocks",
         "sku": "ACC-HYTE-PCIE50-BB",
         "description": "[PITCH BLACK] HYTE PCIE50 HYPER RISER",
-        "eta": null,
+        "eta": "2026-01-05",
         "communicated_date": null,
         "quantity": 600
     },
@@ -181,13 +181,13 @@
         "description": "[BLACK CHERRY] HYTE PCIE50 HYPER RISER",
         "eta": null,
         "communicated_date": null,
-        "quantity": 100
+        "quantity": 220
     },
     {
         "group": "Out of Stocks",
         "sku": "ACC-HYTE-PCIE50-WW",
         "description": "[SNOW WHITE] HYTE PCIE50 HYPER RISER",
-        "eta": null,
+        "eta": "2026-01-05",
         "communicated_date": null,
         "quantity": 600
     },
@@ -248,22 +248,6 @@
         "quantity": 0
     },
     {
-        "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y60-R1-WW",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y60-WW",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
         "group": "TBA",
         "sku": "CS-HYTE-Y70-FFLY-EN",
         "description": "HYTE HSR FIREFLY Y70 ENGLISH",
@@ -289,7 +273,7 @@
     },
     {
         "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y70-R1-BW",
+        "sku": "CS-HYTE-Y70-R1-BR",
         "description": null,
         "eta": null,
         "communicated_date": null,
@@ -297,7 +281,7 @@
     },
     {
         "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y70-R1-WW",
+        "sku": "CS-HYTE-Y70-R1-BW",
         "description": null,
         "eta": null,
         "communicated_date": null,
@@ -315,9 +299,9 @@
         "group": "Out of Stocks",
         "sku": "FAN-HYTE-FA12-WW-4",
         "description": "[SNOW WHITE] HYTE FA12 PWM FAN (4-PACK)",
-        "eta": null,
+        "eta": "2026-01-05",
         "communicated_date": null,
-        "quantity": 504
+        "quantity": 744
     },
     {
         "group": "Out of Stocks",
