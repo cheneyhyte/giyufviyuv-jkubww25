@@ -136,7 +136,7 @@
         "quantity": 300
     },
     {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "ACC-HYTE-LK-Y7TTI-SM",
         "description": null,
         "eta": null,
@@ -179,7 +179,7 @@
         "group": "Out of Stocks",
         "sku": "ACC-HYTE-PCIE50-BR",
         "description": "[BLACK CHERRY] HYTE PCIE50 HYPER RISER",
-        "eta": null,
+        "eta": "2026-01-09",
         "communicated_date": null,
         "quantity": 220
     },
@@ -192,7 +192,7 @@
         "quantity": 600
     },
     {
-        "group": "This Month",
+        "group": "2+ Months Out",
         "sku": "ACC-HYTE-SPF-AM5-WW",
         "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
         "eta": "2026-01-23, 2026-01-23",
@@ -200,7 +200,7 @@
         "quantity": 240
     },
     {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "ACC-HYTE-TOKI-WS",
         "description": "HYTE TOKIDOKI X HOLOLIVE ADVENT WALL SCROLL",
         "eta": "2026-01-23",
@@ -288,7 +288,7 @@
         "quantity": 0
     },
     {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "CS-HYTE-Y70-TOKI",
         "description": null,
         "eta": null,
@@ -328,7 +328,7 @@
         "quantity": 400
     },
     {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "KEY-HYTE-GWING",
         "description": "HYTE GUNDAM WING KEYCAPS",
         "eta": "2026-01-23",
@@ -336,7 +336,7 @@
         "quantity": 790
     },
     {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "KEY-HYTE-TOKI",
         "description": null,
         "eta": null,
