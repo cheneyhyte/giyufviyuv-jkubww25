@@ -171,9 +171,9 @@
         "group": "Out of Stocks",
         "sku": "ACC-HYTE-PCIE50-BB",
         "description": "[PITCH BLACK] HYTE PCIE50 HYPER RISER",
-        "eta": "2026-01-05",
+        "eta": null,
         "communicated_date": null,
-        "quantity": 600
+        "quantity": 420
     },
     {
         "group": "Out of Stocks",
@@ -187,9 +187,9 @@
         "group": "Out of Stocks",
         "sku": "ACC-HYTE-PCIE50-WW",
         "description": "[SNOW WHITE] HYTE PCIE50 HYPER RISER",
-        "eta": "2026-01-05",
+        "eta": null,
         "communicated_date": null,
-        "quantity": 600
+        "quantity": 440
     },
     {
         "group": "2+ Months Out",
@@ -299,9 +299,9 @@
         "group": "Out of Stocks",
         "sku": "FAN-HYTE-FA12-WW-4",
         "description": "[SNOW WHITE] HYTE FA12 PWM FAN (4-PACK)",
-        "eta": "2026-01-05",
+        "eta": null,
         "communicated_date": null,
-        "quantity": 744
+        "quantity": 648
     },
     {
         "group": "Out of Stocks",
