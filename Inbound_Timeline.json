@@ -192,6 +192,14 @@
         "quantity": 440
     },
     {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-SPF-AM5-BB",
+        "description": "[PITCH BLACK] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
+        "eta": "2026-01-23",
+        "communicated_date": null,
+        "quantity": 200
+    },
+    {
         "group": "2+ Months Out",
         "sku": "ACC-HYTE-SPF-AM5-WW",
         "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
@@ -282,6 +290,14 @@
     {
         "group": "Out of Stocks",
         "sku": "CS-HYTE-Y70-R1-BW",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "CS-HYTE-Y70-R1-WW",
         "description": null,
         "eta": null,
         "communicated_date": null,
