@@ -133,7 +133,7 @@
         "description": "HYTE HSR FIREFLY FAN SHROUDS",
         "eta": null,
         "communicated_date": "Q1 2026",
-        "quantity": 300
+        "quantity": 240
     },
     {
         "group": "This Month",
@@ -225,23 +225,7 @@
     },
     {
         "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y70-R1-BR",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
         "sku": "CS-HYTE-Y70-R1-BW",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y70-R1-WW",
         "description": null,
         "eta": null,
         "communicated_date": null,
