@@ -133,7 +133,7 @@
         "description": "HYTE HSR FIREFLY FAN SHROUDS",
         "eta": null,
         "communicated_date": "Q1 2026",
-        "quantity": 240
+        "quantity": 170
     },
     {
         "group": "This Month",
@@ -168,18 +168,26 @@
         "quantity": 0
     },
     {
-        "group": "2+ Months Out",
+        "group": "This Month",
+        "sku": "ACC-HYTE-SPF-AM5-BB",
+        "description": "[PITCH BLACK] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
+        "eta": "2026-01-16",
+        "communicated_date": "Week of January 26th",
+        "quantity": 200
+    },
+    {
+        "group": "This Month",
         "sku": "ACC-HYTE-SPF-AM5-WW",
         "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
-        "eta": "2026-01-23, 2026-01-23",
-        "communicated_date": "Week of December 15th",
+        "eta": "2026-01-16, 2026-01-16",
+        "communicated_date": "Week of January 26th",
         "quantity": 240
     },
     {
         "group": "This Month",
         "sku": "ACC-HYTE-TOKI-WS",
         "description": "HYTE TOKIDOKI X HOLOLIVE ADVENT WALL SCROLL",
-        "eta": "2026-01-23",
+        "eta": "2026-01-16",
         "communicated_date": "Early January 2026",
         "quantity": 480
     },
@@ -267,7 +275,7 @@
         "group": "This Month",
         "sku": "KEY-HYTE-GWING",
         "description": "HYTE GUNDAM WING KEYCAPS",
-        "eta": "2026-01-23",
+        "eta": "2026-01-16",
         "communicated_date": "January 2026",
         "quantity": 790
     },
