@@ -201,6 +201,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "CS-HYTE-Y40-B",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "CS-HYTE-Y60-R1-B",
         "description": null,
         "eta": null,
