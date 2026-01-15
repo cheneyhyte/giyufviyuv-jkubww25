@@ -5,7 +5,7 @@
         "description": "HYTE HOLOLIVE ALL FOR ONE ACRYLIC PHOTO BUNDLE \u2013 HAKOS BAELZ",
         "eta": null,
         "communicated_date": "TBD",
-        "quantity": 160
+        "quantity": 165
     },
     {
         "group": "TBA",
@@ -13,7 +13,7 @@
         "description": "HYTE HOLOLIVE ALL FOR ONE ACRYLIC PHOTO BUNDLE \u2013 KOSEKI BIJOU",
         "eta": null,
         "communicated_date": "TBD",
-        "quantity": 160
+        "quantity": 165
     },
     {
         "group": "TBA",
@@ -21,7 +21,7 @@
         "description": "HYTE HOLOLIVE ALL FOR ONE ACRYLIC PHOTO BUNDLE \u2013 MORI CALLIOPE",
         "eta": null,
         "communicated_date": "TBD",
-        "quantity": 176
+        "quantity": 180
     },
     {
         "group": "TBA",
@@ -37,7 +37,7 @@
         "description": "HYTE HOLOLIVE ALL FOR ONE ACRYLIC PHOTO BUNDLE \u2013 CECILIA IMMERGREEN",
         "eta": null,
         "communicated_date": "TBD",
-        "quantity": 192
+        "quantity": 195
     },
     {
         "group": "TBA",
@@ -45,7 +45,7 @@
         "description": "HYTE HOLOLIVE ALL FOR ONE ACRYLIC PHOTO BUNDLE \u2013 ELIZABETH ROSE BLOODFLAME",
         "eta": null,
         "communicated_date": "TBD",
-        "quantity": 144
+        "quantity": 150
     },
     {
         "group": "TBA",
@@ -53,7 +53,7 @@
         "description": "HYTE HOLOLIVE ALL FOR ONE ACRYLIC PHOTO BUNDLE \u2013 FUWAWA ABYSSGARD",
         "eta": null,
         "communicated_date": "TBD",
-        "quantity": 160
+        "quantity": 165
     },
     {
         "group": "TBA",
@@ -61,7 +61,7 @@
         "description": "HYTE HOLOLIVE ALL FOR ONE ACRYLIC PHOTO BUNDLE \u2013 GIGI MURIN",
         "eta": null,
         "communicated_date": "TBD",
-        "quantity": 208
+        "quantity": 210
     },
     {
         "group": "TBA",
@@ -69,7 +69,7 @@
         "description": "HYTE HOLOLIVE ALL FOR ONE ACRYLIC PHOTO BUNDLE \u2013 NINOMAE INA\u2019NIS",
         "eta": null,
         "communicated_date": "TBD",
-        "quantity": 160
+        "quantity": 165
     },
     {
         "group": "TBA",
@@ -77,7 +77,7 @@
         "description": "HYTE HOLOLIVE ALL FOR ONE ACRYLIC PHOTO BUNDLE \u2013 IRYS",
         "eta": null,
         "communicated_date": "TBD",
-        "quantity": 160
+        "quantity": 165
     },
     {
         "group": "TBA",
@@ -85,7 +85,7 @@
         "description": "HYTE HOLOLIVE ALL FOR ONE ACRYLIC PHOTO BUNDLE \u2013 TAKANASHI KIARA",
         "eta": null,
         "communicated_date": "TBD",
-        "quantity": 128
+        "quantity": 135
     },
     {
         "group": "TBA",
@@ -93,7 +93,7 @@
         "description": "HYTE HOLOLIVE ALL FOR ONE ACRYLIC PHOTO BUNDLE \u2013 OURO KRONII",
         "eta": null,
         "communicated_date": "TBD",
-        "quantity": 192
+        "quantity": 195
     },
     {
         "group": "TBA",
@@ -101,7 +101,7 @@
         "description": "HYTE HOLOLIVE ALL FOR ONE ACRYLIC PHOTO BUNDLE \u2013 MOCOCO ABYSSGARD",
         "eta": null,
         "communicated_date": "TBD",
-        "quantity": 160
+        "quantity": 165
     },
     {
         "group": "TBA",
@@ -109,7 +109,7 @@
         "description": "HYTE HOLOLIVE ALL FOR ONE ACRYLIC PHOTO BUNDLE \u2013 RAORA PANTHERA",
         "eta": null,
         "communicated_date": "TBD",
-        "quantity": 144
+        "quantity": 150
     },
     {
         "group": "TBA",
@@ -117,7 +117,7 @@
         "description": "HYTE HOLOLIVE ALL FOR ONE ACRYLIC PHOTO BUNDLE \u2013 NERISSA RAVENCROFT",
         "eta": null,
         "communicated_date": "TBD",
-        "quantity": 176
+        "quantity": 180
     },
     {
         "group": "TBA",
@@ -125,7 +125,7 @@
         "description": "HYTE HOLOLIVE ALL FOR ONE ACRYLIC PHOTO BUNDLE \u2013 SHIORI NOVELLA",
         "eta": null,
         "communicated_date": "TBD",
-        "quantity": 160
+        "quantity": 165
     },
     {
         "group": "TBA",
@@ -184,24 +184,8 @@
         "quantity": 240
     },
     {
-        "group": "This Month",
-        "sku": "ACC-HYTE-TOKI-WS",
-        "description": "HYTE TOKIDOKI X HOLOLIVE ADVENT WALL SCROLL",
-        "eta": "2026-01-16",
-        "communicated_date": "Early January 2026",
-        "quantity": 480
-    },
-    {
         "group": "Out of Stocks",
         "sku": "CS-HYTE-REVOLT3-W",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y40-B",
         "description": null,
         "eta": null,
         "communicated_date": null,
@@ -248,14 +232,6 @@
         "quantity": 0
     },
     {
-        "group": "This Month",
-        "sku": "CS-HYTE-Y70-TOKI",
-        "description": null,
-        "eta": null,
-        "communicated_date": "Early January 2026",
-        "quantity": 0
-    },
-    {
         "group": "Out of Stocks",
         "sku": "FAN-HYTE-Q60-BW",
         "description": null,
@@ -286,14 +262,6 @@
         "eta": "2026-01-16",
         "communicated_date": "January 2026",
         "quantity": 790
-    },
-    {
-        "group": "This Month",
-        "sku": "KEY-HYTE-TOKI",
-        "description": null,
-        "eta": null,
-        "communicated_date": "Early January 2026",
-        "quantity": 0
     },
     {
         "group": "TBA",
