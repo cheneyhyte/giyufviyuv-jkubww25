@@ -136,14 +136,6 @@
         "quantity": 170
     },
     {
-        "group": "This Month",
-        "sku": "ACC-HYTE-LK-Y7TTI-SM",
-        "description": "14.9\" [STRAWBERRY MILK] HYTE Y70 TOUCH INFINITE DISPLAY UPGRADE",
-        "eta": null,
-        "communicated_date": "early January 2026",
-        "quantity": 300
-    },
-    {
         "group": "Out of Stocks",
         "sku": "ACC-HYTE-LN-70-B",
         "description": null,
@@ -230,6 +222,14 @@
         "eta": null,
         "communicated_date": null,
         "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "FAN-HYTE-FA12-RR-4",
+        "description": "[WILD CHERRY] HYTE FA12 PWM FAN (4-PACK)",
+        "eta": "2026-01-16, 2026-02-02",
+        "communicated_date": null,
+        "quantity": 456
     },
     {
         "group": "Out of Stocks",
