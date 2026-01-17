@@ -160,22 +160,6 @@
         "quantity": 0
     },
     {
-        "group": "This Month",
-        "sku": "ACC-HYTE-SPF-AM5-BB",
-        "description": "[PITCH BLACK] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
-        "eta": "2026-01-16",
-        "communicated_date": "Week of January 26th",
-        "quantity": 200
-    },
-    {
-        "group": "This Month",
-        "sku": "ACC-HYTE-SPF-AM5-WW",
-        "description": "[SNOW WHITE] HYTE SOLID PROCESSOR FRAME \u2013 SOCKET AM5",
-        "eta": "2026-01-16, 2026-01-16",
-        "communicated_date": "Week of January 26th",
-        "quantity": 240
-    },
-    {
         "group": "Out of Stocks",
         "sku": "CS-HYTE-REVOLT3-W",
         "description": null,
@@ -222,14 +206,6 @@
         "eta": null,
         "communicated_date": null,
         "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "FAN-HYTE-FA12-RR-4",
-        "description": "[WILD CHERRY] HYTE FA12 PWM FAN (4-PACK)",
-        "eta": "2026-01-16, 2026-02-02",
-        "communicated_date": null,
-        "quantity": 456
     },
     {
         "group": "Out of Stocks",
