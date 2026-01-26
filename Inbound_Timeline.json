@@ -161,6 +161,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "ACC-HYTE-PCIE50-BR",
+        "description": "[BLACK CHERRY] HYTE PCIE50 HYPER RISER",
+        "eta": "2026-02-27, 2026-02-27",
+        "communicated_date": null,
+        "quantity": 190
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "CS-HYTE-REVOLT3-W",
         "description": null,
         "eta": null,
