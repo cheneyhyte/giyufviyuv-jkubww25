@@ -187,17 +187,17 @@
         "group": "TBA",
         "sku": "CS-HYTE-Y70-FFLY-EN",
         "description": "HYTE HSR FIREFLY Y70 ENGLISH",
-        "eta": "2026-02-06, 2026-03-06, 2026-03-06",
+        "eta": "2026-03-06, 2026-03-06",
         "communicated_date": "Q1 2026",
-        "quantity": 400
+        "quantity": 399
     },
     {
         "group": "TBA",
         "sku": "CS-HYTE-Y70-FFLY-JP",
         "description": "HYTE HSR FIREFLY Y70 JAPANESE",
-        "eta": "2026-02-06, 2026-02-27, 2026-03-06, 2026-03-06",
+        "eta": "2026-02-27, 2026-03-06, 2026-03-06",
         "communicated_date": "Q1 2026",
-        "quantity": 250
+        "quantity": 249
     },
     {
         "group": "Out of Stocks",
