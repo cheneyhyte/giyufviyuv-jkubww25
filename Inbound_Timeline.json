@@ -160,11 +160,11 @@
         "quantity": 0
     },
     {
-        "group": "Out of Stocks",
+        "group": "This Month",
         "sku": "ACC-HYTE-PCIE50-BB",
         "description": "[PITCH BLACK] HYTE PCIE50 HYPER RISER",
         "eta": "2026-02-27",
-        "communicated_date": null,
+        "communicated_date": "Late February",
         "quantity": 820
     },
     {
