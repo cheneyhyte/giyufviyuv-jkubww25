@@ -249,7 +249,23 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "HOOD-HYTE-001-L",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "HOOD-HYTE-001-M",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "HOOD-HYTE-002-M",
         "description": null,
         "eta": null,
         "communicated_date": null,
