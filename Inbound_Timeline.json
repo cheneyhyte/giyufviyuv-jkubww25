@@ -131,7 +131,7 @@
         "group": "Next Month",
         "sku": "ACC-HYTE-FIREFLY-FS",
         "description": "HYTE HSR FIREFLY FAN SHROUDS",
-        "eta": "2026-03-06",
+        "eta": "2026-03-13",
         "communicated_date": "Early March",
         "quantity": 170
     },
@@ -203,7 +203,7 @@
         "group": "Next Month",
         "sku": "CS-HYTE-Y70-FFLY-EN",
         "description": "HYTE HSR FIREFLY Y70 ENGLISH",
-        "eta": "2026-03-06, 2026-03-06",
+        "eta": "2026-03-06, 2026-03-13",
         "communicated_date": "Early March",
         "quantity": 399
     },
@@ -211,7 +211,7 @@
         "group": "Next Month",
         "sku": "CS-HYTE-Y70-FFLY-JP",
         "description": "HYTE HSR FIREFLY Y70 JAPANESE",
-        "eta": "2026-02-27, 2026-03-06, 2026-03-06",
+        "eta": "2026-02-27, 2026-03-06, 2026-03-13",
         "communicated_date": "Early March",
         "quantity": 249
     },
@@ -267,7 +267,7 @@
         "group": "TBA",
         "sku": "MAT-HYTE-AFO",
         "description": "HYTE HOLOLIVE ALL FOR ONE DESK MAT",
-        "eta": "2026-03-06",
+        "eta": "2026-03-13",
         "communicated_date": "TBD",
         "quantity": 260
     },
