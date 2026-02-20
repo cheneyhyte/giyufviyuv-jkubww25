@@ -163,7 +163,7 @@
         "group": "This Month",
         "sku": "ACC-HYTE-PCIE50-BB",
         "description": "[PITCH BLACK] HYTE PCIE50 HYPER RISER",
-        "eta": "2026-02-27",
+        "eta": "2026-02-23",
         "communicated_date": "Late February",
         "quantity": 820
     },
@@ -171,7 +171,7 @@
         "group": "This Month",
         "sku": "ACC-HYTE-PCIE50-BR",
         "description": "[BLACK CHERRY] HYTE PCIE50 HYPER RISER",
-        "eta": "2026-02-27, 2026-02-27",
+        "eta": "2026-02-23, 2026-02-23",
         "communicated_date": "Late February",
         "quantity": 190
     },
@@ -179,7 +179,7 @@
         "group": "This Month",
         "sku": "ACC-HYTE-PCIE50-WW",
         "description": "[SNOW WHITE] HYTE PCIE50 HYPER RISER",
-        "eta": "2026-02-27",
+        "eta": "2026-02-23",
         "communicated_date": "Late February",
         "quantity": 840
     },
@@ -259,7 +259,7 @@
         "group": "Next Month",
         "sku": "KEY-HYTE-FIREFLY",
         "description": "HYTE HSR FIREFLY KEYCAPS",
-        "eta": "2026-02-27",
+        "eta": "2026-02-23",
         "communicated_date": "Mid March",
         "quantity": 400
     },
@@ -275,7 +275,7 @@
         "group": "Next Month",
         "sku": "MAT-HYTE-FIREFLY",
         "description": "HYTE HSR FIREFLY DESK MAT",
-        "eta": "2026-02-27",
+        "eta": "2026-02-23",
         "communicated_date": "Mid March",
         "quantity": 600
     },
