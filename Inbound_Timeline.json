@@ -145,6 +145,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "ACC-HYTE-LN-60-B",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "ACC-HYTE-LN-70-B",
         "description": null,
         "eta": null,
