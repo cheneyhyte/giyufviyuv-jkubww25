@@ -297,14 +297,6 @@
     },
     {
         "group": "Out of Stocks",
-        "sku": "MOU-HYTE-P3R-AIGIS",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
         "sku": "MOU-HYTE-P3R-TRAIN",
         "description": null,
         "eta": null,
