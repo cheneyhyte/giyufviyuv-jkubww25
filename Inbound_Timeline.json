@@ -128,7 +128,7 @@
         "quantity": 165
     },
     {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "ACC-HYTE-FIREFLY-FS",
         "description": "HYTE HSR FIREFLY FAN SHROUDS",
         "eta": "2026-03-13",
@@ -192,7 +192,7 @@
         "quantity": 0
     },
     {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "CS-HYTE-Y70-FFLY-EN",
         "description": "HYTE HSR FIREFLY Y70 ENGLISH",
         "eta": "2026-03-06, 2026-03-13",
@@ -200,7 +200,7 @@
         "quantity": 399
     },
     {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "CS-HYTE-Y70-FFLY-JP",
         "description": "HYTE HSR FIREFLY Y70 JAPANESE",
         "eta": "2026-03-06, 2026-03-13",
@@ -248,7 +248,7 @@
         "quantity": 0
     },
     {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "KEY-HYTE-FIREFLY",
         "description": null,
         "eta": null,
@@ -264,7 +264,7 @@
         "quantity": 260
     },
     {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "MAT-HYTE-FIREFLY",
         "description": null,
         "eta": null,
