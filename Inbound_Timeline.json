@@ -184,6 +184,14 @@
         "quantity": 0
     },
     {
+        "group": "TBA",
+        "sku": "CS-HYTE-X50G-AO",
+        "description": null,
+        "eta": null,
+        "communicated_date": "coming soon",
+        "quantity": 0
+    },
+    {
         "group": "Out of Stocks",
         "sku": "CS-HYTE-Y60-R1-B",
         "description": null,
@@ -230,6 +238,14 @@
         "eta": null,
         "communicated_date": null,
         "quantity": 0
+    },
+    {
+        "group": "TBA",
+        "sku": "FAN-HYTE-FA12-AO-4",
+        "description": "[ASTRAL ORANGE] HYTE FA12 PWM FAN (4-PACK)",
+        "eta": "2026-03-06",
+        "communicated_date": "coming soon",
+        "quantity": 300
     },
     {
         "group": "Out of Stocks",
