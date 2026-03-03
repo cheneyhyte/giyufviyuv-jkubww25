@@ -184,11 +184,11 @@
         "quantity": 0
     },
     {
-        "group": "TBA",
+        "group": "This Month",
         "sku": "CS-HYTE-X50G-AO",
         "description": null,
         "eta": null,
-        "communicated_date": "coming soon",
+        "communicated_date": "Shipping the week of March 9th.",
         "quantity": 0
     },
     {
@@ -277,7 +277,7 @@
         "description": "HYTE HOLOLIVE ALL FOR ONE DESK MAT",
         "eta": "2026-03-13",
         "communicated_date": "TBD",
-        "quantity": 260
+        "quantity": 460
     },
     {
         "group": "This Month",
