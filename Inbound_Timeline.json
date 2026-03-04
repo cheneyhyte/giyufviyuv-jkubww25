@@ -203,17 +203,17 @@
         "group": "This Month",
         "sku": "CS-HYTE-Y70-FFLY-EN",
         "description": "HYTE HSR FIREFLY Y70 ENGLISH",
-        "eta": "2026-03-06, 2026-03-13",
+        "eta": "2026-03-13",
         "communicated_date": "Mid March",
-        "quantity": 399
+        "quantity": 288
     },
     {
         "group": "This Month",
         "sku": "CS-HYTE-Y70-FFLY-JP",
         "description": "HYTE HSR FIREFLY Y70 JAPANESE",
-        "eta": "2026-03-06, 2026-03-13",
+        "eta": "2026-03-13",
         "communicated_date": "Mid March",
-        "quantity": 225
+        "quantity": 90
     },
     {
         "group": "Out of Stocks",
@@ -242,10 +242,10 @@
     {
         "group": "TBA",
         "sku": "FAN-HYTE-FA12-AO-4",
-        "description": "[ASTRAL ORANGE] HYTE FA12 PWM FAN (4-PACK)",
-        "eta": "2026-03-06",
+        "description": null,
+        "eta": null,
         "communicated_date": "coming soon",
-        "quantity": 300
+        "quantity": 0
     },
     {
         "group": "Out of Stocks",
@@ -306,6 +306,14 @@
     {
         "group": "Out of Stocks",
         "sku": "MOU-HYTE-P3R-3",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "MOU-HYTE-P3R-AIGIS",
         "description": null,
         "eta": null,
         "communicated_date": null,
