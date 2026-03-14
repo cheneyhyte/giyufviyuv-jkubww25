@@ -217,6 +217,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "MOU-HYTE-GWING",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "MOU-HYTE-METAPHOR-3",
         "description": null,
         "eta": null,
