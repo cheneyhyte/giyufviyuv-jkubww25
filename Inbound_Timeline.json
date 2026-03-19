@@ -177,6 +177,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "CS-HYTE-Y70-BR",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "CS-HYTE-Y70-R1-B",
         "description": null,
         "eta": null,
@@ -226,38 +234,6 @@
     {
         "group": "Out of Stocks",
         "sku": "MOU-HYTE-GWING",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "MOU-HYTE-METAPHOR-3",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "MOU-HYTE-P3R-1",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "MOU-HYTE-P3R-3",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "MOU-HYTE-P3R-AIGIS",
         "description": null,
         "eta": null,
         "communicated_date": null,
