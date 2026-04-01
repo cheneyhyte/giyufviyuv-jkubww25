@@ -176,6 +176,14 @@
         "quantity": 0
     },
     {
+        "group": "Next Month",
+        "sku": "CS-HYTE-Y70-BR",
+        "description": "[BLK/RED] HYTE Y70  CASE",
+        "eta": null,
+        "communicated_date": "Week of May 18th",
+        "quantity": 50
+    },
+    {
         "group": "Out of Stocks",
         "sku": "CS-HYTE-Y70-R1-B",
         "description": null,
