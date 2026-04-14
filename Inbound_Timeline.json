@@ -1,127 +1,15 @@
 [
     {
-        "group": "TBA",
-        "sku": "ACC-HYTE-AFO-BAE",
-        "description": null,
-        "eta": null,
-        "communicated_date": "TBD Out of Stock",
-        "quantity": 0
-    },
-    {
-        "group": "TBA",
-        "sku": "ACC-HYTE-AFO-BIBOO",
-        "description": null,
-        "eta": null,
-        "communicated_date": "TBD",
-        "quantity": 0
-    },
-    {
-        "group": "TBA",
-        "sku": "ACC-HYTE-AFO-CALLI",
-        "description": null,
-        "eta": null,
-        "communicated_date": "TBD",
-        "quantity": 0
-    },
-    {
-        "group": "TBA",
+        "group": "Out of Stocks",
         "sku": "ACC-HYTE-AFO-CASE",
         "description": null,
         "eta": null,
-        "communicated_date": "TBD Out of Stock",
-        "quantity": 0
-    },
-    {
-        "group": "TBA",
-        "sku": "ACC-HYTE-AFO-CECI",
-        "description": null,
-        "eta": null,
-        "communicated_date": "TBD",
-        "quantity": 0
-    },
-    {
-        "group": "TBA",
-        "sku": "ACC-HYTE-AFO-ERB",
-        "description": null,
-        "eta": null,
-        "communicated_date": "TBD",
-        "quantity": 0
-    },
-    {
-        "group": "TBA",
-        "sku": "ACC-HYTE-AFO-FUWA",
-        "description": null,
-        "eta": null,
-        "communicated_date": "TBD",
-        "quantity": 0
-    },
-    {
-        "group": "TBA",
-        "sku": "ACC-HYTE-AFO-GIGI",
-        "description": null,
-        "eta": null,
-        "communicated_date": "TBD Out of Stock",
-        "quantity": 0
-    },
-    {
-        "group": "TBA",
-        "sku": "ACC-HYTE-AFO-INA",
-        "description": null,
-        "eta": null,
-        "communicated_date": "TBD",
-        "quantity": 0
-    },
-    {
-        "group": "TBA",
-        "sku": "ACC-HYTE-AFO-IRYS",
-        "description": null,
-        "eta": null,
-        "communicated_date": "TBD",
-        "quantity": 0
-    },
-    {
-        "group": "TBA",
-        "sku": "ACC-HYTE-AFO-KIARA",
-        "description": null,
-        "eta": null,
-        "communicated_date": "TBD",
+        "communicated_date": null,
         "quantity": 0
     },
     {
         "group": "TBA",
         "sku": "ACC-HYTE-AFO-KRONII",
-        "description": null,
-        "eta": null,
-        "communicated_date": "TBD",
-        "quantity": 0
-    },
-    {
-        "group": "TBA",
-        "sku": "ACC-HYTE-AFO-MOCO",
-        "description": null,
-        "eta": null,
-        "communicated_date": "TBD",
-        "quantity": 0
-    },
-    {
-        "group": "TBA",
-        "sku": "ACC-HYTE-AFO-RAORA",
-        "description": null,
-        "eta": null,
-        "communicated_date": "TBD",
-        "quantity": 0
-    },
-    {
-        "group": "TBA",
-        "sku": "ACC-HYTE-AFO-RISSA",
-        "description": null,
-        "eta": null,
-        "communicated_date": "TBD",
-        "quantity": 0
-    },
-    {
-        "group": "TBA",
-        "sku": "ACC-HYTE-AFO-SHIORI",
         "description": null,
         "eta": null,
         "communicated_date": "TBD",
@@ -161,31 +49,7 @@
     },
     {
         "group": "Out of Stocks",
-        "sku": "CS-HYTE-REVOLT3-W",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "CS-HYTE-SW-Y70-EB",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
         "sku": "CS-HYTE-Y60-R1-B",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y60-R1-WW",
         "description": null,
         "eta": null,
         "communicated_date": null,
@@ -216,72 +80,40 @@
         "quantity": 0
     },
     {
-        "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y70-R1-BW",
+        "group": "TBA",
+        "sku": "CS-HYTE-Y70-SMIKO-BE",
         "description": null,
         "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "HOOD-HYTE-001-M",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
+        "communicated_date": "Q3 2026",
         "quantity": 0
     },
     {
         "group": "TBA",
-        "sku": "MAT-HYTE-AFO",
-        "description": "HYTE HOLOLIVE ALL FOR ONE DESK MAT",
-        "eta": "2026-05-08",
-        "communicated_date": "TBD",
-        "quantity": 200
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "MOU-HYTE-METAPHOR-3",
+        "sku": "CS-HYTE-Y70-SMIKO-WE",
         "description": null,
         "eta": null,
-        "communicated_date": null,
+        "communicated_date": "Q3 2026",
         "quantity": 0
     },
     {
-        "group": "Out of Stocks",
-        "sku": "MOU-HYTE-P3R-1",
+        "group": "TBA",
+        "sku": "KEY-HYTE-SMIKO-BE",
         "description": null,
         "eta": null,
-        "communicated_date": null,
+        "communicated_date": "Q3 2026",
         "quantity": 0
     },
     {
-        "group": "Out of Stocks",
-        "sku": "MOU-HYTE-P3R-3",
+        "group": "TBA",
+        "sku": "KEY-HYTE-SMIKO-WE",
         "description": null,
         "eta": null,
-        "communicated_date": null,
+        "communicated_date": "Q3 2026",
         "quantity": 0
     },
     {
         "group": "Out of Stocks",
         "sku": "MOU-HYTE-P3R-AIGIS",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "MOU-HYTE-P3R-TRAIN",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "MOU-IBP-AEIION",
         "description": null,
         "eta": null,
         "communicated_date": null,
