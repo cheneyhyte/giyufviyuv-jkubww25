@@ -1,22 +1,6 @@
 [
     {
         "group": "Out of Stocks",
-        "sku": "ACC-HYTE-AFO-CASE",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "TBA",
-        "sku": "ACC-HYTE-AFO-KRONII",
-        "description": null,
-        "eta": null,
-        "communicated_date": "TBD",
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
         "sku": "ACC-HYTE-LN-60-B",
         "description": null,
         "eta": null,
@@ -56,6 +40,14 @@
         "quantity": 0
     },
     {
+        "group": "Out of Stocks",
+        "sku": "CS-HYTE-Y60-R1-WW",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
         "group": "Next Month",
         "sku": "CS-HYTE-Y70-BR",
         "description": "[BLK/RED] HYTE Y70  CASE",
@@ -80,6 +72,14 @@
         "quantity": 0
     },
     {
+        "group": "Out of Stocks",
+        "sku": "CS-HYTE-Y70-R1-BW",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
         "group": "TBA",
         "sku": "CS-HYTE-Y70-SMIKO-BE",
         "description": null,
@@ -96,6 +96,14 @@
         "quantity": 0
     },
     {
+        "group": "Out of Stocks",
+        "sku": "CS-HYTE-Y70TTI-GWING",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
         "group": "TBA",
         "sku": "KEY-HYTE-SMIKO-BE",
         "description": null,
@@ -109,14 +117,6 @@
         "description": null,
         "eta": null,
         "communicated_date": "Q3 2026",
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "MOU-HYTE-P3R-AIGIS",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
         "quantity": 0
     }
 ]
