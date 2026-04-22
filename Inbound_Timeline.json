@@ -51,7 +51,7 @@
         "group": "Next Month",
         "sku": "CS-HYTE-Y70-BR",
         "description": "[BLK/RED] HYTE Y70  CASE",
-        "eta": "2026-05-08, 2026-05-18",
+        "eta": "2026-05-08, 2026-05-29",
         "communicated_date": "Week of May 18th",
         "quantity": 50
     },
@@ -77,14 +77,6 @@
         "description": null,
         "eta": null,
         "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "TBA",
-        "sku": "CS-HYTE-Y70-SMIKO-BE",
-        "description": null,
-        "eta": null,
-        "communicated_date": "Q3 2026",
         "quantity": 0
     },
     {
