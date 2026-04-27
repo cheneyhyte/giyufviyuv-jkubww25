@@ -1,30 +1,6 @@
 [
     {
         "group": "Out of Stocks",
-        "sku": "ACC-HYTE-LN-60-B",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "ACC-HYTE-LN-60-W",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "ACC-HYTE-LN-70-B",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
         "sku": "ACC-HYTE-LN-70-W",
         "description": null,
         "eta": null,
@@ -117,22 +93,6 @@
         "description": null,
         "eta": null,
         "communicated_date": "Q3 2026",
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "MOU-HYTE-GWING",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "MOU-HYTE-METAPHOR-2",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
         "quantity": 0
     }
 ]
