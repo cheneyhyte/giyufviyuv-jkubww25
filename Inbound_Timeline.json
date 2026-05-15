@@ -102,37 +102,5 @@
         "eta": null,
         "communicated_date": "Q3 2026",
         "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "PARTS-Y70-010-W",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "PARTS-Y70-R-004-B",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "PARTS-Y70-R-004-W",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "PARTS-Y70TTI-004-B",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
     }
 ]
