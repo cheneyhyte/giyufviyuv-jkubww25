@@ -27,7 +27,7 @@
         "group": "This Month",
         "sku": "CS-HYTE-Y70-BR",
         "description": "[BLK/RED] HYTE Y70  CASE",
-        "eta": "2026-05-29",
+        "eta": "2026-05-20",
         "communicated_date": "Week of May 18th",
         "quantity": 6
     },
@@ -101,6 +101,14 @@
         "description": null,
         "eta": null,
         "communicated_date": "Q3 2026",
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "SHIRT-HYTE-001-S-BK",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
         "quantity": 0
     }
 ]
