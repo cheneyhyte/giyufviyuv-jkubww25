@@ -26,10 +26,10 @@
     {
         "group": "This Month",
         "sku": "CS-HYTE-Y70-BR",
-        "description": "[BLK/RED] HYTE Y70  CASE",
-        "eta": "2026-05-20",
+        "description": null,
+        "eta": null,
         "communicated_date": "Week of May 18th",
-        "quantity": 6
+        "quantity": 0
     },
     {
         "group": "TBA",
