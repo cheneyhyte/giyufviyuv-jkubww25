@@ -64,22 +64,6 @@
         "quantity": 0
     },
     {
-        "group": "TBA",
-        "sku": "KEY-HYTE-SMIKO-BE",
-        "description": null,
-        "eta": null,
-        "communicated_date": "Q3 2026",
-        "quantity": 0
-    },
-    {
-        "group": "TBA",
-        "sku": "KEY-HYTE-SMIKO-WE",
-        "description": null,
-        "eta": null,
-        "communicated_date": "Q3 2026",
-        "quantity": 0
-    },
-    {
         "group": "Out of Stocks",
         "sku": "SHIRT-HYTE-001-S-BK",
         "description": null,
