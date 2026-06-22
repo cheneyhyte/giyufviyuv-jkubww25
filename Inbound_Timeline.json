@@ -73,14 +73,6 @@
     },
     {
         "group": "TBA",
-        "sku": "CS-HYTE-Y70-SMIKO-BE",
-        "description": null,
-        "eta": null,
-        "communicated_date": "Q3 2026",
-        "quantity": 0
-    },
-    {
-        "group": "TBA",
         "sku": "CS-HYTE-Y70-SMIKO-WE",
         "description": null,
         "eta": null,
@@ -117,6 +109,14 @@
         "description": null,
         "eta": null,
         "communicated_date": "Q3 2026",
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "MOU-HYTE-METAPHOR-1",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
         "quantity": 0
     },
     {
