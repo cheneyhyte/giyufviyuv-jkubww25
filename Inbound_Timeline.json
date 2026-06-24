@@ -1,6 +1,14 @@
 [
     {
         "group": "Out of Stocks",
+        "sku": "ACC-HYTE-AFO-BIBOO",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "ACC-HYTE-FIREFLY-FS",
         "description": null,
         "eta": null,
@@ -27,7 +35,7 @@
         "group": "TBA",
         "sku": "CS-HYTE-Y70-B",
         "description": "[BLK] HYTE Y70  CASE",
-        "eta": "2026-07-17",
+        "eta": "2026-07-10",
         "communicated_date": "2026-07-17",
         "quantity": 565
     },
@@ -130,6 +138,14 @@
     {
         "group": "Out of Stocks",
         "sku": "MOU-HYTE-METAPHOR-1",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "MOU-HYTE-SWAX24",
         "description": null,
         "eta": null,
         "communicated_date": null,
