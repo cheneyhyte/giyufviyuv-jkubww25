@@ -24,6 +24,14 @@
         "quantity": 0
     },
     {
+        "group": "TBA",
+        "sku": "ACC-HYTE-P30TH",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q3 2026",
+        "quantity": 0
+    },
+    {
         "group": "Out of Stocks",
         "sku": "ACC-HYTE-PCIE50-MM",
         "description": null,
@@ -48,11 +56,11 @@
         "quantity": 565
     },
     {
-        "group": "Out of Stocks",
+        "group": "TBA",
         "sku": "CS-HYTE-Y70-BR",
         "description": "[BLK/RED] HYTE Y70  CASE",
         "eta": "2026-07-20",
-        "communicated_date": null,
+        "communicated_date": "2027-06-17",
         "quantity": 128
     },
     {
@@ -104,11 +112,27 @@
         "quantity": 0
     },
     {
+        "group": "TBA",
+        "sku": "CS-HYTE-Y70-SMIKO-WE",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q3 2026",
+        "quantity": 0
+    },
+    {
         "group": "Out of Stocks",
         "sku": "KEY-HYTE-HOLOGEN4",
         "description": null,
         "eta": null,
         "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "TBA",
+        "sku": "KEY-HYTE-P30TH",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q4 2026",
         "quantity": 0
     },
     {
@@ -133,6 +157,22 @@
         "description": null,
         "eta": null,
         "communicated_date": "Q3 2026",
+        "quantity": 0
+    },
+    {
+        "group": "TBA",
+        "sku": "MAT-HYTE-P30TH-A",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q4 2026",
+        "quantity": 0
+    },
+    {
+        "group": "TBA",
+        "sku": "MAT-HYTE-P30TH-B",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q4 2026",
         "quantity": 0
     },
     {
