@@ -168,6 +168,14 @@
         "quantity": 0
     },
     {
+        "group": "TBA",
+        "sku": "KEY-HYTE-SMIKO-WE",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q3 2026",
+        "quantity": 0
+    },
+    {
         "group": "Out of Stocks",
         "sku": "MAT-HYTE-FIREFLY",
         "description": null,
