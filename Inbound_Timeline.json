@@ -153,7 +153,15 @@
     },
     {
         "group": "TBA",
-        "sku": "KEY-HYTE-SMIKO-W",
+        "sku": "KEY-HYTE-SMIKO-BE",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q3 2026",
+        "quantity": 0
+    },
+    {
+        "group": "TBA",
+        "sku": "KEY-HYTE-SMIKO-WE",
         "description": null,
         "eta": null,
         "communicated_date": "Q3 2026",
