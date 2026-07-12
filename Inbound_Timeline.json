@@ -81,6 +81,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "CS-HYTE-Y70-MM",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "CS-HYTE-Y70-R1-BW",
         "description": null,
         "eta": null,
@@ -90,14 +98,6 @@
     {
         "group": "TBA",
         "sku": "CS-HYTE-Y70-SMIKO-BE",
-        "description": null,
-        "eta": null,
-        "communicated_date": "Q3 2026",
-        "quantity": 0
-    },
-    {
-        "group": "TBA",
-        "sku": "CS-HYTE-Y70-SMIKO-WE",
         "description": null,
         "eta": null,
         "communicated_date": "Q3 2026",
