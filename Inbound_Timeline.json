@@ -9,11 +9,27 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "ACC-HYTE-AFO-SHIORI",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "ACC-HYTE-FIREFLY-FS",
         "description": null,
         "eta": null,
         "communicated_date": null,
         "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-LK-Y7TTI-SM",
+        "description": "14.9\" [STRAWBERRY MILK] HYTE Y70 TOUCH INFINITE DISPLAY UPGRADE",
+        "eta": "2026-08-14",
+        "communicated_date": null,
+        "quantity": 110
     },
     {
         "group": "Out of Stocks",
@@ -49,19 +65,11 @@
     },
     {
         "group": "TBA",
-        "sku": "CS-HYTE-Y70-B",
+        "sku": "CS-HYTE-Y70-BR",
         "description": null,
         "eta": null,
-        "communicated_date": "2026-07-17",
-        "quantity": 0
-    },
-    {
-        "group": "TBA",
-        "sku": "CS-HYTE-Y70-BR",
-        "description": "[BLK/RED] HYTE Y70  CASE",
-        "eta": "2026-07-20",
         "communicated_date": "2026-06-17",
-        "quantity": 128
+        "quantity": 0
     },
     {
         "group": "TBA",
@@ -97,18 +105,18 @@
     },
     {
         "group": "TBA",
-        "sku": "CS-HYTE-Y70-SMIKO-WE",
+        "sku": "CS-HYTE-Y70-SMIKO-BE",
         "description": null,
         "eta": null,
         "communicated_date": "Q3 2026",
         "quantity": 0
     },
     {
-        "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y70TTI-GWING",
+        "group": "TBA",
+        "sku": "CS-HYTE-Y70-SMIKO-WE",
         "description": null,
         "eta": null,
-        "communicated_date": null,
+        "communicated_date": "Q3 2026",
         "quantity": 0
     },
     {
@@ -145,7 +153,15 @@
     },
     {
         "group": "TBA",
-        "sku": "KEY-HYTE-SMIKO-BE",
+        "sku": "KEY-HYTE-SMIKO-W",
+        "description": null,
+        "eta": null,
+        "communicated_date": "Q3 2026",
+        "quantity": 0
+    },
+    {
+        "group": "TBA",
+        "sku": "KEY-HYTE-SMIKO-WE",
         "description": null,
         "eta": null,
         "communicated_date": "Q3 2026",
