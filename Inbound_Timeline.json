@@ -17,14 +17,6 @@
     },
     {
         "group": "Out of Stocks",
-        "sku": "ACC-HYTE-AFO-SHIORI",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
         "sku": "ACC-HYTE-FIREFLY-FS",
         "description": null,
         "eta": null,
