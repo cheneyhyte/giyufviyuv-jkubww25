@@ -57,7 +57,7 @@
     },
     {
         "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y60-R1-B",
+        "sku": "CS-HYTE-Y60-R1-WW",
         "description": null,
         "eta": null,
         "communicated_date": null,
@@ -69,14 +69,6 @@
         "description": null,
         "eta": null,
         "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "TBA",
-        "sku": "CS-HYTE-Y70-BR",
-        "description": null,
-        "eta": null,
-        "communicated_date": "2026-06-17",
         "quantity": 0
     },
     {
@@ -202,10 +194,10 @@
     {
         "group": "Out of Stocks",
         "sku": "MAT-HYTE-FIREFLY",
-        "description": null,
+        "description": "HYTE HSR FIREFLY DESK MAT",
         "eta": null,
         "communicated_date": null,
-        "quantity": 0
+        "quantity": 300
     },
     {
         "group": "TBA",
