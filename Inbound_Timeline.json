@@ -41,6 +41,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "ACC-HYTE-PCIE50-BB",
+        "description": "[PITCH BLACK] HYTE PCIE50 HYPER RISER",
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 400
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "ACC-HYTE-PCIE50-MM",
         "description": null,
         "eta": null,
@@ -129,6 +137,78 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "HOOD-HYTE-001-2XL",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "HOOD-HYTE-001-L",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "HOOD-HYTE-001-S",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "HOOD-HYTE-001-XL",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "HOOD-HYTE-002-2XL",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "HOOD-HYTE-002-L",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "HOOD-HYTE-002-M",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "HOOD-HYTE-002-S",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "HOOD-HYTE-002-XL",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "KEY-HYTE-FIREFLY",
         "description": null,
         "eta": null,
@@ -185,6 +265,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "MAT-HYTE-CNVS-B",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "MAT-HYTE-FIREFLY",
         "description": "HYTE HSR FIREFLY DESK MAT",
         "eta": null,
@@ -225,7 +313,31 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "SHIRT-HYTE-001-2XL-B",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "SHIRT-HYTE-001-M-BK",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "SHIRT-HYTE-001-S-BK",
+        "description": null,
+        "eta": null,
+        "communicated_date": null,
+        "quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "SHIRT-HYTE-001-XS-BK",
         "description": null,
         "eta": null,
         "communicated_date": null,
