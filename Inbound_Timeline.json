@@ -153,55 +153,7 @@
     },
     {
         "group": "Out of Stocks",
-        "sku": "HOOD-HYTE-001-S",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "HOOD-HYTE-001-XL",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
         "sku": "HOOD-HYTE-002-2XL",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "HOOD-HYTE-002-L",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "HOOD-HYTE-002-M",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "HOOD-HYTE-002-S",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "HOOD-HYTE-002-XL",
         "description": null,
         "eta": null,
         "communicated_date": null,
@@ -313,31 +265,7 @@
     },
     {
         "group": "Out of Stocks",
-        "sku": "SHIRT-HYTE-001-2XL-B",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "SHIRT-HYTE-001-M-BK",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
         "sku": "SHIRT-HYTE-001-S-BK",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "SHIRT-HYTE-001-XS-BK",
         "description": null,
         "eta": null,
         "communicated_date": null,
