@@ -26,10 +26,10 @@
     {
         "group": "Out of Stocks",
         "sku": "ACC-HYTE-LK-Y7TTI-SM",
-        "description": "14.9\" [STRAWBERRY MILK] HYTE Y70 TOUCH INFINITE DISPLAY UPGRADE",
-        "eta": "2026-08-14",
+        "description": null,
+        "eta": null,
         "communicated_date": null,
-        "quantity": 110
+        "quantity": 0
     },
     {
         "group": "Out of Stocks",
@@ -45,7 +45,7 @@
         "description": "[PITCH BLACK] HYTE PCIE50 HYPER RISER",
         "eta": null,
         "communicated_date": null,
-        "quantity": 400
+        "quantity": 300
     },
     {
         "group": "Out of Stocks",
