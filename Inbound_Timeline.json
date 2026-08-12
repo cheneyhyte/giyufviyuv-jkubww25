@@ -25,27 +25,11 @@
     },
     {
         "group": "Out of Stocks",
-        "sku": "ACC-HYTE-LK-Y7TTI-SM",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
         "sku": "ACC-HYTE-LN-70-W",
         "description": null,
         "eta": null,
         "communicated_date": null,
         "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "ACC-HYTE-PCIE50-BB",
-        "description": "[PITCH BLACK] HYTE PCIE50 HYPER RISER",
-        "eta": null,
-        "communicated_date": null,
-        "quantity": 300
     },
     {
         "group": "Out of Stocks",
@@ -141,14 +125,6 @@
         "description": null,
         "eta": null,
         "communicated_date": "Q4 2026",
-        "quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y70TTI-RB",
-        "description": null,
-        "eta": null,
-        "communicated_date": null,
         "quantity": 0
     },
     {
