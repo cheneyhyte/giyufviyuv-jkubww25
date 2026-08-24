@@ -58,10 +58,10 @@
     {
         "group": "TBA",
         "sku": "CS-HYTE-Y70-FF14",
-        "description": null,
+        "description": "HYTE FINAL FANTASY XIV Y70",
         "eta": null,
         "communicated_date": "Q3 2026",
-        "quantity": 0
+        "quantity": 600
     },
     {
         "group": "Out of Stocks",
@@ -106,18 +106,18 @@
     {
         "group": "TBA",
         "sku": "CS-HYTE-Y70-SMIKO-BE",
-        "description": null,
+        "description": "[BLK] HYTE SAKURA MIKO Y70 - EARLY BIRD",
         "eta": null,
         "communicated_date": "Q3 2026",
-        "quantity": 0
+        "quantity": 200
     },
     {
         "group": "TBA",
         "sku": "CS-HYTE-Y70-SMIKO-WE",
-        "description": null,
+        "description": "[WHT] HYTE SAKURA MIKO Y70 - EARLY BIRD",
         "eta": null,
         "communicated_date": "Q3 2026",
-        "quantity": 0
+        "quantity": 200
     },
     {
         "group": "Out of Stocks",
@@ -242,10 +242,10 @@
     {
         "group": "TBA",
         "sku": "KEY-HYTE-INA",
-        "description": null,
+        "description": "HYTE NINOMAE INA'NIS KEYCAPS",
         "eta": null,
         "communicated_date": "Q4 2026",
-        "quantity": 0
+        "quantity": 800
     },
     {
         "group": "TBA",
@@ -258,10 +258,10 @@
     {
         "group": "TBA",
         "sku": "KEY-HYTE-SMIKO-BE",
-        "description": null,
+        "description": "[BLK] HYTE SAKURA MIKO KEYCAP BUNDLE - EARLY BIRD",
         "eta": null,
         "communicated_date": "Q3 2026",
-        "quantity": 0
+        "quantity": 250
     },
     {
         "group": "TBA",
@@ -274,10 +274,10 @@
     {
         "group": "TBA",
         "sku": "KEY-HYTE-SMIKO-WE",
-        "description": null,
+        "description": "[WHT] HYTE SAKURA MIKO KEYCAP BUNDLE - EARLY BIRD",
         "eta": null,
         "communicated_date": "Q3 2026",
-        "quantity": 0
+        "quantity": 250
     },
     {
         "group": "Out of Stocks",
