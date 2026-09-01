@@ -74,91 +74,100 @@
     <h1>Inbound Product Timeline</h1>
     <div id="container">Loading data...</div>
 
-    <script>
-        const jsonUrl = "Inbound_Timeline.json?v=" + new Date().getTime();
+    <h1>Inbound Products by Category</h1>
+    <div id="category-container">Loading data...</div>
 
-        fetch(jsonUrl)
+    <script>
+        function groupBy(data, keyFn) {
+            const groups = {};
+            data.forEach(item => {
+                const key = keyFn(item);
+                if (!groups[key]) groups[key] = [];
+                groups[key].push(item);
+            });
+            return groups;
+        }
+
+        // Renders one accordion button + table per group into containerId, in groupOrder.
+        // columns/rowValues describe the table shape; spacerBeforeGroup optionally inserts
+        // extra top margin before a given group name (used to set "Out of Stocks" apart).
+        function renderAccordionSection(containerId, groups, groupOrder, columns, rowValues, spacerBeforeGroup) {
+            const container = document.getElementById(containerId);
+            container.innerHTML = "";
+
+            groupOrder.forEach(groupName => {
+                const items = groups[groupName];
+                if (!items || !items.length) return;
+
+                if (spacerBeforeGroup && groupName === spacerBeforeGroup) {
+                    const spacer = document.createElement("div");
+                    spacer.style.marginTop = "40px";
+                    container.appendChild(spacer);
+                }
+
+                const btn = document.createElement("button");
+                btn.className = "accordion";
+                btn.textContent = groupName;
+                container.appendChild(btn);
+
+                const panel = document.createElement("div");
+                panel.className = "panel";
+                panel.style.display = "block";
+                btn.classList.add("active");
+
+                const table = document.createElement("table");
+                const thead = document.createElement("thead");
+                thead.innerHTML = `<tr>${columns.map(c => `<th>${c}</th>`).join("")}</tr>`;
+                table.appendChild(thead);
+
+                const tbody = document.createElement("tbody");
+                items.forEach(item => {
+                    const row = document.createElement("tr");
+                    row.innerHTML = rowValues(item).map(v => `<td>${v || "-"}</td>`).join("");
+                    tbody.appendChild(row);
+                });
+                table.appendChild(tbody);
+                panel.appendChild(table);
+                container.appendChild(panel);
+
+                btn.addEventListener("click", function () {
+                    const isOpen = panel.style.display === "block";
+                    panel.style.display = isOpen ? "none" : "block";
+                    btn.classList.toggle("active", !isOpen);
+                });
+            });
+        }
+
+        fetch("Inbound_Timeline.json?v=" + new Date().getTime())
             .then(response => response.json())
             .then(data => {
-                const grouped = {};
-                data.forEach(item => {
-                    if (!grouped[item.group]) grouped[item.group] = [];
-                    grouped[item.group].push(item);
-                });
-
-                const container = document.getElementById("container");
-                container.innerHTML = "";
-
+                const groups = groupBy(data, item => item.group);
                 const groupOrder = ["This Month", "Next Month", "2+ Months Out", "TBA", "Out of Stocks"];
-                groupOrder.forEach((groupName, index) => {
-                    if (!grouped[groupName]) return;
-
-                    // Add spacing before "Out of Stocks"
-                    if (groupName === "Out of Stocks") {
-                        const spacer = document.createElement("div");
-                        spacer.style.marginTop = "40px"; // Adjust height as needed
-                        container.appendChild(spacer);
-                    }
-                    // Accordion Button
-                    const btn = document.createElement("button");
-                    btn.className = "accordion";
-                    btn.textContent = groupName;
-                    container.appendChild(btn);
-
-                    // Panel with table
-                    const panel = document.createElement("div");
-                    panel.className = "panel";
-
-                    const table = document.createElement("table");
-                    const thead = document.createElement("thead");
-                    thead.innerHTML = `
-                        <tr>
-                            <th>SKU</th>
-                            <th>Description</th>
-                            <th>ETA</th>
-                            <th>Communicated Date</th>
-                            <th>Quantity</th>
-                        </tr>
-                    `;
-                    table.appendChild(thead);
-
-                    const tbody = document.createElement("tbody");
-                    grouped[groupName].forEach(item => {
-                        const row = document.createElement("tr");
-                        row.innerHTML = `
-                            <td>${item.sku}</td>
-                            <td>${item.description || "-"}</td>
-                            <td>${item.eta || "-"}</td>
-                            <td>${item.communicated_date || "-"}</td>
-                            <td>${item.quantity || "-"}</td>
-                        `;
-                        tbody.appendChild(row);
-                    });
-                    table.appendChild(tbody);
-                    panel.appendChild(table);
-                    container.appendChild(panel);
-
-                    // Expand the listed groups by default
-                    const expandGroups = ["This Month", "Next Month", "2+ Months Out", "TBA", "Out of Stocks"];
-                    if (expandGroups.includes(groupName)) {
-                        panel.style.display = "block";
-                        btn.classList.add("active");
-                    }
-                });
-
-                // Accordion toggle behavior
-                const acc = document.getElementsByClassName("accordion");
-                for (let i = 0; i < acc.length; i++) {
-                    acc[i].addEventListener("click", function () {
-                        const panel = this.nextElementSibling;
-                        const isOpen = panel.style.display === "block";
-                        panel.style.display = isOpen ? "none" : "block";
-                        this.classList.toggle("active", !isOpen);
-                    });
-                }
+                renderAccordionSection(
+                    "container", groups, groupOrder,
+                    ["SKU", "Description", "ETA", "Communicated Date", "Quantity"],
+                    item => [item.sku, item.description, item.eta, item.communicated_date, item.quantity],
+                    "Out of Stocks"
+                );
             })
             .catch(err => {
                 document.getElementById("container").textContent = "Failed to load data.";
+                console.error(err);
+            });
+
+        fetch("Inbound_By_Category.json?v=" + new Date().getTime())
+            .then(response => response.json())
+            .then(data => {
+                const groups = groupBy(data, item => item.category || "Uncategorized");
+                const groupOrder = Object.keys(groups).sort();
+                renderAccordionSection(
+                    "category-container", groups, groupOrder,
+                    ["SKU", "Description", "ETA", "Quantity"],
+                    item => [item.sku, item.description, item.eta, item.quantity]
+                );
+            })
+            .catch(err => {
+                document.getElementById("category-container").textContent = "Failed to load data.";
                 console.error(err);
             });
     </script>
