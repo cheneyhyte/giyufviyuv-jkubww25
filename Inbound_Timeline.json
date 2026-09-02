@@ -33,6 +33,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "ACC-HYTE-PCIE50-BB",
+        "description": "[PITCH BLACK] HYTE PCIE50 HYPER RISER",
+        "eta": "2026-09-14",
+        "communicated_date": null,
+        "quantity": 900
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "ACC-HYTE-PCIE50-MM",
         "description": null,
         "eta": null,
@@ -141,7 +149,7 @@
         "description": "HYTE NINOMAE INA'NIS KEYCAPS",
         "eta": null,
         "communicated_date": "Q4 2026",
-        "quantity": 800
+        "quantity": 802
     },
     {
         "group": "2+ Months Out",
