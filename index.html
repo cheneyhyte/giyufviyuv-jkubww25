@@ -68,6 +68,26 @@
         td {
             border-bottom: 1px solid #444;
         }
+
+        .shipment-toggle {
+            background: none;
+            border: 1px solid #666;
+            color: #ffb61a;
+            padding: 4px 10px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 0.9em;
+            font-family: inherit;
+        }
+
+        .shipment-toggle:hover {
+            background: #3a3a3a;
+        }
+
+        tr.shipment-detail td {
+            color: #bbb;
+            background: #262626;
+        }
     </style>
 </head>
 <body>
@@ -89,12 +109,17 @@
         }
 
         // Renders one accordion button + table per group into containerId, in groupOrder.
-        // Each column spec is either:
-        //   {header, type: "shared", value: item => ...}     -- one value per item, rowspan'd
-        //                                                        across all its shipment rows
-        //   {header, type: "shipment", value: shipment => ...} -- one value per shipment row
-        // getShipments(item) returns that item's shipment list; an item with none still gets
-        // exactly one row (its shared columns, with shipment columns blank).
+        // Each column spec is one of:
+        //   {header, type: "identity", value: item => ...} -- a plain per-item value
+        //   {header, type: "eta"}                           -- shows the single shipment's ETA,
+        //                                                       or (2+ shipments) a toggle button
+        //   {header, type: "quantity"}                      -- shows the single shipment's qty,
+        //                                                       or (2+ shipments) the total
+        // getShipments(item) returns that item's shipment list. An item with 2+ shipments
+        // renders one collapsed summary row (ETA column becomes a "N shipments" toggle,
+        // Quantity shows the total) plus N hidden detail rows toggled by that button --
+        // keeps the table short by default while still surfacing "there's a PO placed"
+        // per shipment on demand. 0 or 1 shipments render as a single plain row, as before.
         // spacerBeforeGroup optionally inserts extra top margin before a given group name
         // (used to set "Out of Stocks" apart).
         function renderAccordionSection(containerId, groups, groupOrder, columnSpecs, getShipments, spacerBeforeGroup) {
@@ -128,19 +153,49 @@
 
                 const tbody = document.createElement("tbody");
                 items.forEach(item => {
-                    const shipmentRows = getShipments(item);
-                    const rows = shipmentRows.length ? shipmentRows : [null];
-                    const rowspan = rows.length;
-                    rows.forEach((shipment, i) => {
-                        const row = document.createElement("tr");
-                        row.innerHTML = columnSpecs.map(col => {
-                            if (col.type === "shared") {
-                                return i === 0 ? `<td rowspan="${rowspan}">${col.value(item) || "-"}</td>` : "";
-                            }
-                            return `<td>${col.value(shipment) || "-"}</td>`;
-                        }).join("");
-                        tbody.appendChild(row);
-                    });
+                    const shipments = getShipments(item);
+                    const many = shipments.length > 1;
+                    const single = shipments.length === 1 ? shipments[0] : null;
+                    const totalQty = shipments.reduce((sum, s) => sum + (s.quantity || 0), 0);
+
+                    const summaryRow = document.createElement("tr");
+                    summaryRow.innerHTML = columnSpecs.map(col => {
+                        if (col.type === "identity") return `<td>${col.value(item) || "-"}</td>`;
+                        if (col.type === "eta") {
+                            if (many) return `<td><button type="button" class="shipment-toggle">&#9654; ${shipments.length} shipments</button></td>`;
+                            return `<td>${(single ? single.eta : null) || "-"}</td>`;
+                        }
+                        if (col.type === "quantity") {
+                            if (many) return `<td>${totalQty}</td>`;
+                            const qty = single ? single.quantity : null;
+                            return `<td>${(qty === null || qty === undefined) ? "-" : qty}</td>`;
+                        }
+                        return "<td>-</td>";
+                    }).join("");
+                    tbody.appendChild(summaryRow);
+
+                    if (many) {
+                        const detailRows = shipments.map(shipment => {
+                            const row = document.createElement("tr");
+                            row.className = "shipment-detail";
+                            row.style.display = "none";
+                            row.innerHTML = columnSpecs.map(col => {
+                                if (col.type === "eta") return `<td>${shipment.eta || "-"}</td>`;
+                                if (col.type === "quantity") return `<td>${shipment.quantity}</td>`;
+                                return "<td></td>";
+                            }).join("");
+                            return row;
+                        });
+                        detailRows.forEach(row => tbody.appendChild(row));
+
+                        const toggleBtn = summaryRow.querySelector(".shipment-toggle");
+                        let expanded = false;
+                        toggleBtn.addEventListener("click", () => {
+                            expanded = !expanded;
+                            detailRows.forEach(row => { row.style.display = expanded ? "table-row" : "none"; });
+                            toggleBtn.innerHTML = `${expanded ? "&#9660;" : "&#9654;"} ${shipments.length} shipments`;
+                        });
+                    }
                 });
                 table.appendChild(tbody);
                 panel.appendChild(table);
@@ -162,11 +217,11 @@
                 renderAccordionSection(
                     "container", groups, groupOrder,
                     [
-                        { header: "SKU", type: "shared", value: item => item.sku },
-                        { header: "Description", type: "shared", value: item => item.description },
-                        { header: "ETA", type: "shipment", value: s => s ? s.eta : null },
-                        { header: "Communicated Date", type: "shared", value: item => item.communicated_date },
-                        { header: "Quantity", type: "shipment", value: s => s ? s.quantity : null },
+                        { header: "SKU", type: "identity", value: item => item.sku },
+                        { header: "Description", type: "identity", value: item => item.description },
+                        { header: "ETA", type: "eta" },
+                        { header: "Communicated Date", type: "identity", value: item => item.communicated_date },
+                        { header: "Quantity", type: "quantity" },
                     ],
                     item => item.shipments || [],
                     "Out of Stocks"
@@ -185,10 +240,10 @@
                 renderAccordionSection(
                     "category-container", groups, groupOrder,
                     [
-                        { header: "SKU", type: "shared", value: item => item.sku },
-                        { header: "Description", type: "shared", value: item => item.description },
-                        { header: "ETA", type: "shipment", value: s => s ? s.eta : null },
-                        { header: "Quantity", type: "shipment", value: s => s ? s.quantity : null },
+                        { header: "SKU", type: "identity", value: item => item.sku },
+                        { header: "Description", type: "identity", value: item => item.description },
+                        { header: "ETA", type: "eta" },
+                        { header: "Quantity", type: "quantity" },
                     ],
                     item => item.shipments || []
                 );
