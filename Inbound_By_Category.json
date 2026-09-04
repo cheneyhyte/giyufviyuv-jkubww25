@@ -3,161 +3,208 @@
         "category": "12V2B",
         "sku": "CBL-HYTE-12V2B-BB",
         "description": "[PITCH BLACK] HYTE 12V 2x6 16 PIN SLEEVED PSU CABLE EXTENSION BUNDLE",
-        "eta": null,
-        "quantity": 420
+        "shipments": [
+            {
+                "eta": "2026-09-11",
+                "quantity": 20
+            }
+        ],
+        "total_quantity": 20
     },
     {
         "category": "12V2B",
         "sku": "CBL-HYTE-12V2B-SM",
         "description": "[STRAWBERRY MILK] HYTE 12V 2x6 SLEEVED PSU CABLE EXTENSION BUNDLE",
-        "eta": null,
-        "quantity": 120
+        "shipments": [
+            {
+                "eta": "2026-09-11",
+                "quantity": 20
+            }
+        ],
+        "total_quantity": 20
     },
     {
         "category": "12V2B",
         "sku": "CBL-HYTE-12V2B-TM",
         "description": "[TARO MILK] HYTE 12V 2x6 16 SLEEVED PSU CABLE EXTENSION BUNDLE",
-        "eta": null,
-        "quantity": 120
+        "shipments": [
+            {
+                "eta": "2026-09-11",
+                "quantity": 20
+            }
+        ],
+        "total_quantity": 20
     },
     {
         "category": "12V2B",
         "sku": "CBL-HYTE-12V2B-WW",
         "description": "[SNOW WHITE] HYTE 12V 2x6 SLEEVED PSU CABLE EXTENSION BUNDLE",
-        "eta": null,
-        "quantity": 520
+        "shipments": [
+            {
+                "eta": "2026-09-11",
+                "quantity": 20
+            }
+        ],
+        "total_quantity": 20
     },
     {
         "category": "ARGBPWM",
         "sku": "ACC-HYTE-ARGBPWM-HUB",
         "description": "HYTE ARGB & PWM SMART HUB",
-        "eta": null,
-        "quantity": 420
+        "shipments": [],
+        "total_quantity": 0
     },
     {
         "category": "FA12",
         "sku": "FAN-HYTE-FA12-BB-4",
         "description": "[PITCH BLACK] HYTE FA12 PWM FAN (4-PACK)",
-        "eta": null,
-        "quantity": 420
+        "shipments": [],
+        "total_quantity": 0
     },
     {
         "category": "FA12",
         "sku": "FAN-HYTE-FA12-SM-4",
         "description": "[STRAWBERRY MILK] HYTE FA12 PWM FAN (4-PACK)",
-        "eta": null,
-        "quantity": 300
+        "shipments": [],
+        "total_quantity": 0
     },
     {
         "category": "FA12",
         "sku": "FAN-HYTE-FA12-TM-4",
         "description": "[TARO MILK] HYTE FA12 PWM FAN (4-PACK)",
-        "eta": null,
-        "quantity": 240
+        "shipments": [],
+        "total_quantity": 0
     },
     {
         "category": "FA12",
         "sku": "FAN-HYTE-FA12-WW-4",
         "description": "[SNOW WHITE] HYTE FA12 PWM FAN (4-PACK)",
-        "eta": null,
-        "quantity": 360
+        "shipments": [],
+        "total_quantity": 0
     },
     {
         "category": "GWING",
         "sku": "MOU-HYTE-GWING",
         "description": "HYTE GUNDAM WING DESK PAD",
-        "eta": "2026-09-21, 2026-10-02",
-        "quantity": 296
+        "shipments": [
+            {
+                "eta": "2026-09-21",
+                "quantity": 180
+            },
+            {
+                "eta": "2026-10-02",
+                "quantity": 116
+            }
+        ],
+        "total_quantity": 296
     },
     {
         "category": "LNRGB",
         "sku": "ACC-HYTE-LNRGB-80-BB",
         "description": "[PITCH BLACK] HYTE ARGB NOODLE LN80",
-        "eta": null,
-        "quantity": 208
+        "shipments": [],
+        "total_quantity": 0
     },
     {
         "category": "LNRGB",
         "sku": "ACC-HYTE-LNRGB-80-WW",
         "description": "[SNOW WHITE] HYTE ARGB NOODLE LN80",
-        "eta": null,
-        "quantity": 208
+        "shipments": [],
+        "total_quantity": 0
     },
     {
         "category": "P3R",
         "sku": "MOU-HYTE-P3R-AIGIS",
         "description": "HYTE DESK MAT - P3R 5 - AIGIS",
-        "eta": null,
-        "quantity": 400
+        "shipments": [],
+        "total_quantity": 0
     },
     {
         "category": "P3R",
         "sku": "MOU-HYTE-P3R-TRAIN",
         "description": "HYTE DESK MAT - P3R 4 - TRAIN",
-        "eta": null,
-        "quantity": 300
+        "shipments": [],
+        "total_quantity": 0
     },
     {
         "category": "PCIE50",
         "sku": "ACC-HYTE-PCIE50-BR",
         "description": "[BLACK CHERRY] HYTE PCIE50 HYPER RISER",
-        "eta": null,
-        "quantity": 60
+        "shipments": [],
+        "total_quantity": 0
     },
     {
         "category": "PCIE50",
         "sku": "ACC-HYTE-PCIE50-SM",
         "description": "[STRAWBERRY MILK] HYTE PCIE50 HYPER RISER",
-        "eta": null,
-        "quantity": 100
+        "shipments": [],
+        "total_quantity": 0
     },
     {
         "category": "Uncategorized",
         "sku": "CS-IBP-Y50RGB-BB",
         "description": "[PITCH BLACK] IBP Y50 RGB CASE",
-        "eta": "2026-10-02",
-        "quantity": 2320
+        "shipments": [
+            {
+                "eta": "2026-10-02",
+                "quantity": 580
+            },
+            {
+                "eta": "2026-10-02",
+                "quantity": 580
+            },
+            {
+                "eta": "2026-10-02",
+                "quantity": 580
+            }
+        ],
+        "total_quantity": 1740
     },
     {
         "category": "y50",
         "sku": "CS-HYTE-Y50RGB-BB",
         "description": "[PITCH BLACK] HYTE Y50 RGB CASE",
-        "eta": null,
-        "quantity": 410
+        "shipments": [],
+        "total_quantity": 0
     },
     {
         "category": "y50",
         "sku": "CS-HYTE-Y50RGB-RB",
         "description": "[BLACK CHERRY] HYTE Y50 RGB CASE",
-        "eta": null,
-        "quantity": 150
+        "shipments": [],
+        "total_quantity": 0
     },
     {
         "category": "y50",
         "sku": "CS-HYTE-Y50RGB-SM",
         "description": "[STRAWBERRY MILK] HYTE Y50 RGB CASE",
-        "eta": null,
-        "quantity": 200
+        "shipments": [],
+        "total_quantity": 0
     },
     {
         "category": "y50",
         "sku": "CS-HYTE-Y50RGB-TM",
         "description": "[TARO MILK] HYTE Y50 RGB CASE",
-        "eta": null,
-        "quantity": 200
+        "shipments": [],
+        "total_quantity": 0
     },
     {
         "category": "y50",
         "sku": "CS-HYTE-Y50RGB-WW",
         "description": "[SNOW WHITE] HYTE Y50 RGB CASE",
-        "eta": "2026-10-02",
-        "quantity": 400
+        "shipments": [
+            {
+                "eta": "2026-10-02",
+                "quantity": 338
+            }
+        ],
+        "total_quantity": 338
     },
     {
         "category": "y70",
         "sku": "CS-HYTE-Y70-B",
         "description": "[BLK] HYTE Y70  CASE",
-        "eta": null,
-        "quantity": 200
+        "shipments": [],
+        "total_quantity": 0
     }
 ]
