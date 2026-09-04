@@ -73,10 +73,11 @@
             background: none;
             border: 1px solid #666;
             color: #ffb61a;
-            padding: 4px 10px;
+            padding: 2px 8px;
+            margin-left: 8px;
             border-radius: 4px;
             cursor: pointer;
-            font-size: 0.9em;
+            font-size: 0.85em;
             font-family: inherit;
         }
 
@@ -111,15 +112,13 @@
         // Renders one accordion button + table per group into containerId, in groupOrder.
         // Each column spec is one of:
         //   {header, type: "identity", value: item => ...} -- a plain per-item value
-        //   {header, type: "eta"}                           -- shows the single shipment's ETA,
-        //                                                       or (2+ shipments) a toggle button
-        //   {header, type: "quantity"}                      -- shows the single shipment's qty,
-        //                                                       or (2+ shipments) the total
-        // getShipments(item) returns that item's shipment list. An item with 2+ shipments
-        // renders one collapsed summary row (ETA column becomes a "N shipments" toggle,
-        // Quantity shows the total) plus N hidden detail rows toggled by that button --
-        // keeps the table short by default while still surfacing "there's a PO placed"
-        // per shipment on demand. 0 or 1 shipments render as a single plain row, as before.
+        //   {header, type: "eta"}      -- the earliest shipment's own ETA, plus (2+ shipments)
+        //                                  an inline "+N more" toggle
+        //   {header, type: "quantity"} -- that same earliest shipment's own quantity (not a
+        //                                  total -- expanding shows every other shipment's
+        //                                  real eta/quantity pair, nothing pre-aggregated)
+        // getShipments(item) returns that item's shipment list, already sorted
+        // earliest-first. 0 or 1 shipments render as a single plain row.
         // spacerBeforeGroup optionally inserts extra top margin before a given group name
         // (used to set "Out of Stocks" apart).
         function renderAccordionSection(containerId, groups, groupOrder, columnSpecs, getShipments, spacerBeforeGroup) {
@@ -154,20 +153,20 @@
                 const tbody = document.createElement("tbody");
                 items.forEach(item => {
                     const shipments = getShipments(item);
-                    const many = shipments.length > 1;
-                    const single = shipments.length === 1 ? shipments[0] : null;
-                    const totalQty = shipments.reduce((sum, s) => sum + (s.quantity || 0), 0);
+                    const first = shipments.length ? shipments[0] : null;
+                    const rest = shipments.slice(1);
+                    const many = rest.length > 0;
 
                     const summaryRow = document.createElement("tr");
                     summaryRow.innerHTML = columnSpecs.map(col => {
                         if (col.type === "identity") return `<td>${col.value(item) || "-"}</td>`;
                         if (col.type === "eta") {
-                            if (many) return `<td><button type="button" class="shipment-toggle">&#9654; ${shipments.length} shipments</button></td>`;
-                            return `<td>${(single ? single.eta : null) || "-"}</td>`;
+                            const etaText = (first ? first.eta : null) || "-";
+                            if (many) return `<td>${etaText}<button type="button" class="shipment-toggle">+${rest.length} more</button></td>`;
+                            return `<td>${etaText}</td>`;
                         }
                         if (col.type === "quantity") {
-                            if (many) return `<td>${totalQty}</td>`;
-                            const qty = single ? single.quantity : null;
+                            const qty = first ? first.quantity : null;
                             return `<td>${(qty === null || qty === undefined) ? "-" : qty}</td>`;
                         }
                         return "<td>-</td>";
@@ -175,7 +174,7 @@
                     tbody.appendChild(summaryRow);
 
                     if (many) {
-                        const detailRows = shipments.map(shipment => {
+                        const detailRows = rest.map(shipment => {
                             const row = document.createElement("tr");
                             row.className = "shipment-detail";
                             row.style.display = "none";
@@ -193,7 +192,7 @@
                         toggleBtn.addEventListener("click", () => {
                             expanded = !expanded;
                             detailRows.forEach(row => { row.style.display = expanded ? "table-row" : "none"; });
-                            toggleBtn.innerHTML = `${expanded ? "&#9660;" : "&#9654;"} ${shipments.length} shipments`;
+                            toggleBtn.textContent = expanded ? "hide" : `+${rest.length} more`;
                         });
                     }
                 });
