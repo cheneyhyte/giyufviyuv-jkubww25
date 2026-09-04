@@ -4,7 +4,7 @@
         "sku": "CBL-HYTE-12V2B-BB",
         "description": "[PITCH BLACK] HYTE 12V 2x6 16 PIN SLEEVED PSU CABLE EXTENSION BUNDLE",
         "eta": null,
-        "quantity": 720
+        "quantity": 420
     },
     {
         "category": "12V2B",
@@ -25,7 +25,7 @@
         "sku": "CBL-HYTE-12V2B-WW",
         "description": "[SNOW WHITE] HYTE 12V 2x6 SLEEVED PSU CABLE EXTENSION BUNDLE",
         "eta": null,
-        "quantity": 720
+        "quantity": 520
     },
     {
         "category": "ARGBPWM",
@@ -66,7 +66,7 @@
         "category": "GWING",
         "sku": "MOU-HYTE-GWING",
         "description": "HYTE GUNDAM WING DESK PAD",
-        "eta": "2026-09-14, 2026-10-02",
+        "eta": "2026-09-21, 2026-10-02",
         "quantity": 296
     },
     {
