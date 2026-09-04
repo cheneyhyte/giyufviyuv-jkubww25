@@ -89,6 +89,21 @@
             color: #bbb;
             background: #262626;
         }
+
+        /* Left accent bar down the SKU column, continuous across a summary row and its
+           detail rows, so the group reads as connected without needing a table rowspan
+           (which corrupts layout across hidden/shown rows -- see render function notes). */
+        tr.shipment-group-accent td:first-child {
+            border-left: 3px solid #ffb61a;
+        }
+
+        tr.shipment-summary-expandable {
+            cursor: pointer;
+        }
+
+        tr.shipment-summary-expandable:hover {
+            background: #333;
+        }
     </style>
 </head>
 <body>
@@ -119,6 +134,16 @@
         //                                  real eta/quantity pair, nothing pre-aggregated)
         // getShipments(item) returns that item's shipment list, already sorted
         // earliest-first. 0 or 1 shipments render as a single plain row.
+        //
+        // For 2+ shipments: the identity columns (SKU/Description/...) are left blank in the
+        // detail rows (a table rowspan across the hidden/shown detail rows was tried instead,
+        // to avoid that blank space, but real-Chrome testing showed it corrupts the layout --
+        // the browser reserves full multi-row height for the spanning cell even while the
+        // detail rows are collapsed to zero height, so the cell's content spills into the row
+        // below). Instead, a plain CSS left border on both the summary row and its detail
+        // rows (".shipment-group-accent") reads as one connected group. The whole summary
+        // row is clickable to expand/collapse (not just the "+N more" button inside it --
+        // the button's click bubbles up to the same row listener, so one handler covers both).
         // spacerBeforeGroup optionally inserts extra top margin before a given group name
         // (used to set "Out of Stocks" apart).
         function renderAccordionSection(containerId, groups, groupOrder, columnSpecs, getShipments, spacerBeforeGroup) {
@@ -174,9 +199,11 @@
                     tbody.appendChild(summaryRow);
 
                     if (many) {
+                        summaryRow.classList.add("shipment-group-accent", "shipment-summary-expandable");
+
                         const detailRows = rest.map(shipment => {
                             const row = document.createElement("tr");
-                            row.className = "shipment-detail";
+                            row.className = "shipment-detail shipment-group-accent";
                             row.style.display = "none";
                             row.innerHTML = columnSpecs.map(col => {
                                 if (col.type === "eta") return `<td>${shipment.eta || "-"}</td>`;
@@ -189,7 +216,10 @@
 
                         const toggleBtn = summaryRow.querySelector(".shipment-toggle");
                         let expanded = false;
-                        toggleBtn.addEventListener("click", () => {
+                        // Listen on the whole row, not just the button -- the button's click
+                        // bubbles up to this same listener, so clicking either one works and
+                        // nothing double-toggles.
+                        summaryRow.addEventListener("click", () => {
                             expanded = !expanded;
                             detailRows.forEach(row => { row.style.display = expanded ? "table-row" : "none"; });
                             toggleBtn.textContent = expanded ? "hide" : `+${rest.length} more`;
