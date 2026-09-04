@@ -7,9 +7,17 @@
             {
                 "eta": "2026-09-11",
                 "quantity": 20
+            },
+            {
+                "eta": null,
+                "quantity": 200
+            },
+            {
+                "eta": null,
+                "quantity": 200
             }
         ],
-        "total_quantity": 20
+        "total_quantity": 420
     },
     {
         "category": "12V2B",
@@ -19,9 +27,13 @@
             {
                 "eta": "2026-09-11",
                 "quantity": 20
+            },
+            {
+                "eta": null,
+                "quantity": 100
             }
         ],
-        "total_quantity": 20
+        "total_quantity": 120
     },
     {
         "category": "12V2B",
@@ -31,9 +43,13 @@
             {
                 "eta": "2026-09-11",
                 "quantity": 20
+            },
+            {
+                "eta": null,
+                "quantity": 100
             }
         ],
-        "total_quantity": 20
+        "total_quantity": 120
     },
     {
         "category": "12V2B",
@@ -43,44 +59,81 @@
             {
                 "eta": "2026-09-11",
                 "quantity": 20
+            },
+            {
+                "eta": null,
+                "quantity": 200
+            },
+            {
+                "eta": null,
+                "quantity": 300
             }
         ],
-        "total_quantity": 20
+        "total_quantity": 520
     },
     {
         "category": "ARGBPWM",
         "sku": "ACC-HYTE-ARGBPWM-HUB",
         "description": "HYTE ARGB & PWM SMART HUB",
-        "shipments": [],
-        "total_quantity": 0
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 20
+            },
+            {
+                "eta": null,
+                "quantity": 400
+            }
+        ],
+        "total_quantity": 420
     },
     {
         "category": "FA12",
         "sku": "FAN-HYTE-FA12-BB-4",
         "description": "[PITCH BLACK] HYTE FA12 PWM FAN (4-PACK)",
-        "shipments": [],
-        "total_quantity": 0
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 420
+            }
+        ],
+        "total_quantity": 420
     },
     {
         "category": "FA12",
         "sku": "FAN-HYTE-FA12-SM-4",
         "description": "[STRAWBERRY MILK] HYTE FA12 PWM FAN (4-PACK)",
-        "shipments": [],
-        "total_quantity": 0
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 300
+            }
+        ],
+        "total_quantity": 300
     },
     {
         "category": "FA12",
         "sku": "FAN-HYTE-FA12-TM-4",
         "description": "[TARO MILK] HYTE FA12 PWM FAN (4-PACK)",
-        "shipments": [],
-        "total_quantity": 0
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 240
+            }
+        ],
+        "total_quantity": 240
     },
     {
         "category": "FA12",
         "sku": "FAN-HYTE-FA12-WW-4",
         "description": "[SNOW WHITE] HYTE FA12 PWM FAN (4-PACK)",
-        "shipments": [],
-        "total_quantity": 0
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 360
+            }
+        ],
+        "total_quantity": 360
     },
     {
         "category": "GWING",
@@ -102,43 +155,81 @@
         "category": "LNRGB",
         "sku": "ACC-HYTE-LNRGB-80-BB",
         "description": "[PITCH BLACK] HYTE ARGB NOODLE LN80",
-        "shipments": [],
-        "total_quantity": 0
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 8
+            },
+            {
+                "eta": null,
+                "quantity": 200
+            }
+        ],
+        "total_quantity": 208
     },
     {
         "category": "LNRGB",
         "sku": "ACC-HYTE-LNRGB-80-WW",
         "description": "[SNOW WHITE] HYTE ARGB NOODLE LN80",
-        "shipments": [],
-        "total_quantity": 0
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 8
+            },
+            {
+                "eta": null,
+                "quantity": 200
+            }
+        ],
+        "total_quantity": 208
     },
     {
         "category": "P3R",
         "sku": "MOU-HYTE-P3R-AIGIS",
         "description": "HYTE DESK MAT - P3R 5 - AIGIS",
-        "shipments": [],
-        "total_quantity": 0
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 400
+            }
+        ],
+        "total_quantity": 400
     },
     {
         "category": "P3R",
         "sku": "MOU-HYTE-P3R-TRAIN",
         "description": "HYTE DESK MAT - P3R 4 - TRAIN",
-        "shipments": [],
-        "total_quantity": 0
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 300
+            }
+        ],
+        "total_quantity": 300
     },
     {
         "category": "PCIE50",
         "sku": "ACC-HYTE-PCIE50-BR",
         "description": "[BLACK CHERRY] HYTE PCIE50 HYPER RISER",
-        "shipments": [],
-        "total_quantity": 0
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 60
+            }
+        ],
+        "total_quantity": 60
     },
     {
         "category": "PCIE50",
         "sku": "ACC-HYTE-PCIE50-SM",
         "description": "[STRAWBERRY MILK] HYTE PCIE50 HYPER RISER",
-        "shipments": [],
-        "total_quantity": 0
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 100
+            }
+        ],
+        "total_quantity": 100
     },
     {
         "category": "Uncategorized",
@@ -156,37 +247,69 @@
             {
                 "eta": "2026-10-02",
                 "quantity": 580
+            },
+            {
+                "eta": null,
+                "quantity": 580
             }
         ],
-        "total_quantity": 1740
+        "total_quantity": 2320
     },
     {
         "category": "y50",
         "sku": "CS-HYTE-Y50RGB-BB",
         "description": "[PITCH BLACK] HYTE Y50 RGB CASE",
-        "shipments": [],
-        "total_quantity": 0
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 410
+            }
+        ],
+        "total_quantity": 410
     },
     {
         "category": "y50",
         "sku": "CS-HYTE-Y50RGB-RB",
         "description": "[BLACK CHERRY] HYTE Y50 RGB CASE",
-        "shipments": [],
-        "total_quantity": 0
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 150
+            }
+        ],
+        "total_quantity": 150
     },
     {
         "category": "y50",
         "sku": "CS-HYTE-Y50RGB-SM",
         "description": "[STRAWBERRY MILK] HYTE Y50 RGB CASE",
-        "shipments": [],
-        "total_quantity": 0
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 150
+            },
+            {
+                "eta": null,
+                "quantity": 50
+            }
+        ],
+        "total_quantity": 200
     },
     {
         "category": "y50",
         "sku": "CS-HYTE-Y50RGB-TM",
         "description": "[TARO MILK] HYTE Y50 RGB CASE",
-        "shipments": [],
-        "total_quantity": 0
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 150
+            },
+            {
+                "eta": null,
+                "quantity": 50
+            }
+        ],
+        "total_quantity": 200
     },
     {
         "category": "y50",
@@ -196,15 +319,28 @@
             {
                 "eta": "2026-10-02",
                 "quantity": 338
+            },
+            {
+                "eta": null,
+                "quantity": 62
             }
         ],
-        "total_quantity": 338
+        "total_quantity": 400
     },
     {
         "category": "y70",
         "sku": "CS-HYTE-Y70-B",
         "description": "[BLK] HYTE Y70  CASE",
-        "shipments": [],
-        "total_quantity": 0
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 128
+            },
+            {
+                "eta": null,
+                "quantity": 72
+            }
+        ],
+        "total_quantity": 200
     }
 ]
