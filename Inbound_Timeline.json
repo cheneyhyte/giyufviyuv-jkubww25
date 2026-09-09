@@ -280,7 +280,7 @@
         "communicated_date": null,
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-10-09",
                 "quantity": 300
             }
         ],

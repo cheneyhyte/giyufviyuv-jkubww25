@@ -5,10 +5,6 @@
         "description": "[PITCH BLACK] HYTE 12V 2x6 16 PIN SLEEVED PSU CABLE EXTENSION BUNDLE",
         "shipments": [
             {
-                "eta": "2026-09-11",
-                "quantity": 20
-            },
-            {
                 "eta": null,
                 "quantity": 200
             },
@@ -17,7 +13,7 @@
                 "quantity": 200
             }
         ],
-        "total_quantity": 420
+        "total_quantity": 400
     },
     {
         "category": "12V2B",
@@ -25,15 +21,11 @@
         "description": "[STRAWBERRY MILK] HYTE 12V 2x6 SLEEVED PSU CABLE EXTENSION BUNDLE",
         "shipments": [
             {
-                "eta": "2026-09-11",
-                "quantity": 20
-            },
-            {
                 "eta": null,
                 "quantity": 100
             }
         ],
-        "total_quantity": 120
+        "total_quantity": 100
     },
     {
         "category": "12V2B",
@@ -41,25 +33,17 @@
         "description": "[TARO MILK] HYTE 12V 2x6 16 SLEEVED PSU CABLE EXTENSION BUNDLE",
         "shipments": [
             {
-                "eta": "2026-09-11",
-                "quantity": 20
-            },
-            {
                 "eta": null,
                 "quantity": 100
             }
         ],
-        "total_quantity": 120
+        "total_quantity": 100
     },
     {
         "category": "12V2B",
         "sku": "CBL-HYTE-12V2B-WW",
         "description": "[SNOW WHITE] HYTE 12V 2x6 SLEEVED PSU CABLE EXTENSION BUNDLE",
         "shipments": [
-            {
-                "eta": "2026-09-11",
-                "quantity": 20
-            },
             {
                 "eta": null,
                 "quantity": 200
@@ -69,7 +53,7 @@
                 "quantity": 300
             }
         ],
-        "total_quantity": 520
+        "total_quantity": 500
     },
     {
         "category": "ARGBPWM",
@@ -189,7 +173,7 @@
         "description": "HYTE DESK MAT - P3R 5 - AIGIS",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-10-09",
                 "quantity": 400
             }
         ],
@@ -201,7 +185,7 @@
         "description": "HYTE DESK MAT - P3R 4 - TRAIN",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-10-09",
                 "quantity": 300
             }
         ],
