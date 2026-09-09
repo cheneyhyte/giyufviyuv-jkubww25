@@ -36,294 +36,6 @@
         "total_quantity": 20
     },
     {
-        "category": "090",
-        "sku": "PARTS-Y70-090",
-        "description": "CA-Y513 Y70 FFXIV-LEFT GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 10
-            }
-        ],
-        "total_quantity": 10
-    },
-    {
-        "category": "091",
-        "sku": "PARTS-Y70-091",
-        "description": "CA-Y513 Y70 FFXIV-FRONT GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 10
-            }
-        ],
-        "total_quantity": 10
-    },
-    {
-        "category": "092",
-        "sku": "PARTS-Y70-092",
-        "description": "CA-Y513 Y70 FFXIV-CORNER GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 10
-            }
-        ],
-        "total_quantity": 10
-    },
-    {
-        "category": "093",
-        "sku": "PARTS-Y70-093",
-        "description": "CA-Y513 Y70 FFXIV-SIDE PANEL ASSEMBLY-BLACK+SCREEN PRINT",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 10
-            }
-        ],
-        "total_quantity": 10
-    },
-    {
-        "category": "094",
-        "sku": "PARTS-Y70-094",
-        "description": "CA-Y513 Y70 FFXIV COLOR STICKER",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 20
-            }
-        ],
-        "total_quantity": 20
-    },
-    {
-        "category": "095",
-        "sku": "PARTS-Y70-095-B",
-        "description": "CA-Y516 Y70 SAKURA MIKO-EB BLACK-LEFT GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 5
-            }
-        ],
-        "total_quantity": 5
-    },
-    {
-        "category": "095",
-        "sku": "PARTS-Y70-095-W",
-        "description": "CA-Y516 Y70 SAKURA MIKO-EB WHITE-LEFT GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 5
-            }
-        ],
-        "total_quantity": 5
-    },
-    {
-        "category": "096",
-        "sku": "PARTS-Y70-096-B",
-        "description": "CA-Y516 Y70 SAKURA MIKO-EB BLACK-FRONT GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 5
-            }
-        ],
-        "total_quantity": 5
-    },
-    {
-        "category": "096",
-        "sku": "PARTS-Y70-096-W",
-        "description": "CA-Y516 Y70 SAKURA MIKO-EB WHITE-FRONT GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 5
-            }
-        ],
-        "total_quantity": 5
-    },
-    {
-        "category": "097",
-        "sku": "PARTS-Y70-097-B",
-        "description": "CA-Y516 Y70 SAKURA MIKO-EB BLACK-CORNER GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 5
-            }
-        ],
-        "total_quantity": 5
-    },
-    {
-        "category": "097",
-        "sku": "PARTS-Y70-097-W",
-        "description": "CA-Y516 Y70 SAKURA MIKO-EB WHITE-CORNER GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 5
-            }
-        ],
-        "total_quantity": 5
-    },
-    {
-        "category": "098",
-        "sku": "PARTS-Y70-098-B",
-        "description": "CA-Y516 Y70 SAKURA MIKO-EB BLACK-TOP PANEL ASSEMBLY-BLACK+SCREEN PRINT(877C)",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 5
-            }
-        ],
-        "total_quantity": 5
-    },
-    {
-        "category": "098",
-        "sku": "PARTS-Y70-098-W",
-        "description": "CA-Y516 Y70 SAKURA MIKO-EB WHITE-SIDE PANEL ASSEMBLY-WHITE+SCREEN PRINT(877C,176C)",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 5
-            }
-        ],
-        "total_quantity": 5
-    },
-    {
-        "category": "099",
-        "sku": "PARTS-Y70-099-B",
-        "description": "CA-Y516 Y70 SAKURA MIKO-EB BLACK-TOP PANEL ASSEMBLY-BLACK+SCREEN PRINT(877C)",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 5
-            }
-        ],
-        "total_quantity": 5
-    },
-    {
-        "category": "099",
-        "sku": "PARTS-Y70-099-W",
-        "description": "CA-Y516 Y70 SAKURA MIKO-EB WHITE-TOP PANEL ASSEMBLY-WHITE+SCREEN PRINT(877C)",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 5
-            }
-        ],
-        "total_quantity": 5
-    },
-    {
-        "category": "100",
-        "sku": "PARTS-Y70-100-B",
-        "description": "CA-Y516 Y70 SAKURA MIKO-EB BLACK-USB MODULE-BLACK",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 5
-            }
-        ],
-        "total_quantity": 5
-    },
-    {
-        "category": "100",
-        "sku": "PARTS-Y70-100-W",
-        "description": "CA-Y516 Y70 SAKURA MIKO-EB WHITE-USB MODULE-WHITE",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 5
-            }
-        ],
-        "total_quantity": 5
-    },
-    {
-        "category": "101",
-        "sku": "PARTS-Y70-101",
-        "description": "CA-Y516 Y70 SAKURA MIKO-EB LANYARD",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 10
-            }
-        ],
-        "total_quantity": 10
-    },
-    {
-        "category": "102",
-        "sku": "PARTS-Y70-102",
-        "description": "CA-Y517 Y70 TI INA-LEFT GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 10
-            }
-        ],
-        "total_quantity": 10
-    },
-    {
-        "category": "103",
-        "sku": "PARTS-Y70-103",
-        "description": "CA-Y517 Y70 TI INA-FRONT GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 10
-            }
-        ],
-        "total_quantity": 10
-    },
-    {
-        "category": "104",
-        "sku": "PARTS-Y70-104",
-        "description": "CA-Y517 Y70 TI INA-SIDE PANEL ASSEMBLY-PURPLE (7669C) +SCREEN PRINT (1365C)",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 10
-            }
-        ],
-        "total_quantity": 10
-    },
-    {
-        "category": "105",
-        "sku": "PARTS-Y70-105",
-        "description": "CA-Y517 Y70 TI INA-TOP PANEL ASSEMBLY-PURPLE (7669C) +SCREEN PRINT (1365C)",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 10
-            }
-        ],
-        "total_quantity": 10
-    },
-    {
-        "category": "106",
-        "sku": "PARTS-Y70-106",
-        "description": "CA-Y517 Y70 TI INA-USB MODULE-BLACK",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 10
-            }
-        ],
-        "total_quantity": 10
-    },
-    {
-        "category": "107",
-        "sku": "PARTS-Y70-107",
-        "description": "PCIE RISER CABLE-PURPLE 7669C",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 10
-            }
-        ],
-        "total_quantity": 10
-    },
-    {
         "category": "12V2B",
         "sku": "CBL-HYTE-12V2B-BB",
         "description": "[PITCH BLACK] HYTE 12V 2x6 16 PIN SLEEVED PSU CABLE EXTENSION BUNDLE",
@@ -538,6 +250,294 @@
             }
         ],
         "total_quantity": 100
+    },
+    {
+        "category": "Service Parts",
+        "sku": "PARTS-Y70-090",
+        "description": "CA-Y513 Y70 FFXIV-LEFT GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 10
+            }
+        ],
+        "total_quantity": 10
+    },
+    {
+        "category": "Service Parts",
+        "sku": "PARTS-Y70-091",
+        "description": "CA-Y513 Y70 FFXIV-FRONT GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 10
+            }
+        ],
+        "total_quantity": 10
+    },
+    {
+        "category": "Service Parts",
+        "sku": "PARTS-Y70-092",
+        "description": "CA-Y513 Y70 FFXIV-CORNER GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 10
+            }
+        ],
+        "total_quantity": 10
+    },
+    {
+        "category": "Service Parts",
+        "sku": "PARTS-Y70-093",
+        "description": "CA-Y513 Y70 FFXIV-SIDE PANEL ASSEMBLY-BLACK+SCREEN PRINT",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 10
+            }
+        ],
+        "total_quantity": 10
+    },
+    {
+        "category": "Service Parts",
+        "sku": "PARTS-Y70-094",
+        "description": "CA-Y513 Y70 FFXIV COLOR STICKER",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 20
+            }
+        ],
+        "total_quantity": 20
+    },
+    {
+        "category": "Service Parts",
+        "sku": "PARTS-Y70-095-B",
+        "description": "CA-Y516 Y70 SAKURA MIKO-EB BLACK-LEFT GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 5
+            }
+        ],
+        "total_quantity": 5
+    },
+    {
+        "category": "Service Parts",
+        "sku": "PARTS-Y70-095-W",
+        "description": "CA-Y516 Y70 SAKURA MIKO-EB WHITE-LEFT GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 5
+            }
+        ],
+        "total_quantity": 5
+    },
+    {
+        "category": "Service Parts",
+        "sku": "PARTS-Y70-096-B",
+        "description": "CA-Y516 Y70 SAKURA MIKO-EB BLACK-FRONT GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 5
+            }
+        ],
+        "total_quantity": 5
+    },
+    {
+        "category": "Service Parts",
+        "sku": "PARTS-Y70-096-W",
+        "description": "CA-Y516 Y70 SAKURA MIKO-EB WHITE-FRONT GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 5
+            }
+        ],
+        "total_quantity": 5
+    },
+    {
+        "category": "Service Parts",
+        "sku": "PARTS-Y70-097-B",
+        "description": "CA-Y516 Y70 SAKURA MIKO-EB BLACK-CORNER GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 5
+            }
+        ],
+        "total_quantity": 5
+    },
+    {
+        "category": "Service Parts",
+        "sku": "PARTS-Y70-097-W",
+        "description": "CA-Y516 Y70 SAKURA MIKO-EB WHITE-CORNER GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 5
+            }
+        ],
+        "total_quantity": 5
+    },
+    {
+        "category": "Service Parts",
+        "sku": "PARTS-Y70-098-B",
+        "description": "CA-Y516 Y70 SAKURA MIKO-EB BLACK-TOP PANEL ASSEMBLY-BLACK+SCREEN PRINT(877C)",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 5
+            }
+        ],
+        "total_quantity": 5
+    },
+    {
+        "category": "Service Parts",
+        "sku": "PARTS-Y70-098-W",
+        "description": "CA-Y516 Y70 SAKURA MIKO-EB WHITE-SIDE PANEL ASSEMBLY-WHITE+SCREEN PRINT(877C,176C)",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 5
+            }
+        ],
+        "total_quantity": 5
+    },
+    {
+        "category": "Service Parts",
+        "sku": "PARTS-Y70-099-B",
+        "description": "CA-Y516 Y70 SAKURA MIKO-EB BLACK-TOP PANEL ASSEMBLY-BLACK+SCREEN PRINT(877C)",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 5
+            }
+        ],
+        "total_quantity": 5
+    },
+    {
+        "category": "Service Parts",
+        "sku": "PARTS-Y70-099-W",
+        "description": "CA-Y516 Y70 SAKURA MIKO-EB WHITE-TOP PANEL ASSEMBLY-WHITE+SCREEN PRINT(877C)",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 5
+            }
+        ],
+        "total_quantity": 5
+    },
+    {
+        "category": "Service Parts",
+        "sku": "PARTS-Y70-100-B",
+        "description": "CA-Y516 Y70 SAKURA MIKO-EB BLACK-USB MODULE-BLACK",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 5
+            }
+        ],
+        "total_quantity": 5
+    },
+    {
+        "category": "Service Parts",
+        "sku": "PARTS-Y70-100-W",
+        "description": "CA-Y516 Y70 SAKURA MIKO-EB WHITE-USB MODULE-WHITE",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 5
+            }
+        ],
+        "total_quantity": 5
+    },
+    {
+        "category": "Service Parts",
+        "sku": "PARTS-Y70-101",
+        "description": "CA-Y516 Y70 SAKURA MIKO-EB LANYARD",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 10
+            }
+        ],
+        "total_quantity": 10
+    },
+    {
+        "category": "Service Parts",
+        "sku": "PARTS-Y70-102",
+        "description": "CA-Y517 Y70 TI INA-LEFT GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 10
+            }
+        ],
+        "total_quantity": 10
+    },
+    {
+        "category": "Service Parts",
+        "sku": "PARTS-Y70-103",
+        "description": "CA-Y517 Y70 TI INA-FRONT GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 10
+            }
+        ],
+        "total_quantity": 10
+    },
+    {
+        "category": "Service Parts",
+        "sku": "PARTS-Y70-104",
+        "description": "CA-Y517 Y70 TI INA-SIDE PANEL ASSEMBLY-PURPLE (7669C) +SCREEN PRINT (1365C)",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 10
+            }
+        ],
+        "total_quantity": 10
+    },
+    {
+        "category": "Service Parts",
+        "sku": "PARTS-Y70-105",
+        "description": "CA-Y517 Y70 TI INA-TOP PANEL ASSEMBLY-PURPLE (7669C) +SCREEN PRINT (1365C)",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 10
+            }
+        ],
+        "total_quantity": 10
+    },
+    {
+        "category": "Service Parts",
+        "sku": "PARTS-Y70-106",
+        "description": "CA-Y517 Y70 TI INA-USB MODULE-BLACK",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 10
+            }
+        ],
+        "total_quantity": 10
+    },
+    {
+        "category": "Service Parts",
+        "sku": "PARTS-Y70-107",
+        "description": "PCIE RISER CABLE-PURPLE 7669C",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 10
+            }
+        ],
+        "total_quantity": 10
     },
     {
         "category": "Uncategorized",
