@@ -309,5 +309,13 @@
         "communicated_date": null,
         "shipments": [],
         "total_quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "MOU-IBP-BASIL",
+        "description": null,
+        "communicated_date": null,
+        "shipments": [],
+        "total_quantity": 0
     }
 ]
