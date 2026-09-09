@@ -32,7 +32,7 @@
         "total_quantity": 0
     },
     {
-        "group": "TBA",
+        "group": "This Month",
         "sku": "ACC-HYTE-PCIE50-BB",
         "description": "[PITCH BLACK] HYTE PCIE50 HYPER RISER",
         "communicated_date": "Week of Sept 21st",
@@ -61,7 +61,7 @@
         "total_quantity": 0
     },
     {
-        "group": "TBA",
+        "group": "This Month",
         "sku": "ACC-HYTE-PCIE50-WW",
         "description": "[SNOW WHITE] HYTE PCIE50 HYPER RISER",
         "communicated_date": "Week of Sept 21st",
@@ -198,7 +198,7 @@
         "total_quantity": 0
     },
     {
-        "group": "TBA",
+        "group": "Next Month",
         "sku": "KEY-HYTE-GWING",
         "description": "HYTE GUNDAM WING KEYCAPS",
         "communicated_date": "Week of Oct 2nd",
