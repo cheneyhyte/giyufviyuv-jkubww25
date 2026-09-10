@@ -91,6 +91,23 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "CS-HYTE-Y50RGB-SM",
+        "description": "[STRAWBERRY MILK] HYTE Y50 RGB CASE",
+        "communicated_date": null,
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 150
+            },
+            {
+                "eta": null,
+                "quantity": 50
+            }
+        ],
+        "total_quantity": 200
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "CS-HYTE-Y70-BM",
         "description": null,
         "communicated_date": null,

@@ -1,41 +1,5 @@
 [
     {
-        "category": "006",
-        "sku": "BX-Y70-006-B",
-        "description": "CA-Y516 Y70 SAKURA MIKO-EB BLACK COLOR BOX",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 10
-            }
-        ],
-        "total_quantity": 10
-    },
-    {
-        "category": "006",
-        "sku": "BX-Y70-006-W",
-        "description": "CA-Y516 Y70 SAKURA MIKO-EB WHITE COLOR BOX",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 10
-            }
-        ],
-        "total_quantity": 10
-    },
-    {
-        "category": "007",
-        "sku": "BX-Y70-007",
-        "description": "CA-Y517 Y70 TI INA COLOR BOX",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 20
-            }
-        ],
-        "total_quantity": 20
-    },
-    {
         "category": "12V2B",
         "sku": "CBL-HYTE-12V2B-BB",
         "description": "[PITCH BLACK] HYTE 12V 2x6 16 PIN SLEEVED PSU CABLE EXTENSION BUNDLE",
@@ -250,6 +214,42 @@
             }
         ],
         "total_quantity": 100
+    },
+    {
+        "category": "Service Parts",
+        "sku": "BX-Y70-006-B",
+        "description": "CA-Y516 Y70 SAKURA MIKO-EB BLACK COLOR BOX",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 10
+            }
+        ],
+        "total_quantity": 10
+    },
+    {
+        "category": "Service Parts",
+        "sku": "BX-Y70-006-W",
+        "description": "CA-Y516 Y70 SAKURA MIKO-EB WHITE COLOR BOX",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 10
+            }
+        ],
+        "total_quantity": 10
+    },
+    {
+        "category": "Service Parts",
+        "sku": "BX-Y70-007",
+        "description": "CA-Y517 Y70 TI INA COLOR BOX",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 20
+            }
+        ],
+        "total_quantity": 20
     },
     {
         "category": "Service Parts",
@@ -586,22 +586,6 @@
             }
         ],
         "total_quantity": 150
-    },
-    {
-        "category": "y50",
-        "sku": "CS-HYTE-Y50RGB-SM",
-        "description": "[STRAWBERRY MILK] HYTE Y50 RGB CASE",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 150
-            },
-            {
-                "eta": null,
-                "quantity": 50
-            }
-        ],
-        "total_quantity": 200
     },
     {
         "category": "y50",
