@@ -5,7 +5,7 @@
         "description": "[PITCH BLACK] HYTE 12V 2x6 16 PIN SLEEVED PSU CABLE EXTENSION BUNDLE",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-10-23",
                 "quantity": 200
             },
             {
@@ -21,7 +21,7 @@
         "description": "[STRAWBERRY MILK] HYTE 12V 2x6 SLEEVED PSU CABLE EXTENSION BUNDLE",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-10-23",
                 "quantity": 100
             }
         ],
@@ -33,7 +33,7 @@
         "description": "[TARO MILK] HYTE 12V 2x6 16 SLEEVED PSU CABLE EXTENSION BUNDLE",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-10-23",
                 "quantity": 100
             }
         ],
@@ -45,12 +45,16 @@
         "description": "[SNOW WHITE] HYTE 12V 2x6 SLEEVED PSU CABLE EXTENSION BUNDLE",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-09-11",
+                "quantity": 200
+            },
+            {
+                "eta": "2026-10-23",
                 "quantity": 200
             },
             {
                 "eta": null,
-                "quantity": 300
+                "quantity": 100
             }
         ],
         "total_quantity": 500
@@ -77,7 +81,7 @@
         "description": "[PITCH BLACK] HYTE FA12 PWM FAN (4-PACK)",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-10-23",
                 "quantity": 420
             }
         ],
@@ -89,7 +93,7 @@
         "description": "[STRAWBERRY MILK] HYTE FA12 PWM FAN (4-PACK)",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-10-23",
                 "quantity": 300
             }
         ],
@@ -101,7 +105,7 @@
         "description": "[TARO MILK] HYTE FA12 PWM FAN (4-PACK)",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-10-23",
                 "quantity": 240
             }
         ],
@@ -113,7 +117,7 @@
         "description": "[SNOW WHITE] HYTE FA12 PWM FAN (4-PACK)",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-10-23",
                 "quantity": 360
             }
         ],
@@ -209,7 +213,7 @@
         "description": "[STRAWBERRY MILK] HYTE PCIE50 HYPER RISER",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-10-23",
                 "quantity": 100
             }
         ],
@@ -217,27 +221,19 @@
     },
     {
         "category": "Service Parts",
-        "sku": "BX-Y70-006-B",
-        "description": "CA-Y516 Y70 SAKURA MIKO-EB BLACK COLOR BOX",
+        "sku": "BX-Y70-006",
+        "description": "CA-Y516 Y70 SAKURA MIKO-EB COLOR BOX",
         "shipments": [
+            {
+                "eta": null,
+                "quantity": 10
+            },
             {
                 "eta": null,
                 "quantity": 10
             }
         ],
-        "total_quantity": 10
-    },
-    {
-        "category": "Service Parts",
-        "sku": "BX-Y70-006-W",
-        "description": "CA-Y516 Y70 SAKURA MIKO-EB WHITE COLOR BOX",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 10
-            }
-        ],
-        "total_quantity": 10
+        "total_quantity": 20
     },
     {
         "category": "Service Parts",
@@ -386,7 +382,7 @@
     {
         "category": "Service Parts",
         "sku": "PARTS-Y70-098-B",
-        "description": "CA-Y516 Y70 SAKURA MIKO-EB BLACK-TOP PANEL ASSEMBLY-BLACK+SCREEN PRINT(877C)",
+        "description": "CA-Y516 Y70 SAKURA MIKO-EB BLACK-SIDE PANEL ASSEMBLY-BLACK+SCREEN PRINT(877C,176C)",
         "shipments": [
             {
                 "eta": null,
@@ -581,27 +577,11 @@
         "description": "[BLACK CHERRY] HYTE Y50 RGB CASE",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-10-23",
                 "quantity": 150
             }
         ],
         "total_quantity": 150
-    },
-    {
-        "category": "y50",
-        "sku": "CS-HYTE-Y50RGB-TM",
-        "description": "[TARO MILK] HYTE Y50 RGB CASE",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 150
-            },
-            {
-                "eta": null,
-                "quantity": 50
-            }
-        ],
-        "total_quantity": 200
     },
     {
         "category": "y50",
