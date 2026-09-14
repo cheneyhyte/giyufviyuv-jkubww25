@@ -102,9 +102,13 @@
             {
                 "eta": null,
                 "quantity": 50
+            },
+            {
+                "eta": null,
+                "quantity": 190
             }
         ],
-        "total_quantity": 200
+        "total_quantity": 390
     },
     {
         "group": "Out of Stocks",
@@ -119,9 +123,13 @@
             {
                 "eta": null,
                 "quantity": 50
+            },
+            {
+                "eta": null,
+                "quantity": 235
             }
         ],
-        "total_quantity": 200
+        "total_quantity": 435
     },
     {
         "group": "Out of Stocks",
@@ -264,10 +272,15 @@
     {
         "group": "2+ Months Out",
         "sku": "KEY-HYTE-P30TH",
-        "description": null,
+        "description": "HYTE PERSONA 30TH KEYCAPS",
         "communicated_date": "Q4 2026",
-        "shipments": [],
-        "total_quantity": 0
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 200
+            }
+        ],
+        "total_quantity": 200
     },
     {
         "group": "This Month",
@@ -323,18 +336,28 @@
     {
         "group": "2+ Months Out",
         "sku": "MAT-HYTE-P30TH-A",
-        "description": null,
+        "description": "HYTE DESK MAT \u2013 PERSONA 30TH A",
         "communicated_date": "Q4 2026",
-        "shipments": [],
-        "total_quantity": 0
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 400
+            }
+        ],
+        "total_quantity": 400
     },
     {
         "group": "2+ Months Out",
         "sku": "MAT-HYTE-P30TH-B",
-        "description": null,
+        "description": "HYTE DESK MAT \u2013 PERSONA 30TH B",
         "communicated_date": "Q4 2026",
-        "shipments": [],
-        "total_quantity": 0
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 400
+            }
+        ],
+        "total_quantity": 400
     },
     {
         "group": "Out of Stocks",

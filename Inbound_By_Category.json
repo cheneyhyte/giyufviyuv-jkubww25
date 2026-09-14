@@ -45,10 +45,6 @@
         "description": "[SNOW WHITE] HYTE 12V 2x6 SLEEVED PSU CABLE EXTENSION BUNDLE",
         "shipments": [
             {
-                "eta": "2026-09-11",
-                "quantity": 200
-            },
-            {
                 "eta": "2026-10-23",
                 "quantity": 200
             },
@@ -57,7 +53,7 @@
                 "quantity": 100
             }
         ],
-        "total_quantity": 500
+        "total_quantity": 300
     },
     {
         "category": "ARGBPWM",
@@ -226,11 +222,7 @@
         "shipments": [
             {
                 "eta": null,
-                "quantity": 10
-            },
-            {
-                "eta": null,
-                "quantity": 10
+                "quantity": 20
             }
         ],
         "total_quantity": 20
@@ -567,9 +559,13 @@
             {
                 "eta": null,
                 "quantity": 410
+            },
+            {
+                "eta": null,
+                "quantity": 500
             }
         ],
-        "total_quantity": 410
+        "total_quantity": 910
     },
     {
         "category": "y50",
@@ -579,9 +575,13 @@
             {
                 "eta": "2026-10-23",
                 "quantity": 150
+            },
+            {
+                "eta": null,
+                "quantity": 255
             }
         ],
-        "total_quantity": 150
+        "total_quantity": 405
     },
     {
         "category": "y50",
@@ -595,9 +595,13 @@
             {
                 "eta": null,
                 "quantity": 62
+            },
+            {
+                "eta": null,
+                "quantity": 180
             }
         ],
-        "total_quantity": 400
+        "total_quantity": 580
     },
     {
         "category": "y70",
