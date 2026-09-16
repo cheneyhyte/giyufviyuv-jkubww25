@@ -173,7 +173,7 @@
         "description": "HYTE DESK MAT - P3R 5 - AIGIS",
         "shipments": [
             {
-                "eta": "2026-10-09",
+                "eta": "2026-10-02",
                 "quantity": 400
             }
         ],
@@ -185,7 +185,7 @@
         "description": "HYTE DESK MAT - P3R 4 - TRAIN",
         "shipments": [
             {
-                "eta": "2026-10-09",
+                "eta": "2026-10-02",
                 "quantity": 300
             }
         ],
@@ -602,21 +602,5 @@
             }
         ],
         "total_quantity": 580
-    },
-    {
-        "category": "y70",
-        "sku": "CS-HYTE-Y70-B",
-        "description": "[BLK] HYTE Y70  CASE",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 128
-            },
-            {
-                "eta": null,
-                "quantity": 72
-            }
-        ],
-        "total_quantity": 200
     }
 ]
