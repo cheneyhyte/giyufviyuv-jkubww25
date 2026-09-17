@@ -125,15 +125,11 @@
         "description": "HYTE GUNDAM WING DESK PAD",
         "shipments": [
             {
-                "eta": "2026-09-21",
-                "quantity": 180
-            },
-            {
                 "eta": "2026-10-02",
                 "quantity": 116
             }
         ],
-        "total_quantity": 296
+        "total_quantity": 116
     },
     {
         "category": "LNRGB",
@@ -569,8 +565,8 @@
     },
     {
         "category": "y50",
-        "sku": "CS-HYTE-Y50RGB-RB",
-        "description": "[BLACK CHERRY] HYTE Y50 RGB CASE",
+        "sku": "CS-HYTE-Y50RGB-SM",
+        "description": "[STRAWBERRY MILK] HYTE Y50 RGB CASE",
         "shipments": [
             {
                 "eta": "2026-10-23",
@@ -578,10 +574,14 @@
             },
             {
                 "eta": null,
-                "quantity": 255
+                "quantity": 50
+            },
+            {
+                "eta": null,
+                "quantity": 190
             }
         ],
-        "total_quantity": 405
+        "total_quantity": 390
     },
     {
         "category": "y50",
