@@ -253,13 +253,13 @@
         "total_quantity": 0
     },
     {
-        "group": "Next Month",
+        "group": "2+ Months Out",
         "sku": "KEY-HYTE-GWING",
         "description": "HYTE GUNDAM WING KEYCAPS",
-        "communicated_date": "Week of Oct 2nd",
+        "communicated_date": "January 2026",
         "shipments": [
             {
-                "eta": "2026-10-02",
+                "eta": "2026-10-09",
                 "quantity": 119
             }
         ],
