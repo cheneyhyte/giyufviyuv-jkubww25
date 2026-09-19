@@ -90,10 +90,10 @@
         "total_quantity": 0
     },
     {
-        "group": "Out of Stocks",
+        "group": "Next Month",
         "sku": "CS-HYTE-Y50RGB-RB",
         "description": "[BLACK CHERRY] HYTE Y50 RGB CASE",
-        "communicated_date": null,
+        "communicated_date": "October 23rd",
         "shipments": [
             {
                 "eta": "2026-10-23",
@@ -108,9 +108,30 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "CS-HYTE-Y50RGB-SM",
+        "description": "[STRAWBERRY MILK] HYTE Y50 RGB CASE",
+        "communicated_date": null,
+        "shipments": [
+            {
+                "eta": "2026-10-23",
+                "quantity": 150
+            },
+            {
+                "eta": null,
+                "quantity": 50
+            },
+            {
+                "eta": null,
+                "quantity": 190
+            }
+        ],
+        "total_quantity": 390
+    },
+    {
+        "group": "Next Month",
         "sku": "CS-HYTE-Y50RGB-TM",
         "description": "[TARO MILK] HYTE Y50 RGB CASE",
-        "communicated_date": null,
+        "communicated_date": "October 23rd",
         "shipments": [
             {
                 "eta": "2026-10-23",
@@ -126,23 +147,6 @@
             }
         ],
         "total_quantity": 435
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y70-B",
-        "description": "[BLK] HYTE Y70  CASE",
-        "communicated_date": null,
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 128
-            },
-            {
-                "eta": null,
-                "quantity": 72
-            }
-        ],
-        "total_quantity": 200
     },
     {
         "group": "Out of Stocks",
@@ -182,10 +186,10 @@
         "total_quantity": 0
     },
     {
-        "group": "This Month",
+        "group": "2+ Months Out",
         "sku": "CS-HYTE-Y70-SMIKO-BE",
         "description": "[BLK] HYTE SAKURA MIKO Y70 - EARLY BIRD",
-        "communicated_date": "Q3 2026",
+        "communicated_date": "Early December 2026",
         "shipments": [
             {
                 "eta": null,
@@ -195,10 +199,10 @@
         "total_quantity": 200
     },
     {
-        "group": "This Month",
+        "group": "2+ Months Out",
         "sku": "CS-HYTE-Y70-SMIKO-WE",
         "description": "[WHT] HYTE SAKURA MIKO Y70 - EARLY BIRD",
-        "communicated_date": "Q3 2026",
+        "communicated_date": "Early December 2026",
         "shipments": [
             {
                 "eta": null,
@@ -246,6 +250,19 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "FAN-HYTE-FA12-TM-4",
+        "description": "[TARO MILK] HYTE FA12 PWM FAN (4-PACK)",
+        "communicated_date": null,
+        "shipments": [
+            {
+                "eta": "2026-10-23",
+                "quantity": 240
+            }
+        ],
+        "total_quantity": 240
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "KEY-HYTE-FIREFLY",
         "description": null,
         "communicated_date": null,
@@ -253,10 +270,10 @@
         "total_quantity": 0
     },
     {
-        "group": "2+ Months Out",
+        "group": "Next Month",
         "sku": "KEY-HYTE-GWING",
         "description": "HYTE GUNDAM WING KEYCAPS",
-        "communicated_date": "January 2026",
+        "communicated_date": "Early October",
         "shipments": [
             {
                 "eta": "2026-10-09",
@@ -296,10 +313,10 @@
         "total_quantity": 200
     },
     {
-        "group": "This Month",
+        "group": "2+ Months Out",
         "sku": "KEY-HYTE-SMIKO-BE",
         "description": "[BLK] HYTE SAKURA MIKO KEYCAP BUNDLE - EARLY BIRD",
-        "communicated_date": "Q3 2026",
+        "communicated_date": "Early December 2026",
         "shipments": [
             {
                 "eta": null,
@@ -309,18 +326,18 @@
         "total_quantity": 250
     },
     {
-        "group": "This Month",
+        "group": "2+ Months Out",
         "sku": "KEY-HYTE-SMIKO-W",
         "description": null,
-        "communicated_date": "Q3 2026",
+        "communicated_date": "Early December 2026",
         "shipments": [],
         "total_quantity": 0
     },
     {
-        "group": "This Month",
+        "group": "2+ Months Out",
         "sku": "KEY-HYTE-SMIKO-WE",
         "description": "[WHT] HYTE SAKURA MIKO KEYCAP BUNDLE - EARLY BIRD",
-        "communicated_date": "Q3 2026",
+        "communicated_date": "Early December 2026",
         "shipments": [
             {
                 "eta": null,
