@@ -82,14 +82,6 @@
         "total_quantity": 940
     },
     {
-        "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y40-MORI",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
         "group": "Next Month",
         "sku": "CS-HYTE-Y50RGB-RB",
         "description": "[BLACK CHERRY] HYTE Y50 RGB CASE",

@@ -9,7 +9,7 @@
                 "quantity": 200
             },
             {
-                "eta": null,
+                "eta": "2026-10-26",
                 "quantity": 200
             }
         ],
@@ -49,7 +49,7 @@
                 "quantity": 200
             },
             {
-                "eta": null,
+                "eta": "2026-10-26",
                 "quantity": 100
             }
         ],
@@ -529,7 +529,7 @@
                 "quantity": 580
             },
             {
-                "eta": null,
+                "eta": "2026-10-26",
                 "quantity": 580
             }
         ],
