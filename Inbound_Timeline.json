@@ -99,17 +99,17 @@
         "total_quantity": 405
     },
     {
-        "group": "Out of Stocks",
+        "group": "Next Month",
         "sku": "CS-HYTE-Y50RGB-SM",
         "description": "[STRAWBERRY MILK] HYTE Y50 RGB CASE",
-        "communicated_date": null,
+        "communicated_date": "Late October",
         "shipments": [
             {
                 "eta": "2026-10-23",
                 "quantity": 150
             },
             {
-                "eta": null,
+                "eta": "2026-10-30",
                 "quantity": 50
             },
             {
@@ -130,7 +130,7 @@
                 "quantity": 150
             },
             {
-                "eta": null,
+                "eta": "2026-10-30",
                 "quantity": 50
             },
             {
@@ -139,6 +139,27 @@
             }
         ],
         "total_quantity": 435
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "CS-HYTE-Y70-B",
+        "description": "[BLK] HYTE Y70  CASE",
+        "communicated_date": null,
+        "shipments": [
+            {
+                "eta": "2026-10-23",
+                "quantity": 72
+            },
+            {
+                "eta": "2026-10-30",
+                "quantity": 18
+            },
+            {
+                "eta": null,
+                "quantity": 110
+            }
+        ],
+        "total_quantity": 200
     },
     {
         "group": "Out of Stocks",
@@ -214,12 +235,16 @@
         "communicated_date": null,
         "shipments": [
             {
-                "eta": null,
-                "quantity": 293
+                "eta": "2026-10-23",
+                "quantity": 72
+            },
+            {
+                "eta": "2026-10-30",
+                "quantity": 19
             },
             {
                 "eta": null,
-                "quantity": 72
+                "quantity": 274
             }
         ],
         "total_quantity": 365
@@ -239,19 +264,6 @@
         "communicated_date": "Q4 2026",
         "shipments": [],
         "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "FAN-HYTE-FA12-TM-4",
-        "description": "[TARO MILK] HYTE FA12 PWM FAN (4-PACK)",
-        "communicated_date": null,
-        "shipments": [
-            {
-                "eta": "2026-10-23",
-                "quantity": 240
-            }
-        ],
-        "total_quantity": 240
     },
     {
         "group": "Out of Stocks",
@@ -343,10 +355,10 @@
         "total_quantity": 252
     },
     {
-        "group": "Out of Stocks",
+        "group": "Next Month",
         "sku": "MAT-HYTE-FIREFLY",
         "description": "HYTE HSR FIREFLY DESK MAT",
-        "communicated_date": null,
+        "communicated_date": "Early October",
         "shipments": [
             {
                 "eta": "2026-10-02",

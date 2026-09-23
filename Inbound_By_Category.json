@@ -97,6 +97,18 @@
     },
     {
         "category": "FA12",
+        "sku": "FAN-HYTE-FA12-TM-4",
+        "description": "[TARO MILK] HYTE FA12 PWM FAN (4-PACK)",
+        "shipments": [
+            {
+                "eta": "2026-10-23",
+                "quantity": 240
+            }
+        ],
+        "total_quantity": 240
+    },
+    {
+        "category": "FA12",
         "sku": "FAN-HYTE-FA12-WW-4",
         "description": "[SNOW WHITE] HYTE FA12 PWM FAN (4-PACK)",
         "shipments": [
@@ -106,6 +118,18 @@
             }
         ],
         "total_quantity": 360
+    },
+    {
+        "category": "GWING",
+        "sku": "ACC-HYTE-GWING-WS",
+        "description": "HYTE GUNDAM WING WALL SCROLL",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 24
+            }
+        ],
+        "total_quantity": 24
     },
     {
         "category": "GWING",
@@ -150,6 +174,78 @@
             }
         ],
         "total_quantity": 208
+    },
+    {
+        "category": "METAPHOR",
+        "sku": "ACC-HYTE-METAPHOR-KC",
+        "description": "HYTE METAPHOR ACRYLIC KEYCHAIN",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 200
+            }
+        ],
+        "total_quantity": 200
+    },
+    {
+        "category": "METAPHOR",
+        "sku": "ACC-HYTE-METAPHOR-WS",
+        "description": "HYTE METAPHOR WALL SCROLL",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 300
+            }
+        ],
+        "total_quantity": 300
+    },
+    {
+        "category": "METAPHOR",
+        "sku": "KEY-HYTE-METAPHOR",
+        "description": "HYTE METAPHOR KEYCAPS",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 17
+            }
+        ],
+        "total_quantity": 17
+    },
+    {
+        "category": "METAPHOR",
+        "sku": "MOU-HYTE-METAPHOR-1",
+        "description": "HYTE DESK MAT - METAPHOR 1",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 40
+            }
+        ],
+        "total_quantity": 40
+    },
+    {
+        "category": "METAPHOR",
+        "sku": "MOU-HYTE-METAPHOR-2",
+        "description": "HYTE DESK MAT - METAPHOR 2",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 80
+            }
+        ],
+        "total_quantity": 80
+    },
+    {
+        "category": "METAPHOR",
+        "sku": "MOU-HYTE-METAPHOR-3",
+        "description": "HYTE DESK MAT - METAPHOR 3",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 80
+            }
+        ],
+        "total_quantity": 80
     },
     {
         "category": "P3R",
@@ -198,6 +294,30 @@
             }
         ],
         "total_quantity": 100
+    },
+    {
+        "category": "SW",
+        "sku": "KEY-HYTE-SW-EB",
+        "description": "HYTE SILVER WOLF KEYCAP BUNDLE \u2013 EARLY BIRD",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 288
+            }
+        ],
+        "total_quantity": 288
+    },
+    {
+        "category": "SW",
+        "sku": "KEY-HYTE-SW-U",
+        "description": "HYTE SILVER WOLF KEYCAP BUNDLE",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 467
+            }
+        ],
+        "total_quantity": 467
     },
     {
         "category": "Service Parts",
@@ -512,6 +632,18 @@
         "total_quantity": 10
     },
     {
+        "category": "TOKI",
+        "sku": "KEY-HYTE-TOKI",
+        "description": "HYTE TOKIDOKI X HOLOLIVE ADVENT KEYCAP BUNDLE",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 47
+            }
+        ],
+        "total_quantity": 47
+    },
+    {
         "category": "Uncategorized",
         "sku": "CS-IBP-Y50RGB-BB",
         "description": "[PITCH BLACK] IBP Y50 RGB CASE",
@@ -536,12 +668,36 @@
         "total_quantity": 2320
     },
     {
+        "category": "hoyoverse-honkai-impact-3-y40-bundle",
+        "sku": "CS-HYTE-SQ-Y40-EB",
+        "description": "HYTE Y40 SONGQUE BUNDLE \u2013 EARLY BIRD",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 6
+            }
+        ],
+        "total_quantity": 6
+    },
+    {
+        "category": "tokidoki-hololive-y70",
+        "sku": "CS-HYTE-Y70-TOKI",
+        "description": "HYTE TOKIDOKI X HOLOLIVE ADVENT Y70",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 20
+            }
+        ],
+        "total_quantity": 20
+    },
+    {
         "category": "y50",
         "sku": "CS-HYTE-Y50RGB-BB",
         "description": "[PITCH BLACK] HYTE Y50 RGB CASE",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-10-30",
                 "quantity": 410
             },
             {
@@ -561,7 +717,7 @@
                 "quantity": 338
             },
             {
-                "eta": null,
+                "eta": "2026-10-30",
                 "quantity": 62
             },
             {
@@ -570,21 +726,5 @@
             }
         ],
         "total_quantity": 580
-    },
-    {
-        "category": "y70",
-        "sku": "CS-HYTE-Y70-B",
-        "description": "[BLK] HYTE Y70  CASE",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 128
-            },
-            {
-                "eta": null,
-                "quantity": 72
-            }
-        ],
-        "total_quantity": 200
     }
 ]
