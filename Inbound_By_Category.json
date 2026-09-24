@@ -206,10 +206,10 @@
         "shipments": [
             {
                 "eta": null,
-                "quantity": 17
+                "quantity": 179
             }
         ],
-        "total_quantity": 17
+        "total_quantity": 179
     },
     {
         "category": "METAPHOR",
