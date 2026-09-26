@@ -663,9 +663,13 @@
             {
                 "eta": "2026-10-26",
                 "quantity": 580
+            },
+            {
+                "eta": null,
+                "quantity": 580
             }
         ],
-        "total_quantity": 2320
+        "total_quantity": 2900
     },
     {
         "category": "hoyoverse-honkai-impact-3-y40-bundle",
@@ -726,5 +730,17 @@
             }
         ],
         "total_quantity": 580
+    },
+    {
+        "category": "y70",
+        "sku": "CS-HYTE-Y70-BR",
+        "description": "[BLK/RED] HYTE Y70  CASE",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 80
+            }
+        ],
+        "total_quantity": 80
     }
 ]
