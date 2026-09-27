@@ -427,6 +427,22 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "PARTS-Y60-001",
+        "description": null,
+        "communicated_date": null,
+        "shipments": [],
+        "total_quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "PARTS-Y60-001-A",
+        "description": null,
+        "communicated_date": null,
+        "shipments": [],
+        "total_quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "PARTS-Y60-002-A",
         "description": null,
         "communicated_date": null,
