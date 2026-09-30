@@ -248,42 +248,6 @@
         "total_quantity": 80
     },
     {
-        "category": "P3R",
-        "sku": "MOU-HYTE-P3R-AIGIS",
-        "description": "HYTE DESK MAT - P3R 5 - AIGIS",
-        "shipments": [
-            {
-                "eta": "2026-10-02",
-                "quantity": 400
-            }
-        ],
-        "total_quantity": 400
-    },
-    {
-        "category": "P3R",
-        "sku": "MOU-HYTE-P3R-TRAIN",
-        "description": "HYTE DESK MAT - P3R 4 - TRAIN",
-        "shipments": [
-            {
-                "eta": "2026-10-02",
-                "quantity": 300
-            }
-        ],
-        "total_quantity": 300
-    },
-    {
-        "category": "PCIE50",
-        "sku": "ACC-HYTE-PCIE50-BR",
-        "description": "[BLACK CHERRY] HYTE PCIE50 HYPER RISER",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 60
-            }
-        ],
-        "total_quantity": 60
-    },
-    {
         "category": "PCIE50",
         "sku": "ACC-HYTE-PCIE50-SM",
         "description": "[STRAWBERRY MILK] HYTE PCIE50 HYPER RISER",

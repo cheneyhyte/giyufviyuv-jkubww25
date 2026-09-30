@@ -58,6 +58,19 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "ACC-HYTE-PCIE50-BR",
+        "description": "[BLACK CHERRY] HYTE PCIE50 HYPER RISER",
+        "communicated_date": null,
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 60
+            }
+        ],
+        "total_quantity": 60
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "ACC-HYTE-PCIE50-MM",
         "description": null,
         "communicated_date": null,
@@ -141,10 +154,10 @@
         "total_quantity": 435
     },
     {
-        "group": "Out of Stocks",
+        "group": "Next Month",
         "sku": "CS-HYTE-Y70-B",
         "description": "[BLK] HYTE Y70  CASE",
-        "communicated_date": null,
+        "communicated_date": "Late October",
         "shipments": [
             {
                 "eta": "2026-10-16",
@@ -237,10 +250,10 @@
         "total_quantity": 201
     },
     {
-        "group": "Out of Stocks",
+        "group": "Next Month",
         "sku": "CS-HYTE-Y70-WW",
         "description": "[WHT/WHT]  HYTE Y70 CASE",
-        "communicated_date": null,
+        "communicated_date": "Late October",
         "shipments": [
             {
                 "eta": "2026-10-16",
@@ -278,14 +291,6 @@
         "sku": "CS-HYTE-Y70TTI-INA",
         "description": null,
         "communicated_date": "Q4 2026",
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "KEY-HYTE-FIREFLY",
-        "description": null,
-        "communicated_date": null,
         "shipments": [],
         "total_quantity": 0
     },
@@ -373,15 +378,10 @@
     {
         "group": "Next Month",
         "sku": "MAT-HYTE-FIREFLY",
-        "description": "HYTE HSR FIREFLY DESK MAT",
+        "description": null,
         "communicated_date": "Early October",
-        "shipments": [
-            {
-                "eta": "2026-10-02",
-                "quantity": 300
-            }
-        ],
-        "total_quantity": 300
+        "shipments": [],
+        "total_quantity": 0
     },
     {
         "group": "2+ Months Out",
