@@ -150,14 +150,10 @@
         "shipments": [
             {
                 "eta": null,
-                "quantity": 8
-            },
-            {
-                "eta": null,
                 "quantity": 200
             }
         ],
-        "total_quantity": 208
+        "total_quantity": 200
     },
     {
         "category": "LNRGB",
@@ -166,14 +162,10 @@
         "shipments": [
             {
                 "eta": null,
-                "quantity": 8
-            },
-            {
-                "eta": null,
                 "quantity": 200
             }
         ],
-        "total_quantity": 208
+        "total_quantity": 200
     },
     {
         "category": "METAPHOR",

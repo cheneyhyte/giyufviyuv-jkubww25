@@ -40,7 +40,7 @@
         "total_quantity": 0
     },
     {
-        "group": "This Month",
+        "group": "2+ Months Out",
         "sku": "ACC-HYTE-PCIE50-BB",
         "description": "[PITCH BLACK] HYTE PCIE50 HYPER RISER",
         "communicated_date": "Week of Sept 21st",
@@ -78,7 +78,7 @@
         "total_quantity": 0
     },
     {
-        "group": "This Month",
+        "group": "2+ Months Out",
         "sku": "ACC-HYTE-PCIE50-WW",
         "description": "[SNOW WHITE] HYTE PCIE50 HYPER RISER",
         "communicated_date": "Week of Sept 21st",
@@ -95,7 +95,7 @@
         "total_quantity": 940
     },
     {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "CS-HYTE-Y50RGB-RB",
         "description": "[BLACK CHERRY] HYTE Y50 RGB CASE",
         "communicated_date": "October 23rd",
@@ -112,7 +112,7 @@
         "total_quantity": 405
     },
     {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "CS-HYTE-Y50RGB-SM",
         "description": "[STRAWBERRY MILK] HYTE Y50 RGB CASE",
         "communicated_date": "Late October",
@@ -133,7 +133,7 @@
         "total_quantity": 390
     },
     {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "CS-HYTE-Y50RGB-TM",
         "description": "[TARO MILK] HYTE Y50 RGB CASE",
         "communicated_date": "October 23rd",
@@ -154,7 +154,7 @@
         "total_quantity": 435
     },
     {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "CS-HYTE-Y70-B",
         "description": "[BLK] HYTE Y70  CASE",
         "communicated_date": "Late October",
@@ -250,7 +250,7 @@
         "total_quantity": 201
     },
     {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "CS-HYTE-Y70-WW",
         "description": "[WHT/WHT]  HYTE Y70 CASE",
         "communicated_date": "Late October",
@@ -295,7 +295,7 @@
         "total_quantity": 0
     },
     {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "KEY-HYTE-GWING",
         "description": "HYTE GUNDAM WING KEYCAPS",
         "communicated_date": "Early October",
@@ -376,7 +376,7 @@
         "total_quantity": 252
     },
     {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "MAT-HYTE-FIREFLY",
         "description": null,
         "communicated_date": "Early October",
