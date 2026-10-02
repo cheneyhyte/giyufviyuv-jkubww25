@@ -25,6 +25,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "ACC-HYTE-LK-Y7TTI-BB",
+        "description": null,
+        "communicated_date": null,
+        "shipments": [],
+        "total_quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "ACC-HYTE-LK-Y7TTI-SM",
         "description": null,
         "communicated_date": null,
@@ -168,8 +176,12 @@
                 "quantity": 18
             },
             {
+                "eta": "2026-11-02",
+                "quantity": 1
+            },
+            {
                 "eta": null,
-                "quantity": 110
+                "quantity": 109
             },
             {
                 "eta": null,
@@ -264,7 +276,7 @@
                 "quantity": 19
             },
             {
-                "eta": null,
+                "eta": "2026-11-02",
                 "quantity": 274
             },
             {

@@ -121,18 +121,6 @@
     },
     {
         "category": "GWING",
-        "sku": "ACC-HYTE-GWING-WS",
-        "description": "HYTE GUNDAM WING WALL SCROLL",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 24
-            }
-        ],
-        "total_quantity": 24
-    },
-    {
-        "category": "GWING",
         "sku": "MOU-HYTE-GWING",
         "description": "HYTE GUNDAM WING DESK PAD",
         "shipments": [
@@ -149,7 +137,7 @@
         "description": "[PITCH BLACK] HYTE ARGB NOODLE LN80",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-11-02",
                 "quantity": 200
             }
         ],
@@ -161,7 +149,7 @@
         "description": "[SNOW WHITE] HYTE ARGB NOODLE LN80",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-11-02",
                 "quantity": 200
             }
         ],
@@ -173,7 +161,7 @@
         "description": "HYTE METAPHOR ACRYLIC KEYCHAIN",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-11-02",
                 "quantity": 200
             }
         ],
@@ -185,7 +173,7 @@
         "description": "HYTE METAPHOR WALL SCROLL",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-11-02",
                 "quantity": 300
             }
         ],
@@ -197,7 +185,7 @@
         "description": "HYTE METAPHOR KEYCAPS",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-11-02",
                 "quantity": 179
             }
         ],
@@ -209,7 +197,7 @@
         "description": "HYTE DESK MAT - METAPHOR 1",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-11-02",
                 "quantity": 40
             }
         ],
@@ -221,7 +209,7 @@
         "description": "HYTE DESK MAT - METAPHOR 2",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-11-02",
                 "quantity": 80
             }
         ],
@@ -233,7 +221,7 @@
         "description": "HYTE DESK MAT - METAPHOR 3",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-11-02",
                 "quantity": 80
             }
         ],
@@ -257,7 +245,7 @@
         "description": "HYTE SILVER WOLF KEYCAP BUNDLE \u2013 EARLY BIRD",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-11-02",
                 "quantity": 288
             }
         ],
@@ -269,7 +257,7 @@
         "description": "HYTE SILVER WOLF KEYCAP BUNDLE",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-11-02",
                 "quantity": 467
             }
         ],
@@ -593,7 +581,7 @@
         "description": "HYTE TOKIDOKI X HOLOLIVE ADVENT KEYCAP BUNDLE",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-11-02",
                 "quantity": 47
             }
         ],
@@ -605,11 +593,11 @@
         "description": "[PITCH BLACK] IBP Y50 RGB CASE",
         "shipments": [
             {
-                "eta": "2026-10-09",
+                "eta": "2026-10-06",
                 "quantity": 580
             },
             {
-                "eta": "2026-10-09",
+                "eta": "2026-10-06",
                 "quantity": 580
             },
             {
@@ -633,7 +621,7 @@
         "description": "HYTE Y40 SONGQUE BUNDLE \u2013 EARLY BIRD",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-11-02",
                 "quantity": 6
             }
         ],
@@ -645,7 +633,7 @@
         "description": "HYTE TOKIDOKI X HOLOLIVE ADVENT Y70",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-11-02",
                 "quantity": 20
             }
         ],
