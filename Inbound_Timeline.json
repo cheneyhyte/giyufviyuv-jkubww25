@@ -9,31 +9,7 @@
     },
     {
         "group": "Out of Stocks",
-        "sku": "ACC-HYTE-AFO-INA",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
         "sku": "ACC-HYTE-FIREFLY-FS",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "ACC-HYTE-LK-Y7TTI-BB",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "ACC-HYTE-LK-Y7TTI-SM",
         "description": null,
         "communicated_date": null,
         "shipments": [],
@@ -46,61 +22,6 @@
         "communicated_date": null,
         "shipments": [],
         "total_quantity": 0
-    },
-    {
-        "group": "2+ Months Out",
-        "sku": "ACC-HYTE-PCIE50-BB",
-        "description": "[PITCH BLACK] HYTE PCIE50 HYPER RISER",
-        "communicated_date": "Week of Sept 21st",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 200
-            },
-            {
-                "eta": null,
-                "quantity": 600
-            }
-        ],
-        "total_quantity": 800
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "ACC-HYTE-PCIE50-BR",
-        "description": "[BLACK CHERRY] HYTE PCIE50 HYPER RISER",
-        "communicated_date": null,
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 60
-            }
-        ],
-        "total_quantity": 60
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "ACC-HYTE-PCIE50-MM",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "2+ Months Out",
-        "sku": "ACC-HYTE-PCIE50-WW",
-        "description": "[SNOW WHITE] HYTE PCIE50 HYPER RISER",
-        "communicated_date": "Week of Sept 21st",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 200
-            },
-            {
-                "eta": null,
-                "quantity": 740
-            }
-        ],
-        "total_quantity": 940
     },
     {
         "group": "This Month",
@@ -214,14 +135,6 @@
             }
         ],
         "total_quantity": 600
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y70-FFLY-EN",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
     },
     {
         "group": "Out of Stocks",
@@ -439,38 +352,6 @@
     },
     {
         "group": "Out of Stocks",
-        "sku": "PARTS-Y60-001",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "PARTS-Y60-001-A",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "PARTS-Y60-002-A",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "PARTS-Y60-003-A",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
         "sku": "PARTS-Y60-007",
         "description": null,
         "communicated_date": null,
@@ -488,14 +369,6 @@
     {
         "group": "Out of Stocks",
         "sku": "PARTS-Y60-009",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "PARTS-Y60-009-A",
         "description": null,
         "communicated_date": null,
         "shipments": [],
@@ -568,102 +441,6 @@
     {
         "group": "Out of Stocks",
         "sku": "PARTS-Y60-015",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "PARTS-Y60-016",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "PARTS-Y60-017",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "PARTS-Y60-017-A",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "PARTS-Y60-029",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "PARTS-Y60-030",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "PARTS-Y60-031",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "PARTS-Y60-037-B",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "PARTS-Y60-037-W",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "PARTS-Y60-038-B",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "PARTS-Y60-038-W",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "PARTS-Y60-039",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "PARTS-Y60-040",
         "description": null,
         "communicated_date": null,
         "shipments": [],

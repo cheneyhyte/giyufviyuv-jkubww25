@@ -229,6 +229,34 @@
     },
     {
         "category": "PCIE50",
+        "sku": "ACC-HYTE-PCIE50-BB",
+        "description": "[PITCH BLACK] HYTE PCIE50 HYPER RISER",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 200
+            },
+            {
+                "eta": null,
+                "quantity": 600
+            }
+        ],
+        "total_quantity": 800
+    },
+    {
+        "category": "PCIE50",
+        "sku": "ACC-HYTE-PCIE50-BR",
+        "description": "[BLACK CHERRY] HYTE PCIE50 HYPER RISER",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 60
+            }
+        ],
+        "total_quantity": 60
+    },
+    {
+        "category": "PCIE50",
         "sku": "ACC-HYTE-PCIE50-SM",
         "description": "[STRAWBERRY MILK] HYTE PCIE50 HYPER RISER",
         "shipments": [
@@ -238,6 +266,22 @@
             }
         ],
         "total_quantity": 100
+    },
+    {
+        "category": "PCIE50",
+        "sku": "ACC-HYTE-PCIE50-WW",
+        "description": "[SNOW WHITE] HYTE PCIE50 HYPER RISER",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 200
+            },
+            {
+                "eta": null,
+                "quantity": 740
+            }
+        ],
+        "total_quantity": 940
     },
     {
         "category": "SW",
