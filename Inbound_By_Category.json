@@ -268,22 +268,6 @@
         "total_quantity": 100
     },
     {
-        "category": "PCIE50",
-        "sku": "ACC-HYTE-PCIE50-WW",
-        "description": "[SNOW WHITE] HYTE PCIE50 HYPER RISER",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 200
-            },
-            {
-                "eta": null,
-                "quantity": 740
-            }
-        ],
-        "total_quantity": 940
-    },
-    {
         "category": "SW",
         "sku": "KEY-HYTE-SW-EB",
         "description": "HYTE SILVER WOLF KEYCAP BUNDLE \u2013 EARLY BIRD",
