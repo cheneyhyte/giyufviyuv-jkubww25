@@ -8,21 +8,52 @@
         "total_quantity": 0
     },
     {
-        "group": "2+ Months Out",
-        "sku": "ACC-HYTE-PCIE50-WW",
-        "description": "[SNOW WHITE] HYTE PCIE50 HYPER RISER",
-        "communicated_date": "Week of Sept 21st",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 200
-            },
-            {
-                "eta": null,
-                "quantity": 740
-            }
-        ],
-        "total_quantity": 940
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-AFO-INA",
+        "description": null,
+        "communicated_date": null,
+        "shipments": [],
+        "total_quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-FIREFLY-FS",
+        "description": null,
+        "communicated_date": null,
+        "shipments": [],
+        "total_quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-LK-Y7TTI-BB",
+        "description": null,
+        "communicated_date": null,
+        "shipments": [],
+        "total_quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-LK-Y7TTI-SM",
+        "description": null,
+        "communicated_date": null,
+        "shipments": [],
+        "total_quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-LK-Y7TTI-TM",
+        "description": null,
+        "communicated_date": null,
+        "shipments": [],
+        "total_quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-PCIE50-MM",
+        "description": null,
+        "communicated_date": null,
+        "shipments": [],
+        "total_quantity": 0
     },
     {
         "group": "This Month",
@@ -139,6 +170,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "CS-HYTE-Y70-FFLY-EN",
+        "description": null,
+        "communicated_date": null,
+        "shipments": [],
+        "total_quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "CS-HYTE-Y70-MM",
         "description": null,
         "communicated_date": null,
@@ -205,52 +244,6 @@
         "total_quantity": 1165
     },
     {
-        "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y70TTI-GWING",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "2+ Months Out",
-        "sku": "CS-HYTE-Y70TTI-INA",
-        "description": null,
-        "communicated_date": "Q4 2026",
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "This Month",
-        "sku": "KEY-HYTE-GWING",
-        "description": "HYTE GUNDAM WING KEYCAPS",
-        "communicated_date": "Early October",
-        "shipments": [
-            {
-                "eta": "2026-10-09",
-                "quantity": 119
-            }
-        ],
-        "total_quantity": 119
-    },
-    {
-        "group": "2+ Months Out",
-        "sku": "KEY-HYTE-INA",
-        "description": "HYTE NINOMAE INA'NIS KEYCAPS",
-        "communicated_date": "Q4 2026",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 800
-            },
-            {
-                "eta": null,
-                "quantity": 2
-            }
-        ],
-        "total_quantity": 802
-    },
-    {
         "group": "2+ Months Out",
         "sku": "KEY-HYTE-P30TH",
         "description": "HYTE PERSONA 30TH KEYCAPS",
@@ -302,30 +295,20 @@
         "total_quantity": 252
     },
     {
-        "group": "2+ Months Out",
-        "sku": "MAT-HYTE-P30TH-A",
-        "description": "HYTE DESK MAT \u2013 PERSONA 30TH A",
-        "communicated_date": "Q4 2026",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 400
-            }
-        ],
-        "total_quantity": 400
+        "group": "This Month",
+        "sku": "MAT-HYTE-FIREFLY",
+        "description": null,
+        "communicated_date": "Early October",
+        "shipments": [],
+        "total_quantity": 0
     },
     {
-        "group": "2+ Months Out",
-        "sku": "MAT-HYTE-P30TH-B",
-        "description": "HYTE DESK MAT \u2013 PERSONA 30TH B",
-        "communicated_date": "Q4 2026",
-        "shipments": [
-            {
-                "eta": null,
-                "quantity": 400
-            }
-        ],
-        "total_quantity": 400
+        "group": "Out of Stocks",
+        "sku": "MOU-HYTE-SWAX24",
+        "description": null,
+        "communicated_date": null,
+        "shipments": [],
+        "total_quantity": 0
     },
     {
         "group": "Out of Stocks",
@@ -337,7 +320,7 @@
     },
     {
         "group": "Out of Stocks",
-        "sku": "PARTS-Y60-009",
+        "sku": "PARTS-Y60-007",
         "description": null,
         "communicated_date": null,
         "shipments": [],
@@ -345,7 +328,15 @@
     },
     {
         "group": "Out of Stocks",
-        "sku": "PARTS-Y60-009-A",
+        "sku": "PARTS-Y60-008-A",
+        "description": null,
+        "communicated_date": null,
+        "shipments": [],
+        "total_quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "PARTS-Y60-009",
         "description": null,
         "communicated_date": null,
         "shipments": [],
@@ -426,46 +417,6 @@
     {
         "group": "Out of Stocks",
         "sku": "PARTS-Y60-016",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "PARTS-Y60-017",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "PARTS-Y60-017-A",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "PARTS-Y60-029",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "PARTS-Y60-031",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "PARTS-Y60-039",
         "description": null,
         "communicated_date": null,
         "shipments": [],
