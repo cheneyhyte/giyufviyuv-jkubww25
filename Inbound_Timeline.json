@@ -307,14 +307,6 @@
         "total_quantity": 1165
     },
     {
-        "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y70TTI-GWING",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
         "group": "2+ Months Out",
         "sku": "CS-HYTE-Y70TTI-INA",
         "description": null,
@@ -584,14 +576,6 @@
     {
         "group": "Out of Stocks",
         "sku": "PARTS-Y60-040",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "PARTS-Y70-003-W",
         "description": null,
         "communicated_date": null,
         "shipments": [],
