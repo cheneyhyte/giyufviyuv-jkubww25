@@ -25,14 +25,6 @@
     },
     {
         "group": "Out of Stocks",
-        "sku": "ACC-HYTE-LK-Y7TTI-BB",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
         "sku": "ACC-HYTE-LK-Y7TTI-SM",
         "description": null,
         "communicated_date": null,
@@ -48,10 +40,10 @@
         "total_quantity": 0
     },
     {
-        "group": "2+ Months Out",
+        "group": "Next Month",
         "sku": "ACC-HYTE-PCIE50-BB",
         "description": "[PITCH BLACK] HYTE PCIE50 HYPER RISER",
-        "communicated_date": "Week of Sept 21st",
+        "communicated_date": "Late November",
         "shipments": [
             {
                 "eta": null,
@@ -101,6 +93,23 @@
             }
         ],
         "total_quantity": 940
+    },
+    {
+        "group": "This Month",
+        "sku": "CS-HYTE-Y50RGB-BB",
+        "description": "[PITCH BLACK] HYTE Y50 RGB CASE",
+        "communicated_date": "October 30th",
+        "shipments": [
+            {
+                "eta": "2026-10-30",
+                "quantity": 410
+            },
+            {
+                "eta": null,
+                "quantity": 500
+            }
+        ],
+        "total_quantity": 910
     },
     {
         "group": "This Month",
@@ -160,6 +169,27 @@
             }
         ],
         "total_quantity": 435
+    },
+    {
+        "group": "This Month",
+        "sku": "CS-HYTE-Y50RGB-WW",
+        "description": "[SNOW WHITE] HYTE Y50 RGB CASE",
+        "communicated_date": "Mid October",
+        "shipments": [
+            {
+                "eta": "2026-10-09",
+                "quantity": 338
+            },
+            {
+                "eta": "2026-10-30",
+                "quantity": 62
+            },
+            {
+                "eta": null,
+                "quantity": 180
+            }
+        ],
+        "total_quantity": 580
     },
     {
         "group": "This Month",
@@ -398,18 +428,10 @@
             },
             {
                 "eta": null,
-                "quantity": 2
+                "quantity": 3
             }
         ],
-        "total_quantity": 252
-    },
-    {
-        "group": "This Month",
-        "sku": "MAT-HYTE-FIREFLY",
-        "description": null,
-        "communicated_date": "Early October",
-        "shipments": [],
-        "total_quantity": 0
+        "total_quantity": 253
     },
     {
         "group": "2+ Months Out",
@@ -592,6 +614,14 @@
     {
         "group": "Out of Stocks",
         "sku": "PARTS-Y70-010-W",
+        "description": null,
+        "communicated_date": null,
+        "shipments": [],
+        "total_quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "PARTS-Y70-018",
         "description": null,
         "communicated_date": null,
         "shipments": [],

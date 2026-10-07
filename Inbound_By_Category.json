@@ -593,14 +593,6 @@
         "description": "[PITCH BLACK] IBP Y50 RGB CASE",
         "shipments": [
             {
-                "eta": "2026-10-06",
-                "quantity": 580
-            },
-            {
-                "eta": "2026-10-06",
-                "quantity": 580
-            },
-            {
                 "eta": "2026-10-09",
                 "quantity": 580
             },
@@ -613,7 +605,7 @@
                 "quantity": 580
             }
         ],
-        "total_quantity": 2900
+        "total_quantity": 1740
     },
     {
         "category": "hoyoverse-honkai-impact-3-y40-bundle",
@@ -638,42 +630,6 @@
             }
         ],
         "total_quantity": 20
-    },
-    {
-        "category": "y50",
-        "sku": "CS-HYTE-Y50RGB-BB",
-        "description": "[PITCH BLACK] HYTE Y50 RGB CASE",
-        "shipments": [
-            {
-                "eta": "2026-10-30",
-                "quantity": 410
-            },
-            {
-                "eta": null,
-                "quantity": 500
-            }
-        ],
-        "total_quantity": 910
-    },
-    {
-        "category": "y50",
-        "sku": "CS-HYTE-Y50RGB-WW",
-        "description": "[SNOW WHITE] HYTE Y50 RGB CASE",
-        "shipments": [
-            {
-                "eta": "2026-10-09",
-                "quantity": 338
-            },
-            {
-                "eta": "2026-10-30",
-                "quantity": 62
-            },
-            {
-                "eta": null,
-                "quantity": 180
-            }
-        ],
-        "total_quantity": 580
     },
     {
         "category": "y70",
