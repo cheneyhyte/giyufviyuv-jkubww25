@@ -40,6 +40,22 @@
         "total_quantity": 0
     },
     {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-LS10-B-3",
+        "description": null,
+        "communicated_date": null,
+        "shipments": [],
+        "total_quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-LS30-B-2",
+        "description": null,
+        "communicated_date": null,
+        "shipments": [],
+        "total_quantity": 0
+    },
+    {
         "group": "Next Month",
         "sku": "ACC-HYTE-PCIE50-BB",
         "description": "[PITCH BLACK] HYTE PCIE50 HYPER RISER",
@@ -345,19 +361,6 @@
         "total_quantity": 0
     },
     {
-        "group": "This Month",
-        "sku": "KEY-HYTE-GWING",
-        "description": "HYTE GUNDAM WING KEYCAPS",
-        "communicated_date": "Early October",
-        "shipments": [
-            {
-                "eta": "2026-10-09",
-                "quantity": 119
-            }
-        ],
-        "total_quantity": 119
-    },
-    {
         "group": "2+ Months Out",
         "sku": "KEY-HYTE-INA",
         "description": "HYTE NINOMAE INA'NIS KEYCAPS",
@@ -614,14 +617,6 @@
     {
         "group": "Out of Stocks",
         "sku": "PARTS-Y70-010-W",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "PARTS-Y70-018",
         "description": null,
         "communicated_date": null,
         "shipments": [],

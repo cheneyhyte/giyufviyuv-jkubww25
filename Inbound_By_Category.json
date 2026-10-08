@@ -121,6 +121,18 @@
     },
     {
         "category": "GWING",
+        "sku": "KEY-HYTE-GWING",
+        "description": "HYTE GUNDAM WING KEYCAPS",
+        "shipments": [
+            {
+                "eta": "2026-10-09",
+                "quantity": 119
+            }
+        ],
+        "total_quantity": 119
+    },
+    {
+        "category": "GWING",
         "sku": "MOU-HYTE-GWING",
         "description": "HYTE GUNDAM WING DESK PAD",
         "shipments": [
