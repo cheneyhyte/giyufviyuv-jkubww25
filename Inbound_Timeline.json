@@ -193,10 +193,6 @@
         "communicated_date": "Mid October",
         "shipments": [
             {
-                "eta": "2026-10-09",
-                "quantity": 338
-            },
-            {
                 "eta": "2026-10-30",
                 "quantity": 62
             },
@@ -205,7 +201,7 @@
                 "quantity": 180
             }
         ],
-        "total_quantity": 580
+        "total_quantity": 242
     },
     {
         "group": "This Month",

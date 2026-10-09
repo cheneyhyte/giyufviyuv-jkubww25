@@ -120,30 +120,6 @@
         "total_quantity": 360
     },
     {
-        "category": "GWING",
-        "sku": "KEY-HYTE-GWING",
-        "description": "HYTE GUNDAM WING KEYCAPS",
-        "shipments": [
-            {
-                "eta": "2026-10-09",
-                "quantity": 119
-            }
-        ],
-        "total_quantity": 119
-    },
-    {
-        "category": "GWING",
-        "sku": "MOU-HYTE-GWING",
-        "description": "HYTE GUNDAM WING DESK PAD",
-        "shipments": [
-            {
-                "eta": "2026-10-09",
-                "quantity": 116
-            }
-        ],
-        "total_quantity": 116
-    },
-    {
         "category": "LNRGB",
         "sku": "ACC-HYTE-LNRGB-80-BB",
         "description": "[PITCH BLACK] HYTE ARGB NOODLE LN80",
