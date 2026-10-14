@@ -51,9 +51,17 @@
             {
                 "eta": "2026-10-26",
                 "quantity": 100
+            },
+            {
+                "eta": null,
+                "quantity": 300
+            },
+            {
+                "eta": null,
+                "quantity": 200
             }
         ],
-        "total_quantity": 300
+        "total_quantity": 800
     },
     {
         "category": "ARGBPWM",
@@ -581,10 +589,6 @@
         "description": "[PITCH BLACK] IBP Y50 RGB CASE",
         "shipments": [
             {
-                "eta": "2026-10-09",
-                "quantity": 580
-            },
-            {
                 "eta": "2026-10-26",
                 "quantity": 580
             },
@@ -593,7 +597,7 @@
                 "quantity": 580
             }
         ],
-        "total_quantity": 1740
+        "total_quantity": 1160
     },
     {
         "category": "hoyoverse-honkai-impact-3-y40-bundle",

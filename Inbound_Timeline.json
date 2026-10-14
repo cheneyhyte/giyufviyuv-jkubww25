@@ -67,10 +67,10 @@
             },
             {
                 "eta": null,
-                "quantity": 600
+                "quantity": 400
             }
         ],
-        "total_quantity": 800
+        "total_quantity": 600
     },
     {
         "group": "Out of Stocks",
@@ -105,10 +105,10 @@
             },
             {
                 "eta": null,
-                "quantity": 740
+                "quantity": 540
             }
         ],
-        "total_quantity": 940
+        "total_quantity": 740
     },
     {
         "group": "This Month",
@@ -351,10 +351,23 @@
     {
         "group": "2+ Months Out",
         "sku": "CS-HYTE-Y70TTI-INA",
-        "description": null,
+        "description": "14.9\" HYTE NINOMAE INA'NIS Y70 TOUCH INFINITE",
         "communicated_date": "Q4 2026",
-        "shipments": [],
-        "total_quantity": 0
+        "shipments": [
+            {
+                "eta": "2026-10-19",
+                "quantity": 28
+            },
+            {
+                "eta": "2026-10-19",
+                "quantity": 400
+            },
+            {
+                "eta": null,
+                "quantity": 70
+            }
+        ],
+        "total_quantity": 498
     },
     {
         "group": "2+ Months Out",
@@ -597,6 +610,14 @@
     {
         "group": "Out of Stocks",
         "sku": "PARTS-Y60-040",
+        "description": null,
+        "communicated_date": null,
+        "shipments": [],
+        "total_quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "PARTS-Y70-003-W",
         "description": null,
         "communicated_date": null,
         "shipments": [],
