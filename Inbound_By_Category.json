@@ -5,49 +5,17 @@
         "description": "[PITCH BLACK] HYTE 12V 2x6 16 PIN SLEEVED PSU CABLE EXTENSION BUNDLE",
         "shipments": [
             {
-                "eta": "2026-10-16",
-                "quantity": 200
-            },
-            {
                 "eta": "2026-10-26",
                 "quantity": 200
             }
         ],
-        "total_quantity": 400
-    },
-    {
-        "category": "12V2B",
-        "sku": "CBL-HYTE-12V2B-SM",
-        "description": "[STRAWBERRY MILK] HYTE 12V 2x6 SLEEVED PSU CABLE EXTENSION BUNDLE",
-        "shipments": [
-            {
-                "eta": "2026-10-16",
-                "quantity": 100
-            }
-        ],
-        "total_quantity": 100
-    },
-    {
-        "category": "12V2B",
-        "sku": "CBL-HYTE-12V2B-TM",
-        "description": "[TARO MILK] HYTE 12V 2x6 16 SLEEVED PSU CABLE EXTENSION BUNDLE",
-        "shipments": [
-            {
-                "eta": "2026-10-16",
-                "quantity": 100
-            }
-        ],
-        "total_quantity": 100
+        "total_quantity": 200
     },
     {
         "category": "12V2B",
         "sku": "CBL-HYTE-12V2B-WW",
         "description": "[SNOW WHITE] HYTE 12V 2x6 SLEEVED PSU CABLE EXTENSION BUNDLE",
         "shipments": [
-            {
-                "eta": "2026-10-16",
-                "quantity": 200
-            },
             {
                 "eta": "2026-10-26",
                 "quantity": 100
@@ -61,7 +29,7 @@
                 "quantity": 200
             }
         ],
-        "total_quantity": 800
+        "total_quantity": 600
     },
     {
         "category": "ARGBPWM",
@@ -78,54 +46,6 @@
             }
         ],
         "total_quantity": 420
-    },
-    {
-        "category": "FA12",
-        "sku": "FAN-HYTE-FA12-BB-4",
-        "description": "[PITCH BLACK] HYTE FA12 PWM FAN (4-PACK)",
-        "shipments": [
-            {
-                "eta": "2026-10-16",
-                "quantity": 420
-            }
-        ],
-        "total_quantity": 420
-    },
-    {
-        "category": "FA12",
-        "sku": "FAN-HYTE-FA12-SM-4",
-        "description": "[STRAWBERRY MILK] HYTE FA12 PWM FAN (4-PACK)",
-        "shipments": [
-            {
-                "eta": "2026-10-16",
-                "quantity": 300
-            }
-        ],
-        "total_quantity": 300
-    },
-    {
-        "category": "FA12",
-        "sku": "FAN-HYTE-FA12-TM-4",
-        "description": "[TARO MILK] HYTE FA12 PWM FAN (4-PACK)",
-        "shipments": [
-            {
-                "eta": "2026-10-16",
-                "quantity": 240
-            }
-        ],
-        "total_quantity": 240
-    },
-    {
-        "category": "FA12",
-        "sku": "FAN-HYTE-FA12-WW-4",
-        "description": "[SNOW WHITE] HYTE FA12 PWM FAN (4-PACK)",
-        "shipments": [
-            {
-                "eta": "2026-10-16",
-                "quantity": 360
-            }
-        ],
-        "total_quantity": 360
     },
     {
         "category": "LNRGB",
@@ -222,18 +142,6 @@
             }
         ],
         "total_quantity": 80
-    },
-    {
-        "category": "PCIE50",
-        "sku": "ACC-HYTE-PCIE50-SM",
-        "description": "[STRAWBERRY MILK] HYTE PCIE50 HYPER RISER",
-        "shipments": [
-            {
-                "eta": "2026-10-16",
-                "quantity": 100
-            }
-        ],
-        "total_quantity": 100
     },
     {
         "category": "SW",
@@ -582,6 +490,30 @@
             }
         ],
         "total_quantity": 47
+    },
+    {
+        "category": "Uncategorized",
+        "sku": "CS-HYTE-Y70GT-BB",
+        "description": "14.9\" [PITCH BLACK] HYTE Y70 GLOW TOUCH CASE",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 900
+            }
+        ],
+        "total_quantity": 900
+    },
+    {
+        "category": "Uncategorized",
+        "sku": "CS-HYTE-Y70GT-WW",
+        "description": "14.9\" [SNOW WHITE] HYTE Y70 GLOW TOUCH CASE",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 900
+            }
+        ],
+        "total_quantity": 900
     },
     {
         "category": "Uncategorized",

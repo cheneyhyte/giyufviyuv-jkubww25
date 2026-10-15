@@ -121,7 +121,7 @@
                 "quantity": 410
             },
             {
-                "eta": null,
+                "eta": "2026-11-16",
                 "quantity": 500
             }
         ],
@@ -134,15 +134,11 @@
         "communicated_date": "October 23rd",
         "shipments": [
             {
-                "eta": "2026-10-16",
-                "quantity": 150
-            },
-            {
-                "eta": null,
+                "eta": "2026-11-16",
                 "quantity": 255
             }
         ],
-        "total_quantity": 405
+        "total_quantity": 255
     },
     {
         "group": "This Month",
@@ -151,19 +147,15 @@
         "communicated_date": "Late October",
         "shipments": [
             {
-                "eta": "2026-10-16",
-                "quantity": 150
-            },
-            {
                 "eta": "2026-10-19",
                 "quantity": 50
             },
             {
-                "eta": null,
+                "eta": "2026-11-16",
                 "quantity": 190
             }
         ],
-        "total_quantity": 390
+        "total_quantity": 240
     },
     {
         "group": "This Month",
@@ -172,19 +164,15 @@
         "communicated_date": "October 23rd",
         "shipments": [
             {
-                "eta": "2026-10-16",
-                "quantity": 150
-            },
-            {
                 "eta": "2026-10-19",
                 "quantity": 50
             },
             {
-                "eta": null,
+                "eta": "2026-11-16",
                 "quantity": 235
             }
         ],
-        "total_quantity": 435
+        "total_quantity": 285
     },
     {
         "group": "This Month",
@@ -197,7 +185,7 @@
                 "quantity": 62
             },
             {
-                "eta": null,
+                "eta": "2026-11-16",
                 "quantity": 180
             }
         ],
@@ -209,10 +197,6 @@
         "description": "[BLK] HYTE Y70  CASE",
         "communicated_date": "Late October",
         "shipments": [
-            {
-                "eta": "2026-10-16",
-                "quantity": 72
-            },
             {
                 "eta": "2026-10-19",
                 "quantity": 18
@@ -234,7 +218,7 @@
                 "quantity": 330
             }
         ],
-        "total_quantity": 1015
+        "total_quantity": 943
     },
     {
         "group": "Out of Stocks",
@@ -326,10 +310,6 @@
         "communicated_date": "Late October",
         "shipments": [
             {
-                "eta": "2026-10-16",
-                "quantity": 72
-            },
-            {
                 "eta": "2026-10-19",
                 "quantity": 19
             },
@@ -346,7 +326,7 @@
                 "quantity": 235
             }
         ],
-        "total_quantity": 1165
+        "total_quantity": 1093
     },
     {
         "group": "2+ Months Out",
@@ -610,14 +590,6 @@
     {
         "group": "Out of Stocks",
         "sku": "PARTS-Y60-040",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "PARTS-Y70-003-W",
         "description": null,
         "communicated_date": null,
         "shipments": [],
