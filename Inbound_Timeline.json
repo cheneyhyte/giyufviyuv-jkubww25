@@ -94,10 +94,10 @@
         "total_quantity": 0
     },
     {
-        "group": "2+ Months Out",
+        "group": "Out of Stocks",
         "sku": "ACC-HYTE-PCIE50-WW",
         "description": "[SNOW WHITE] HYTE PCIE50 HYPER RISER",
-        "communicated_date": "Week of Sept 21st",
+        "communicated_date": null,
         "shipments": [
             {
                 "eta": null,
