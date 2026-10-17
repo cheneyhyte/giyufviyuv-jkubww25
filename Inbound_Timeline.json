@@ -395,10 +395,10 @@
         "shipments": [
             {
                 "eta": null,
-                "quantity": 250
+                "quantity": 252
             }
         ],
-        "total_quantity": 250
+        "total_quantity": 252
     },
     {
         "group": "2+ Months Out",
@@ -416,14 +416,14 @@
         "shipments": [
             {
                 "eta": null,
-                "quantity": 250
+                "quantity": 252
             },
             {
                 "eta": null,
                 "quantity": 3
             }
         ],
-        "total_quantity": 253
+        "total_quantity": 255
     },
     {
         "group": "2+ Months Out",

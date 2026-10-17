@@ -498,10 +498,10 @@
         "shipments": [
             {
                 "eta": null,
-                "quantity": 900
+                "quantity": 898
             }
         ],
-        "total_quantity": 900
+        "total_quantity": 898
     },
     {
         "category": "Uncategorized",
@@ -510,10 +510,10 @@
         "shipments": [
             {
                 "eta": null,
-                "quantity": 900
+                "quantity": 898
             }
         ],
-        "total_quantity": 900
+        "total_quantity": 898
     },
     {
         "category": "Uncategorized",
