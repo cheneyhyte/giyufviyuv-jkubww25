@@ -117,15 +117,11 @@
         "communicated_date": "October 30th",
         "shipments": [
             {
-                "eta": "2026-10-19",
-                "quantity": 410
-            },
-            {
                 "eta": "2026-11-16",
                 "quantity": 500
             }
         ],
-        "total_quantity": 910
+        "total_quantity": 500
     },
     {
         "group": "This Month",
@@ -147,15 +143,11 @@
         "communicated_date": "Late October",
         "shipments": [
             {
-                "eta": "2026-10-19",
-                "quantity": 50
-            },
-            {
                 "eta": "2026-11-16",
                 "quantity": 190
             }
         ],
-        "total_quantity": 240
+        "total_quantity": 190
     },
     {
         "group": "This Month",
@@ -164,15 +156,11 @@
         "communicated_date": "October 23rd",
         "shipments": [
             {
-                "eta": "2026-10-19",
-                "quantity": 50
-            },
-            {
                 "eta": "2026-11-16",
                 "quantity": 235
             }
         ],
-        "total_quantity": 285
+        "total_quantity": 235
     },
     {
         "group": "This Month",
@@ -181,15 +169,11 @@
         "communicated_date": "Mid October",
         "shipments": [
             {
-                "eta": "2026-10-30",
-                "quantity": 62
-            },
-            {
                 "eta": "2026-11-16",
                 "quantity": 180
             }
         ],
-        "total_quantity": 242
+        "total_quantity": 180
     },
     {
         "group": "This Month",
@@ -339,15 +323,19 @@
                 "quantity": 28
             },
             {
-                "eta": "2026-10-19",
-                "quantity": 400
-            },
-            {
                 "eta": null,
                 "quantity": 70
             }
         ],
-        "total_quantity": 498
+        "total_quantity": 98
+    },
+    {
+        "group": "Out of Stocks",
+        "sku": "CS-HYTE-Y70TTI-WW",
+        "description": null,
+        "communicated_date": null,
+        "shipments": [],
+        "total_quantity": 0
     },
     {
         "group": "2+ Months Out",
