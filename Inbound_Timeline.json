@@ -62,7 +62,7 @@
         "communicated_date": "Late November",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-10-23",
                 "quantity": 200
             },
             {
@@ -100,7 +100,7 @@
         "communicated_date": null,
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-10-23",
                 "quantity": 200
             },
             {
@@ -182,10 +182,6 @@
         "communicated_date": "Late October",
         "shipments": [
             {
-                "eta": "2026-10-19",
-                "quantity": 18
-            },
-            {
                 "eta": "2026-11-02",
                 "quantity": 1
             },
@@ -202,7 +198,7 @@
                 "quantity": 330
             }
         ],
-        "total_quantity": 943
+        "total_quantity": 925
     },
     {
         "group": "Out of Stocks",
@@ -294,10 +290,6 @@
         "communicated_date": "Late October",
         "shipments": [
             {
-                "eta": "2026-10-19",
-                "quantity": 19
-            },
-            {
                 "eta": "2026-11-02",
                 "quantity": 274
             },
@@ -310,7 +302,7 @@
                 "quantity": 235
             }
         ],
-        "total_quantity": 1093
+        "total_quantity": 1074
     },
     {
         "group": "2+ Months Out",
@@ -319,15 +311,11 @@
         "communicated_date": "Q4 2026",
         "shipments": [
             {
-                "eta": "2026-10-19",
-                "quantity": 28
-            },
-            {
                 "eta": null,
                 "quantity": 70
             }
         ],
-        "total_quantity": 98
+        "total_quantity": 70
     },
     {
         "group": "Out of Stocks",
