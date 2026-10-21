@@ -318,14 +318,6 @@
         "total_quantity": 70
     },
     {
-        "group": "Out of Stocks",
-        "sku": "CS-HYTE-Y70TTI-WW",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
         "group": "2+ Months Out",
         "sku": "KEY-HYTE-INA",
         "description": "HYTE NINOMAE INA'NIS KEYCAPS",

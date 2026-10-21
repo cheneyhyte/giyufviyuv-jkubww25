@@ -1,25 +1,9 @@
 [
     {
         "category": "12V2B",
-        "sku": "CBL-HYTE-12V2B-BB",
-        "description": "[PITCH BLACK] HYTE 12V 2x6 16 PIN SLEEVED PSU CABLE EXTENSION BUNDLE",
-        "shipments": [
-            {
-                "eta": "2026-10-26",
-                "quantity": 200
-            }
-        ],
-        "total_quantity": 200
-    },
-    {
-        "category": "12V2B",
         "sku": "CBL-HYTE-12V2B-WW",
         "description": "[SNOW WHITE] HYTE 12V 2x6 SLEEVED PSU CABLE EXTENSION BUNDLE",
         "shipments": [
-            {
-                "eta": "2026-10-26",
-                "quantity": 100
-            },
             {
                 "eta": null,
                 "quantity": 300
@@ -29,7 +13,7 @@
                 "quantity": 200
             }
         ],
-        "total_quantity": 600
+        "total_quantity": 500
     },
     {
         "category": "ARGBPWM",
@@ -527,9 +511,29 @@
             {
                 "eta": null,
                 "quantity": 580
+            },
+            {
+                "eta": null,
+                "quantity": 580
+            },
+            {
+                "eta": null,
+                "quantity": 580
             }
         ],
-        "total_quantity": 1160
+        "total_quantity": 2320
+    },
+    {
+        "category": "Uncategorized",
+        "sku": "CS-IBP-Y50RGB-WW",
+        "description": "[SNOW WHITE] IBP Y50 RGB CASE",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 580
+            }
+        ],
+        "total_quantity": 580
     },
     {
         "category": "hoyoverse-honkai-impact-3-y40-bundle",
