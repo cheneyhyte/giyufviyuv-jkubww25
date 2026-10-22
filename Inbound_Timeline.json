@@ -94,88 +94,6 @@
         "total_quantity": 0
     },
     {
-        "group": "Out of Stocks",
-        "sku": "ACC-HYTE-PCIE50-WW",
-        "description": "[SNOW WHITE] HYTE PCIE50 HYPER RISER",
-        "communicated_date": null,
-        "shipments": [
-            {
-                "eta": "2026-10-23",
-                "quantity": 200
-            },
-            {
-                "eta": null,
-                "quantity": 540
-            }
-        ],
-        "total_quantity": 740
-    },
-    {
-        "group": "This Month",
-        "sku": "CS-HYTE-Y50RGB-BB",
-        "description": "[PITCH BLACK] HYTE Y50 RGB CASE",
-        "communicated_date": "October 30th",
-        "shipments": [
-            {
-                "eta": "2026-11-16",
-                "quantity": 500
-            }
-        ],
-        "total_quantity": 500
-    },
-    {
-        "group": "This Month",
-        "sku": "CS-HYTE-Y50RGB-RB",
-        "description": "[BLACK CHERRY] HYTE Y50 RGB CASE",
-        "communicated_date": "October 23rd",
-        "shipments": [
-            {
-                "eta": "2026-11-16",
-                "quantity": 255
-            }
-        ],
-        "total_quantity": 255
-    },
-    {
-        "group": "This Month",
-        "sku": "CS-HYTE-Y50RGB-SM",
-        "description": "[STRAWBERRY MILK] HYTE Y50 RGB CASE",
-        "communicated_date": "Late October",
-        "shipments": [
-            {
-                "eta": "2026-11-16",
-                "quantity": 190
-            }
-        ],
-        "total_quantity": 190
-    },
-    {
-        "group": "This Month",
-        "sku": "CS-HYTE-Y50RGB-TM",
-        "description": "[TARO MILK] HYTE Y50 RGB CASE",
-        "communicated_date": "October 23rd",
-        "shipments": [
-            {
-                "eta": "2026-11-16",
-                "quantity": 235
-            }
-        ],
-        "total_quantity": 235
-    },
-    {
-        "group": "This Month",
-        "sku": "CS-HYTE-Y50RGB-WW",
-        "description": "[SNOW WHITE] HYTE Y50 RGB CASE",
-        "communicated_date": "Mid October",
-        "shipments": [
-            {
-                "eta": "2026-11-16",
-                "quantity": 180
-            }
-        ],
-        "total_quantity": 180
-    },
-    {
         "group": "This Month",
         "sku": "CS-HYTE-Y70-B",
         "description": "[BLK] HYTE Y70  CASE",
@@ -216,7 +134,11 @@
         "shipments": [
             {
                 "eta": null,
-                "quantity": 600
+                "quantity": 597
+            },
+            {
+                "eta": null,
+                "quantity": 3
             }
         ],
         "total_quantity": 600

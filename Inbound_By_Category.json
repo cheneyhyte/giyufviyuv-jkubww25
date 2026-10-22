@@ -128,6 +128,22 @@
         "total_quantity": 80
     },
     {
+        "category": "PCIE50",
+        "sku": "ACC-HYTE-PCIE50-WW",
+        "description": "[SNOW WHITE] HYTE PCIE50 HYPER RISER",
+        "shipments": [
+            {
+                "eta": "2026-10-23",
+                "quantity": 200
+            },
+            {
+                "eta": null,
+                "quantity": 540
+            }
+        ],
+        "total_quantity": 740
+    },
+    {
         "category": "SW",
         "sku": "KEY-HYTE-SW-EB",
         "description": "HYTE SILVER WOLF KEYCAP BUNDLE \u2013 EARLY BIRD",
@@ -558,6 +574,66 @@
             }
         ],
         "total_quantity": 20
+    },
+    {
+        "category": "y50",
+        "sku": "CS-HYTE-Y50RGB-BB",
+        "description": "[PITCH BLACK] HYTE Y50 RGB CASE",
+        "shipments": [
+            {
+                "eta": "2026-11-16",
+                "quantity": 500
+            }
+        ],
+        "total_quantity": 500
+    },
+    {
+        "category": "y50",
+        "sku": "CS-HYTE-Y50RGB-RB",
+        "description": "[BLACK CHERRY] HYTE Y50 RGB CASE",
+        "shipments": [
+            {
+                "eta": "2026-11-16",
+                "quantity": 255
+            }
+        ],
+        "total_quantity": 255
+    },
+    {
+        "category": "y50",
+        "sku": "CS-HYTE-Y50RGB-SM",
+        "description": "[STRAWBERRY MILK] HYTE Y50 RGB CASE",
+        "shipments": [
+            {
+                "eta": "2026-11-16",
+                "quantity": 190
+            }
+        ],
+        "total_quantity": 190
+    },
+    {
+        "category": "y50",
+        "sku": "CS-HYTE-Y50RGB-TM",
+        "description": "[TARO MILK] HYTE Y50 RGB CASE",
+        "shipments": [
+            {
+                "eta": "2026-11-16",
+                "quantity": 235
+            }
+        ],
+        "total_quantity": 235
+    },
+    {
+        "category": "y50",
+        "sku": "CS-HYTE-Y50RGB-WW",
+        "description": "[SNOW WHITE] HYTE Y50 RGB CASE",
+        "shipments": [
+            {
+                "eta": "2026-11-16",
+                "quantity": 180
+            }
+        ],
+        "total_quantity": 180
     },
     {
         "category": "y70",
