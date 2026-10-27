@@ -62,15 +62,11 @@
         "communicated_date": "Late November",
         "shipments": [
             {
-                "eta": "2026-10-23",
-                "quantity": 200
-            },
-            {
                 "eta": null,
                 "quantity": 400
             }
         ],
-        "total_quantity": 600
+        "total_quantity": 400
     },
     {
         "group": "Out of Stocks",
@@ -100,15 +96,11 @@
         "communicated_date": "Week of October 26th",
         "shipments": [
             {
-                "eta": "2026-10-23",
-                "quantity": 200
-            },
-            {
                 "eta": null,
                 "quantity": 540
             }
         ],
-        "total_quantity": 740
+        "total_quantity": 540
     },
     {
         "group": "This Month",
@@ -117,7 +109,7 @@
         "communicated_date": "Late October",
         "shipments": [
             {
-                "eta": "2026-11-02",
+                "eta": "2026-11-06",
                 "quantity": 1
             },
             {
@@ -150,15 +142,15 @@
         "communicated_date": "early December 2026",
         "shipments": [
             {
-                "eta": null,
-                "quantity": 597
+                "eta": "2026-11-27",
+                "quantity": 565
             },
             {
                 "eta": null,
-                "quantity": 3
+                "quantity": 32
             }
         ],
-        "total_quantity": 600
+        "total_quantity": 597
     },
     {
         "group": "Out of Stocks",
@@ -191,7 +183,7 @@
         "communicated_date": "Early December 2026",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-11-27",
                 "quantity": 200
             }
         ],
@@ -212,15 +204,11 @@
         "communicated_date": "Early December 2026",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-11-27",
                 "quantity": 200
-            },
-            {
-                "eta": null,
-                "quantity": 1
             }
         ],
-        "total_quantity": 201
+        "total_quantity": 200
     },
     {
         "group": "This Month",
@@ -229,7 +217,7 @@
         "communicated_date": "Late October",
         "shipments": [
             {
-                "eta": "2026-11-02",
+                "eta": "2026-11-06",
                 "quantity": 274
             },
             {
@@ -265,13 +253,9 @@
             {
                 "eta": null,
                 "quantity": 800
-            },
-            {
-                "eta": null,
-                "quantity": 2
             }
         ],
-        "total_quantity": 802
+        "total_quantity": 800
     },
     {
         "group": "2+ Months Out",
@@ -324,13 +308,9 @@
             {
                 "eta": null,
                 "quantity": 252
-            },
-            {
-                "eta": null,
-                "quantity": 3
             }
         ],
-        "total_quantity": 255
+        "total_quantity": 252
     },
     {
         "group": "2+ Months Out",
