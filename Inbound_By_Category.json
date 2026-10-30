@@ -33,7 +33,7 @@
         "description": "[PITCH BLACK] HYTE ARGB NOODLE LN80",
         "shipments": [
             {
-                "eta": "2026-11-06",
+                "eta": "2026-10-30",
                 "quantity": 200
             }
         ],
@@ -45,7 +45,7 @@
         "description": "[SNOW WHITE] HYTE ARGB NOODLE LN80",
         "shipments": [
             {
-                "eta": "2026-11-06",
+                "eta": "2026-10-30",
                 "quantity": 200
             }
         ],
@@ -57,7 +57,7 @@
         "description": "HYTE METAPHOR ACRYLIC KEYCHAIN",
         "shipments": [
             {
-                "eta": "2026-11-06",
+                "eta": "2026-10-30",
                 "quantity": 200
             }
         ],
@@ -69,7 +69,7 @@
         "description": "HYTE METAPHOR WALL SCROLL",
         "shipments": [
             {
-                "eta": "2026-11-06",
+                "eta": "2026-10-30",
                 "quantity": 300
             }
         ],
@@ -81,7 +81,7 @@
         "description": "HYTE METAPHOR KEYCAPS",
         "shipments": [
             {
-                "eta": "2026-11-06",
+                "eta": "2026-10-30",
                 "quantity": 179
             }
         ],
@@ -93,7 +93,7 @@
         "description": "HYTE DESK MAT - METAPHOR 1",
         "shipments": [
             {
-                "eta": "2026-11-06",
+                "eta": "2026-10-30",
                 "quantity": 40
             }
         ],
@@ -105,7 +105,7 @@
         "description": "HYTE DESK MAT - METAPHOR 2",
         "shipments": [
             {
-                "eta": "2026-11-06",
+                "eta": "2026-10-30",
                 "quantity": 80
             }
         ],
@@ -117,7 +117,7 @@
         "description": "HYTE DESK MAT - METAPHOR 3",
         "shipments": [
             {
-                "eta": "2026-11-06",
+                "eta": "2026-10-30",
                 "quantity": 80
             }
         ],
@@ -129,7 +129,7 @@
         "description": "HYTE SILVER WOLF KEYCAP BUNDLE \u2013 EARLY BIRD",
         "shipments": [
             {
-                "eta": "2026-11-06",
+                "eta": "2026-10-30",
                 "quantity": 288
             }
         ],
@@ -141,7 +141,7 @@
         "description": "HYTE SILVER WOLF KEYCAP BUNDLE",
         "shipments": [
             {
-                "eta": "2026-11-06",
+                "eta": "2026-10-30",
                 "quantity": 467
             }
         ],
@@ -465,7 +465,7 @@
         "description": "HYTE TOKIDOKI X HOLOLIVE ADVENT KEYCAP BUNDLE",
         "shipments": [
             {
-                "eta": "2026-11-06",
+                "eta": "2026-10-30",
                 "quantity": 47
             }
         ],
@@ -494,6 +494,66 @@
             }
         ],
         "total_quantity": 898
+    },
+    {
+        "category": "Uncategorized",
+        "sku": "CS-HYTE-Y70R-BB",
+        "description": "[PITCH BLACK] HYTE Y70 REMIX CASE",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 660
+            }
+        ],
+        "total_quantity": 660
+    },
+    {
+        "category": "Uncategorized",
+        "sku": "CS-HYTE-Y70R-RB",
+        "description": "[BLACK CHERRY] HYTE Y70 REMIX CASE",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 120
+            }
+        ],
+        "total_quantity": 120
+    },
+    {
+        "category": "Uncategorized",
+        "sku": "CS-HYTE-Y70R-SM",
+        "description": "[STRAWBERRY MILK] HYTE Y70 REMIX CASE",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 460
+            }
+        ],
+        "total_quantity": 460
+    },
+    {
+        "category": "Uncategorized",
+        "sku": "CS-HYTE-Y70R-TM",
+        "description": "[TARO MILK] HYTE Y70 REMIX CASE",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 260
+            }
+        ],
+        "total_quantity": 260
+    },
+    {
+        "category": "Uncategorized",
+        "sku": "CS-HYTE-Y70R-WW",
+        "description": "[SNOW WHITE] HYTE Y70 REMIX CASE",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 760
+            }
+        ],
+        "total_quantity": 760
     },
     {
         "category": "Uncategorized",
@@ -533,7 +593,7 @@
         "description": "HYTE Y40 SONGQUE BUNDLE \u2013 EARLY BIRD",
         "shipments": [
             {
-                "eta": "2026-11-06",
+                "eta": "2026-10-30",
                 "quantity": 6
             }
         ],
@@ -545,7 +605,7 @@
         "description": "HYTE TOKIDOKI X HOLOLIVE ADVENT Y70",
         "shipments": [
             {
-                "eta": "2026-11-06",
+                "eta": "2026-10-30",
                 "quantity": 20
             }
         ],
@@ -559,9 +619,13 @@
             {
                 "eta": "2026-11-16",
                 "quantity": 500
+            },
+            {
+                "eta": null,
+                "quantity": 680
             }
         ],
-        "total_quantity": 500
+        "total_quantity": 1180
     },
     {
         "category": "y50",
@@ -583,9 +647,13 @@
             {
                 "eta": "2026-11-16",
                 "quantity": 190
+            },
+            {
+                "eta": null,
+                "quantity": 495
             }
         ],
-        "total_quantity": 190
+        "total_quantity": 685
     },
     {
         "category": "y50",
@@ -595,9 +663,17 @@
             {
                 "eta": "2026-11-16",
                 "quantity": 235
+            },
+            {
+                "eta": null,
+                "quantity": 185
+            },
+            {
+                "eta": null,
+                "quantity": 80
             }
         ],
-        "total_quantity": 235
+        "total_quantity": 500
     },
     {
         "category": "y50",
@@ -607,9 +683,13 @@
             {
                 "eta": "2026-11-16",
                 "quantity": 180
+            },
+            {
+                "eta": null,
+                "quantity": 600
             }
         ],
-        "total_quantity": 180
+        "total_quantity": 780
     },
     {
         "category": "y70",

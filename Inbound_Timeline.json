@@ -103,18 +103,30 @@
         "total_quantity": 540
     },
     {
+        "group": "Out of Stocks",
+        "sku": "CS-HYTE-Y40-MORI",
+        "description": null,
+        "communicated_date": null,
+        "shipments": [],
+        "total_quantity": 0
+    },
+    {
         "group": "This Month",
         "sku": "CS-HYTE-Y70-B",
         "description": "[BLK] HYTE Y70  CASE",
         "communicated_date": "Late October",
         "shipments": [
             {
-                "eta": "2026-11-06",
+                "eta": "2026-10-30",
                 "quantity": 1
             },
             {
-                "eta": null,
+                "eta": "2026-11-30",
                 "quantity": 109
+            },
+            {
+                "eta": "2026-11-30",
+                "quantity": 150
             },
             {
                 "eta": null,
@@ -122,7 +134,7 @@
             },
             {
                 "eta": null,
-                "quantity": 330
+                "quantity": 180
             }
         ],
         "total_quantity": 925
@@ -183,7 +195,7 @@
         "communicated_date": "Early December 2026",
         "shipments": [
             {
-                "eta": "2026-11-27",
+                "eta": "2026-11-30",
                 "quantity": 200
             }
         ],
@@ -204,7 +216,7 @@
         "communicated_date": "Early December 2026",
         "shipments": [
             {
-                "eta": "2026-11-27",
+                "eta": "2026-11-30",
                 "quantity": 200
             }
         ],
@@ -217,16 +229,20 @@
         "communicated_date": "Late October",
         "shipments": [
             {
-                "eta": "2026-11-06",
+                "eta": "2026-10-30",
                 "quantity": 274
             },
             {
-                "eta": null,
-                "quantity": 565
+                "eta": "2026-11-30",
+                "quantity": 151
             },
             {
                 "eta": null,
-                "quantity": 235
+                "quantity": 255
+            },
+            {
+                "eta": null,
+                "quantity": 394
             }
         ],
         "total_quantity": 1074
@@ -285,7 +301,7 @@
         "communicated_date": "Early December 2026",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-11-30",
                 "quantity": 252
             }
         ],
@@ -306,7 +322,7 @@
         "communicated_date": "Early December 2026",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-11-30",
                 "quantity": 252
             }
         ],
@@ -319,7 +335,7 @@
         "communicated_date": "Q4 2026",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-11-30",
                 "quantity": 400
             }
         ],
@@ -332,7 +348,7 @@
         "communicated_date": "Q4 2026",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-11-30",
                 "quantity": 400
             }
         ],
