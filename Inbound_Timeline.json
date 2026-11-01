@@ -56,7 +56,7 @@
         "total_quantity": 0
     },
     {
-        "group": "Next Month",
+        "group": "This Month",
         "sku": "ACC-HYTE-PCIE50-BB",
         "description": "[PITCH BLACK] HYTE PCIE50 HYPER RISER",
         "communicated_date": "Late November",
@@ -90,7 +90,15 @@
         "total_quantity": 0
     },
     {
-        "group": "This Month",
+        "group": "Out of Stocks",
+        "sku": "ACC-HYTE-PCIE50-TM",
+        "description": null,
+        "communicated_date": null,
+        "shipments": [],
+        "total_quantity": 0
+    },
+    {
+        "group": "2+ Months Out",
         "sku": "ACC-HYTE-PCIE50-WW",
         "description": "[SNOW WHITE] HYTE PCIE50 HYPER RISER",
         "communicated_date": "Week of October 26th",
@@ -111,7 +119,7 @@
         "total_quantity": 0
     },
     {
-        "group": "This Month",
+        "group": "2+ Months Out",
         "sku": "CS-HYTE-Y70-B",
         "description": "[BLK] HYTE Y70  CASE",
         "communicated_date": "Late October",
@@ -148,7 +156,7 @@
         "total_quantity": 0
     },
     {
-        "group": "2+ Months Out",
+        "group": "Next Month",
         "sku": "CS-HYTE-Y70-FF14",
         "description": "HYTE FINAL FANTASY XIV Y70",
         "communicated_date": "early December 2026",
@@ -189,7 +197,7 @@
         "total_quantity": 0
     },
     {
-        "group": "2+ Months Out",
+        "group": "Next Month",
         "sku": "CS-HYTE-Y70-SMIKO-BE",
         "description": "[BLK] HYTE SAKURA MIKO Y70 - EARLY BIRD",
         "communicated_date": "Early December 2026",
@@ -210,7 +218,7 @@
         "total_quantity": 0
     },
     {
-        "group": "2+ Months Out",
+        "group": "Next Month",
         "sku": "CS-HYTE-Y70-SMIKO-WE",
         "description": "[WHT] HYTE SAKURA MIKO Y70 - EARLY BIRD",
         "communicated_date": "Early December 2026",
@@ -223,7 +231,7 @@
         "total_quantity": 200
     },
     {
-        "group": "This Month",
+        "group": "2+ Months Out",
         "sku": "CS-HYTE-Y70-WW",
         "description": "[WHT/WHT]  HYTE Y70 CASE",
         "communicated_date": "Late October",
@@ -248,7 +256,7 @@
         "total_quantity": 1074
     },
     {
-        "group": "2+ Months Out",
+        "group": "Next Month",
         "sku": "CS-HYTE-Y70TTI-INA",
         "description": "14.9\" HYTE NINOMAE INA'NIS Y70 TOUCH INFINITE",
         "communicated_date": "Q4 2026",
@@ -261,7 +269,7 @@
         "total_quantity": 70
     },
     {
-        "group": "2+ Months Out",
+        "group": "Next Month",
         "sku": "KEY-HYTE-INA",
         "description": "HYTE NINOMAE INA'NIS KEYCAPS",
         "communicated_date": "Q4 2026",
@@ -274,7 +282,7 @@
         "total_quantity": 800
     },
     {
-        "group": "2+ Months Out",
+        "group": "Next Month",
         "sku": "KEY-HYTE-P30TH",
         "description": "HYTE PERSONA 30TH KEYCAPS",
         "communicated_date": "Q4 2026",
@@ -295,7 +303,7 @@
         "total_quantity": 0
     },
     {
-        "group": "2+ Months Out",
+        "group": "Next Month",
         "sku": "KEY-HYTE-SMIKO-BE",
         "description": "[BLK] HYTE SAKURA MIKO KEYCAP BUNDLE - EARLY BIRD",
         "communicated_date": "Early December 2026",
@@ -308,7 +316,7 @@
         "total_quantity": 252
     },
     {
-        "group": "2+ Months Out",
+        "group": "Next Month",
         "sku": "KEY-HYTE-SMIKO-W",
         "description": null,
         "communicated_date": "Early December 2026",
@@ -316,7 +324,7 @@
         "total_quantity": 0
     },
     {
-        "group": "2+ Months Out",
+        "group": "Next Month",
         "sku": "KEY-HYTE-SMIKO-WE",
         "description": "[WHT] HYTE SAKURA MIKO KEYCAP BUNDLE - EARLY BIRD",
         "communicated_date": "Early December 2026",
@@ -329,7 +337,7 @@
         "total_quantity": 252
     },
     {
-        "group": "2+ Months Out",
+        "group": "Next Month",
         "sku": "MAT-HYTE-P30TH-A",
         "description": "HYTE DESK MAT \u2013 PERSONA 30TH A",
         "communicated_date": "Q4 2026",
@@ -342,7 +350,7 @@
         "total_quantity": 400
     },
     {
-        "group": "2+ Months Out",
+        "group": "Next Month",
         "sku": "MAT-HYTE-P30TH-B",
         "description": "HYTE DESK MAT \u2013 PERSONA 30TH B",
         "communicated_date": "Q4 2026",
