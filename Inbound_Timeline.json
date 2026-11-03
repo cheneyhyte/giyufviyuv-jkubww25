@@ -75,7 +75,7 @@
         "communicated_date": null,
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-04",
                 "quantity": 60
             }
         ],
@@ -125,27 +125,23 @@
         "communicated_date": "Late October",
         "shipments": [
             {
-                "eta": "2026-10-30",
-                "quantity": 1
+                "eta": "2026-11-30",
+                "quantity": 150
             },
             {
                 "eta": "2026-11-30",
                 "quantity": 109
             },
             {
-                "eta": "2026-11-30",
-                "quantity": 150
+                "eta": null,
+                "quantity": 650
             },
             {
                 "eta": null,
-                "quantity": 485
-            },
-            {
-                "eta": null,
-                "quantity": 180
+                "quantity": 15
             }
         ],
-        "total_quantity": 925
+        "total_quantity": 924
     },
     {
         "group": "Out of Stocks",
@@ -166,7 +162,7 @@
                 "quantity": 565
             },
             {
-                "eta": null,
+                "eta": "2026-12-04",
                 "quantity": 32
             }
         ],
@@ -237,23 +233,19 @@
         "communicated_date": "Late October",
         "shipments": [
             {
-                "eta": "2026-10-30",
-                "quantity": 274
-            },
-            {
                 "eta": "2026-11-30",
                 "quantity": 151
             },
             {
-                "eta": null,
-                "quantity": 255
+                "eta": "2026-12-04",
+                "quantity": 394
             },
             {
                 "eta": null,
-                "quantity": 394
+                "quantity": 255
             }
         ],
-        "total_quantity": 1074
+        "total_quantity": 800
     },
     {
         "group": "Next Month",
@@ -275,8 +267,12 @@
         "communicated_date": "Q4 2026",
         "shipments": [
             {
+                "eta": "2026-12-04",
+                "quantity": 400
+            },
+            {
                 "eta": null,
-                "quantity": 800
+                "quantity": 400
             }
         ],
         "total_quantity": 800
@@ -288,7 +284,7 @@
         "communicated_date": "Q4 2026",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-04",
                 "quantity": 200
             }
         ],

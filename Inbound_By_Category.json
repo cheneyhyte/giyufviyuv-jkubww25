@@ -5,12 +5,12 @@
         "description": "[SNOW WHITE] HYTE 12V 2x6 SLEEVED PSU CABLE EXTENSION BUNDLE",
         "shipments": [
             {
-                "eta": null,
-                "quantity": 300
+                "eta": "2026-12-04",
+                "quantity": 200
             },
             {
                 "eta": null,
-                "quantity": 200
+                "quantity": 300
             }
         ],
         "total_quantity": 500
@@ -21,131 +21,11 @@
         "description": "HYTE ARGB & PWM SMART HUB",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-04",
                 "quantity": 400
             }
         ],
         "total_quantity": 400
-    },
-    {
-        "category": "LNRGB",
-        "sku": "ACC-HYTE-LNRGB-80-BB",
-        "description": "[PITCH BLACK] HYTE ARGB NOODLE LN80",
-        "shipments": [
-            {
-                "eta": "2026-10-30",
-                "quantity": 200
-            }
-        ],
-        "total_quantity": 200
-    },
-    {
-        "category": "LNRGB",
-        "sku": "ACC-HYTE-LNRGB-80-WW",
-        "description": "[SNOW WHITE] HYTE ARGB NOODLE LN80",
-        "shipments": [
-            {
-                "eta": "2026-10-30",
-                "quantity": 200
-            }
-        ],
-        "total_quantity": 200
-    },
-    {
-        "category": "METAPHOR",
-        "sku": "ACC-HYTE-METAPHOR-KC",
-        "description": "HYTE METAPHOR ACRYLIC KEYCHAIN",
-        "shipments": [
-            {
-                "eta": "2026-10-30",
-                "quantity": 200
-            }
-        ],
-        "total_quantity": 200
-    },
-    {
-        "category": "METAPHOR",
-        "sku": "ACC-HYTE-METAPHOR-WS",
-        "description": "HYTE METAPHOR WALL SCROLL",
-        "shipments": [
-            {
-                "eta": "2026-10-30",
-                "quantity": 300
-            }
-        ],
-        "total_quantity": 300
-    },
-    {
-        "category": "METAPHOR",
-        "sku": "KEY-HYTE-METAPHOR",
-        "description": "HYTE METAPHOR KEYCAPS",
-        "shipments": [
-            {
-                "eta": "2026-10-30",
-                "quantity": 179
-            }
-        ],
-        "total_quantity": 179
-    },
-    {
-        "category": "METAPHOR",
-        "sku": "MOU-HYTE-METAPHOR-1",
-        "description": "HYTE DESK MAT - METAPHOR 1",
-        "shipments": [
-            {
-                "eta": "2026-10-30",
-                "quantity": 40
-            }
-        ],
-        "total_quantity": 40
-    },
-    {
-        "category": "METAPHOR",
-        "sku": "MOU-HYTE-METAPHOR-2",
-        "description": "HYTE DESK MAT - METAPHOR 2",
-        "shipments": [
-            {
-                "eta": "2026-10-30",
-                "quantity": 80
-            }
-        ],
-        "total_quantity": 80
-    },
-    {
-        "category": "METAPHOR",
-        "sku": "MOU-HYTE-METAPHOR-3",
-        "description": "HYTE DESK MAT - METAPHOR 3",
-        "shipments": [
-            {
-                "eta": "2026-10-30",
-                "quantity": 80
-            }
-        ],
-        "total_quantity": 80
-    },
-    {
-        "category": "SW",
-        "sku": "KEY-HYTE-SW-EB",
-        "description": "HYTE SILVER WOLF KEYCAP BUNDLE \u2013 EARLY BIRD",
-        "shipments": [
-            {
-                "eta": "2026-10-30",
-                "quantity": 288
-            }
-        ],
-        "total_quantity": 288
-    },
-    {
-        "category": "SW",
-        "sku": "KEY-HYTE-SW-U",
-        "description": "HYTE SILVER WOLF KEYCAP BUNDLE",
-        "shipments": [
-            {
-                "eta": "2026-10-30",
-                "quantity": 467
-            }
-        ],
-        "total_quantity": 467
     },
     {
         "category": "Service Parts",
@@ -153,7 +33,7 @@
         "description": "CA-Y516 Y70 SAKURA MIKO-EB COLOR BOX",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-04",
                 "quantity": 20
             }
         ],
@@ -165,7 +45,7 @@
         "description": "CA-Y517 Y70 TI INA COLOR BOX",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-04",
                 "quantity": 20
             }
         ],
@@ -177,7 +57,7 @@
         "description": "CA-Y513 Y70 FFXIV-LEFT GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-04",
                 "quantity": 10
             }
         ],
@@ -189,7 +69,7 @@
         "description": "CA-Y513 Y70 FFXIV-FRONT GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-04",
                 "quantity": 10
             }
         ],
@@ -201,7 +81,7 @@
         "description": "CA-Y513 Y70 FFXIV-CORNER GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-04",
                 "quantity": 10
             }
         ],
@@ -213,7 +93,7 @@
         "description": "CA-Y513 Y70 FFXIV-SIDE PANEL ASSEMBLY-BLACK+SCREEN PRINT",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-04",
                 "quantity": 10
             }
         ],
@@ -225,7 +105,7 @@
         "description": "CA-Y513 Y70 FFXIV COLOR STICKER",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-04",
                 "quantity": 20
             }
         ],
@@ -237,7 +117,7 @@
         "description": "CA-Y516 Y70 SAKURA MIKO-EB BLACK-LEFT GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-04",
                 "quantity": 5
             }
         ],
@@ -249,7 +129,7 @@
         "description": "CA-Y516 Y70 SAKURA MIKO-EB WHITE-LEFT GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-04",
                 "quantity": 5
             }
         ],
@@ -261,7 +141,7 @@
         "description": "CA-Y516 Y70 SAKURA MIKO-EB BLACK-FRONT GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-04",
                 "quantity": 5
             }
         ],
@@ -273,7 +153,7 @@
         "description": "CA-Y516 Y70 SAKURA MIKO-EB WHITE-FRONT GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-04",
                 "quantity": 5
             }
         ],
@@ -285,7 +165,7 @@
         "description": "CA-Y516 Y70 SAKURA MIKO-EB BLACK-CORNER GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-04",
                 "quantity": 5
             }
         ],
@@ -297,7 +177,7 @@
         "description": "CA-Y516 Y70 SAKURA MIKO-EB WHITE-CORNER GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-04",
                 "quantity": 5
             }
         ],
@@ -309,7 +189,7 @@
         "description": "CA-Y516 Y70 SAKURA MIKO-EB BLACK-SIDE PANEL ASSEMBLY-BLACK+SCREEN PRINT(877C,176C)",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-04",
                 "quantity": 5
             }
         ],
@@ -321,7 +201,7 @@
         "description": "CA-Y516 Y70 SAKURA MIKO-EB WHITE-SIDE PANEL ASSEMBLY-WHITE+SCREEN PRINT(877C,176C)",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-04",
                 "quantity": 5
             }
         ],
@@ -333,7 +213,7 @@
         "description": "CA-Y516 Y70 SAKURA MIKO-EB BLACK-TOP PANEL ASSEMBLY-BLACK+SCREEN PRINT(877C)",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-04",
                 "quantity": 5
             }
         ],
@@ -345,7 +225,7 @@
         "description": "CA-Y516 Y70 SAKURA MIKO-EB WHITE-TOP PANEL ASSEMBLY-WHITE+SCREEN PRINT(877C)",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-04",
                 "quantity": 5
             }
         ],
@@ -357,7 +237,7 @@
         "description": "CA-Y516 Y70 SAKURA MIKO-EB BLACK-USB MODULE-BLACK",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-04",
                 "quantity": 5
             }
         ],
@@ -369,7 +249,7 @@
         "description": "CA-Y516 Y70 SAKURA MIKO-EB WHITE-USB MODULE-WHITE",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-04",
                 "quantity": 5
             }
         ],
@@ -381,7 +261,7 @@
         "description": "CA-Y516 Y70 SAKURA MIKO-EB LANYARD",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-04",
                 "quantity": 10
             }
         ],
@@ -393,7 +273,7 @@
         "description": "CA-Y517 Y70 TI INA-LEFT GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-04",
                 "quantity": 10
             }
         ],
@@ -405,7 +285,7 @@
         "description": "CA-Y517 Y70 TI INA-FRONT GLASS ASSEMBLY-CLEAR GLASS+UV PRINT",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-04",
                 "quantity": 10
             }
         ],
@@ -417,7 +297,7 @@
         "description": "CA-Y517 Y70 TI INA-SIDE PANEL ASSEMBLY-PURPLE (7669C) +SCREEN PRINT (1365C)",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-04",
                 "quantity": 10
             }
         ],
@@ -429,7 +309,7 @@
         "description": "CA-Y517 Y70 TI INA-TOP PANEL ASSEMBLY-PURPLE (7669C) +SCREEN PRINT (1365C)",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-04",
                 "quantity": 10
             }
         ],
@@ -441,7 +321,7 @@
         "description": "CA-Y517 Y70 TI INA-USB MODULE-BLACK",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-04",
                 "quantity": 10
             }
         ],
@@ -458,18 +338,6 @@
             }
         ],
         "total_quantity": 10
-    },
-    {
-        "category": "TOKI",
-        "sku": "KEY-HYTE-TOKI",
-        "description": "HYTE TOKIDOKI X HOLOLIVE ADVENT KEYCAP BUNDLE",
-        "shipments": [
-            {
-                "eta": "2026-10-30",
-                "quantity": 47
-            }
-        ],
-        "total_quantity": 47
     },
     {
         "category": "Uncategorized",
@@ -588,30 +456,6 @@
         "total_quantity": 580
     },
     {
-        "category": "hoyoverse-honkai-impact-3-y40-bundle",
-        "sku": "CS-HYTE-SQ-Y40-EB",
-        "description": "HYTE Y40 SONGQUE BUNDLE \u2013 EARLY BIRD",
-        "shipments": [
-            {
-                "eta": "2026-10-30",
-                "quantity": 6
-            }
-        ],
-        "total_quantity": 6
-    },
-    {
-        "category": "tokidoki-hololive-y70",
-        "sku": "CS-HYTE-Y70-TOKI",
-        "description": "HYTE TOKIDOKI X HOLOLIVE ADVENT Y70",
-        "shipments": [
-            {
-                "eta": "2026-10-30",
-                "quantity": 20
-            }
-        ],
-        "total_quantity": 20
-    },
-    {
         "category": "y50",
         "sku": "CS-HYTE-Y50RGB-BB",
         "description": "[PITCH BLACK] HYTE Y50 RGB CASE",
@@ -698,7 +542,11 @@
         "shipments": [
             {
                 "eta": null,
-                "quantity": 80
+                "quantity": 29
+            },
+            {
+                "eta": null,
+                "quantity": 51
             }
         ],
         "total_quantity": 80
