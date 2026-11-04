@@ -504,6 +504,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "PARTS-Y70-001-B",
+        "description": null,
+        "communicated_date": null,
+        "shipments": [],
+        "total_quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "PARTS-Y70-010-B",
         "description": null,
         "communicated_date": null,
