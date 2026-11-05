@@ -429,7 +429,7 @@
         "description": "[PITCH BLACK] IBP Y50 RGB CASE",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-11",
                 "quantity": 580
             },
             {
@@ -541,12 +541,12 @@
         "description": "[BLK/RED] HYTE Y70  CASE",
         "shipments": [
             {
-                "eta": null,
-                "quantity": 29
+                "eta": "2026-12-07",
+                "quantity": 51
             },
             {
                 "eta": null,
-                "quantity": 51
+                "quantity": 29
             }
         ],
         "total_quantity": 80
