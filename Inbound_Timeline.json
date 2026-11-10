@@ -227,10 +227,10 @@
         "total_quantity": 200
     },
     {
-        "group": "2+ Months Out",
+        "group": "This Month",
         "sku": "CS-HYTE-Y70-WW",
         "description": "[WHT/WHT]  HYTE Y70 CASE",
-        "communicated_date": "Late October",
+        "communicated_date": "Late November",
         "shipments": [
             {
                 "eta": "2026-11-30",
@@ -521,14 +521,6 @@
     {
         "group": "Out of Stocks",
         "sku": "PARTS-Y70-010-W",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
-        "sku": "PARTS-Y70-018",
         "description": null,
         "communicated_date": null,
         "shipments": [],
