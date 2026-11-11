@@ -456,6 +456,18 @@
         "total_quantity": 580
     },
     {
+        "category": "ninomae-ina-nis-y70ti-product-page",
+        "sku": "CS-HYTE-Y70TTI-INA",
+        "description": "14.9\" HYTE NINOMAE INA'NIS Y70 TOUCH INFINITE",
+        "shipments": [
+            {
+                "eta": "2026-12-07",
+                "quantity": 70
+            }
+        ],
+        "total_quantity": 70
+    },
+    {
         "category": "y50",
         "sku": "CS-HYTE-Y50RGB-BB",
         "description": "[PITCH BLACK] HYTE Y50 RGB CASE",
