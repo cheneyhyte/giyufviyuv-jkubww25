@@ -152,6 +152,23 @@
         "total_quantity": 0
     },
     {
+        "group": "Out of Stocks",
+        "sku": "CS-HYTE-Y70-BR",
+        "description": "[BLK/RED] HYTE Y70  CASE",
+        "communicated_date": null,
+        "shipments": [
+            {
+                "eta": "2026-12-07",
+                "quantity": 51
+            },
+            {
+                "eta": null,
+                "quantity": 29
+            }
+        ],
+        "total_quantity": 80
+    },
+    {
         "group": "Next Month",
         "sku": "CS-HYTE-Y70-FF14",
         "description": "HYTE FINAL FANTASY XIV Y70",
