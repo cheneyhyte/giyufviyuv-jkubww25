@@ -28,6 +28,18 @@
         "total_quantity": 400
     },
     {
+        "category": "PCIE50",
+        "sku": "ACC-HYTE-PCIE50-WW",
+        "description": "[SNOW WHITE] HYTE PCIE50 HYPER RISER",
+        "shipments": [
+            {
+                "eta": "2026-12-07",
+                "quantity": 540
+            }
+        ],
+        "total_quantity": 540
+    },
+    {
         "category": "Service Parts",
         "sku": "BX-Y70-006",
         "description": "CA-Y516 Y70 SAKURA MIKO-EB COLOR BOX",
@@ -473,53 +485,17 @@
         "description": "[PITCH BLACK] HYTE Y50 RGB CASE",
         "shipments": [
             {
-                "eta": "2026-11-16",
-                "quantity": 500
-            },
-            {
                 "eta": null,
                 "quantity": 680
             }
         ],
-        "total_quantity": 1180
-    },
-    {
-        "category": "y50",
-        "sku": "CS-HYTE-Y50RGB-RB",
-        "description": "[BLACK CHERRY] HYTE Y50 RGB CASE",
-        "shipments": [
-            {
-                "eta": "2026-11-16",
-                "quantity": 255
-            }
-        ],
-        "total_quantity": 255
-    },
-    {
-        "category": "y50",
-        "sku": "CS-HYTE-Y50RGB-SM",
-        "description": "[STRAWBERRY MILK] HYTE Y50 RGB CASE",
-        "shipments": [
-            {
-                "eta": "2026-11-16",
-                "quantity": 190
-            },
-            {
-                "eta": null,
-                "quantity": 495
-            }
-        ],
-        "total_quantity": 685
+        "total_quantity": 680
     },
     {
         "category": "y50",
         "sku": "CS-HYTE-Y50RGB-TM",
         "description": "[TARO MILK] HYTE Y50 RGB CASE",
         "shipments": [
-            {
-                "eta": "2026-11-16",
-                "quantity": 235
-            },
             {
                 "eta": null,
                 "quantity": 185
@@ -529,7 +505,7 @@
                 "quantity": 80
             }
         ],
-        "total_quantity": 500
+        "total_quantity": 265
     },
     {
         "category": "y50",
@@ -537,14 +513,10 @@
         "description": "[SNOW WHITE] HYTE Y50 RGB CASE",
         "shipments": [
             {
-                "eta": "2026-11-16",
-                "quantity": 180
-            },
-            {
                 "eta": null,
                 "quantity": 600
             }
         ],
-        "total_quantity": 780
+        "total_quantity": 600
     }
 ]

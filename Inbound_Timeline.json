@@ -98,19 +98,6 @@
         "total_quantity": 0
     },
     {
-        "group": "2+ Months Out",
-        "sku": "ACC-HYTE-PCIE50-WW",
-        "description": "[SNOW WHITE] HYTE PCIE50 HYPER RISER",
-        "communicated_date": "Week of October 26th",
-        "shipments": [
-            {
-                "eta": "2026-12-07",
-                "quantity": 540
-            }
-        ],
-        "total_quantity": 540
-    },
-    {
         "group": "Out of Stocks",
         "sku": "CS-HYTE-Y40-MORI",
         "description": null,
@@ -119,10 +106,23 @@
         "total_quantity": 0
     },
     {
-        "group": "2+ Months Out",
+        "group": "This Month",
+        "sku": "CS-HYTE-Y50RGB-SM",
+        "description": "[STRAWBERRY MILK] HYTE Y50 RGB CASE",
+        "communicated_date": "Week of November 16th",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 495
+            }
+        ],
+        "total_quantity": 495
+    },
+    {
+        "group": "This Month",
         "sku": "CS-HYTE-Y70-B",
         "description": "[BLK] HYTE Y70  CASE",
-        "communicated_date": "Late October",
+        "communicated_date": "Late November",
         "shipments": [
             {
                 "eta": "2026-11-30",
