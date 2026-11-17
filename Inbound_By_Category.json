@@ -353,6 +353,54 @@
     },
     {
         "category": "Uncategorized",
+        "sku": "CS-HYTE-W65RGB-BB",
+        "description": "[PITCH BLACK] HYTE W65 RGB CASE",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 270
+            }
+        ],
+        "total_quantity": 270
+    },
+    {
+        "category": "Uncategorized",
+        "sku": "CS-HYTE-W65RGB-WW",
+        "description": "[SNOW WHITE] HYTE W65 RGB CASE",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 270
+            }
+        ],
+        "total_quantity": 270
+    },
+    {
+        "category": "Uncategorized",
+        "sku": "CS-HYTE-Y30T-BB",
+        "description": "10.1\" [PITCH BLACK] HYTE Y30 TOUCH CASE",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 360
+            }
+        ],
+        "total_quantity": 360
+    },
+    {
+        "category": "Uncategorized",
+        "sku": "CS-HYTE-Y30T-WW",
+        "description": "10.1\" [SNOW WHITE] HYTE Y30 TOUCH CASE",
+        "shipments": [
+            {
+                "eta": null,
+                "quantity": 360
+            }
+        ],
+        "total_quantity": 360
+    },
+    {
+        "category": "Uncategorized",
         "sku": "CS-HYTE-Y70GT-BB",
         "description": "14.9\" [PITCH BLACK] HYTE Y70 GLOW TOUCH CASE",
         "shipments": [
@@ -485,7 +533,7 @@
         "description": "[PITCH BLACK] HYTE Y50 RGB CASE",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-28",
                 "quantity": 680
             }
         ],
@@ -497,7 +545,7 @@
         "description": "[TARO MILK] HYTE Y50 RGB CASE",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-28",
                 "quantity": 185
             },
             {

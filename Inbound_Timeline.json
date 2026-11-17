@@ -112,7 +112,7 @@
         "communicated_date": "Week of November 16th",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-28",
                 "quantity": 495
             }
         ],
@@ -175,7 +175,7 @@
         "communicated_date": "early December 2026",
         "shipments": [
             {
-                "eta": "2026-11-27",
+                "eta": "2026-11-30",
                 "quantity": 565
             },
             {
