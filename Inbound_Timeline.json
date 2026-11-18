@@ -266,6 +266,19 @@
     },
     {
         "group": "Next Month",
+        "sku": "CS-HYTE-Y70TTI-INA",
+        "description": "14.9\" HYTE NINOMAE INA'NIS Y70 TOUCH INFINITE",
+        "communicated_date": "Q4 2026",
+        "shipments": [
+            {
+                "eta": "2026-12-07",
+                "quantity": 70
+            }
+        ],
+        "total_quantity": 70
+    },
+    {
+        "group": "Next Month",
         "sku": "KEY-HYTE-INA",
         "description": "HYTE NINOMAE INA'NIS KEYCAPS",
         "communicated_date": "Q4 2026",
