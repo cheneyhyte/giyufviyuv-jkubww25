@@ -21,12 +21,12 @@
                 "quantity": 200
             },
             {
-                "eta": null,
-                "quantity": 220
+                "eta": "2026-12-28",
+                "quantity": 300
             },
             {
                 "eta": null,
-                "quantity": 300
+                "quantity": 220
             }
         ],
         "total_quantity": 720
@@ -234,18 +234,6 @@
             }
         ],
         "total_quantity": 120
-    },
-    {
-        "category": "PCIE50",
-        "sku": "ACC-HYTE-PCIE50-WW",
-        "description": "[SNOW WHITE] HYTE PCIE50 HYPER RISER",
-        "shipments": [
-            {
-                "eta": "2026-12-07",
-                "quantity": 540
-            }
-        ],
-        "total_quantity": 540
     },
     {
         "category": "Service Parts",
@@ -553,7 +541,7 @@
         "description": "PCIE RISER CABLE-PURPLE 7669C",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-28",
                 "quantity": 10
             }
         ],
@@ -566,10 +554,14 @@
         "shipments": [
             {
                 "eta": null,
+                "quantity": 12
+            },
+            {
+                "eta": null,
                 "quantity": 270
             }
         ],
-        "total_quantity": 270
+        "total_quantity": 282
     },
     {
         "category": "Uncategorized",
@@ -578,10 +570,14 @@
         "shipments": [
             {
                 "eta": null,
+                "quantity": 12
+            },
+            {
+                "eta": null,
                 "quantity": 270
             }
         ],
-        "total_quantity": 270
+        "total_quantity": 282
     },
     {
         "category": "Uncategorized",
@@ -590,10 +586,14 @@
         "shipments": [
             {
                 "eta": null,
+                "quantity": 14
+            },
+            {
+                "eta": null,
                 "quantity": 360
             }
         ],
-        "total_quantity": 360
+        "total_quantity": 374
     },
     {
         "category": "Uncategorized",
@@ -602,10 +602,14 @@
         "shipments": [
             {
                 "eta": null,
+                "quantity": 14
+            },
+            {
+                "eta": null,
                 "quantity": 360
             }
         ],
-        "total_quantity": 360
+        "total_quantity": 374
     },
     {
         "category": "Uncategorized",
@@ -614,10 +618,14 @@
         "shipments": [
             {
                 "eta": null,
+                "quantity": 12
+            },
+            {
+                "eta": null,
                 "quantity": 896
             }
         ],
-        "total_quantity": 896
+        "total_quantity": 908
     },
     {
         "category": "Uncategorized",
@@ -626,10 +634,14 @@
         "shipments": [
             {
                 "eta": null,
+                "quantity": 13
+            },
+            {
+                "eta": null,
                 "quantity": 896
             }
         ],
-        "total_quantity": 896
+        "total_quantity": 909
     },
     {
         "category": "Uncategorized",
@@ -638,10 +650,14 @@
         "shipments": [
             {
                 "eta": null,
+                "quantity": 10
+            },
+            {
+                "eta": null,
                 "quantity": 660
             }
         ],
-        "total_quantity": 660
+        "total_quantity": 670
     },
     {
         "category": "Uncategorized",
@@ -650,10 +666,14 @@
         "shipments": [
             {
                 "eta": null,
+                "quantity": 10
+            },
+            {
+                "eta": null,
                 "quantity": 120
             }
         ],
-        "total_quantity": 120
+        "total_quantity": 130
     },
     {
         "category": "Uncategorized",
@@ -662,10 +682,14 @@
         "shipments": [
             {
                 "eta": null,
+                "quantity": 3
+            },
+            {
+                "eta": null,
                 "quantity": 460
             }
         ],
-        "total_quantity": 460
+        "total_quantity": 463
     },
     {
         "category": "Uncategorized",
@@ -674,10 +698,14 @@
         "shipments": [
             {
                 "eta": null,
+                "quantity": 3
+            },
+            {
+                "eta": null,
                 "quantity": 260
             }
         ],
-        "total_quantity": 260
+        "total_quantity": 263
     },
     {
         "category": "Uncategorized",
@@ -686,10 +714,14 @@
         "shipments": [
             {
                 "eta": null,
+                "quantity": 10
+            },
+            {
+                "eta": null,
                 "quantity": 760
             }
         ],
-        "total_quantity": 760
+        "total_quantity": 770
     },
     {
         "category": "Uncategorized",
@@ -745,7 +777,7 @@
                 "quantity": 185
             },
             {
-                "eta": null,
+                "eta": "2026-12-28",
                 "quantity": 80
             }
         ],
@@ -757,7 +789,7 @@
         "description": "[SNOW WHITE] HYTE Y50 RGB CASE",
         "shipments": [
             {
-                "eta": null,
+                "eta": "2026-12-28",
                 "quantity": 600
             }
         ],
