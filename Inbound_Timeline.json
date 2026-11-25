@@ -33,6 +33,14 @@
     },
     {
         "group": "Out of Stocks",
+        "sku": "ACC-HYTE-LK-Y7TTI-BB",
+        "description": null,
+        "communicated_date": null,
+        "shipments": [],
+        "total_quantity": 0
+    },
+    {
+        "group": "Out of Stocks",
         "sku": "ACC-HYTE-LK-Y7TTI-SM",
         "description": null,
         "communicated_date": null,
@@ -107,19 +115,6 @@
     },
     {
         "group": "Out of Stocks",
-        "sku": "ACC-HYTE-PCIE50-WW",
-        "description": "[SNOW WHITE] HYTE PCIE50 HYPER RISER",
-        "communicated_date": null,
-        "shipments": [
-            {
-                "eta": "2026-12-07",
-                "quantity": 540
-            }
-        ],
-        "total_quantity": 540
-    },
-    {
-        "group": "Out of Stocks",
         "sku": "ACC-HYTE-USB-HUB",
         "description": null,
         "communicated_date": null,
@@ -155,11 +150,11 @@
         "shipments": [
             {
                 "eta": "2026-11-30",
-                "quantity": 150
+                "quantity": 109
             },
             {
                 "eta": "2026-11-30",
-                "quantity": 109
+                "quantity": 150
             },
             {
                 "eta": "2026-12-07",

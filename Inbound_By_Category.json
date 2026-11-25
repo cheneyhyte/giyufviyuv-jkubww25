@@ -236,6 +236,18 @@
         "total_quantity": 120
     },
     {
+        "category": "PCIE50",
+        "sku": "ACC-HYTE-PCIE50-WW",
+        "description": "[SNOW WHITE] HYTE PCIE50 HYPER RISER",
+        "shipments": [
+            {
+                "eta": "2026-12-07",
+                "quantity": 540
+            }
+        ],
+        "total_quantity": 540
+    },
+    {
         "category": "Service Parts",
         "sku": "BX-Y70-006",
         "description": "CA-Y516 Y70 SAKURA MIKO-EB COLOR BOX",
