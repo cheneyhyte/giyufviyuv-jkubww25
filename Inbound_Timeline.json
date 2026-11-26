@@ -115,14 +115,6 @@
     },
     {
         "group": "Out of Stocks",
-        "sku": "ACC-HYTE-USB-HUB",
-        "description": null,
-        "communicated_date": null,
-        "shipments": [],
-        "total_quantity": 0
-    },
-    {
-        "group": "Out of Stocks",
         "sku": "CS-HYTE-Y40-MORI",
         "description": null,
         "communicated_date": null,
